@@ -1,8 +1,8 @@
 import sys
 
 import db
-import scielo
 import transform
+from repos import scielo
 
 if len(sys.argv) <= 1:
     print("arguments required")
@@ -12,11 +12,7 @@ mode = sys.argv[1]
 
 match mode:
     case "sync":
-        if len(sys.argv) >= 3:
-            page_from = int(sys.argv[2])
-            scielo.sync(page_from)
-        else:
-            scielo.sync()
+        scielo.run()
 
     case "transform":
         print("run transform")
@@ -31,5 +27,3 @@ match mode:
 
     case _:
         print(f'unknown mode: {mode}')
-
-text1 = ""
