@@ -61,3 +61,47 @@ def save_link_status(link: Link, status: str):
         SET status = :status
         WHERE url = :url
     ''', {"url": link.url, "status": status})
+
+
+class Article:
+    def __init__(self, article_id: str, title: str, country: str, journal: str, pub_year: int):
+        self.id = article_id
+        self.title = title
+        self.country = country
+        self.journal = journal
+        self.pub_year = pub_year
+
+
+def save_article(article: Article):
+    db.conn.execute('''
+        INSERT INTO articles (id, journal, title, country, pub_year)
+        VALUES (:id, :journal, :title, :country, :pub_year)
+    ''', {
+        "id": article.id,
+        "title": article.title,
+        "country": article.country,
+        "journal": article.journal,
+        "pub_year": article.pub_year
+    })
+
+
+class Content:
+    def __init__(self, article_id: str, lang: str, link: str | None, content: str):
+        self.article_id = article_id
+        self.lang = lang
+        self.link = link
+        self.content = content
+
+
+def save_contents(contents: list[Content], content_type: str):
+    for abstract in contents:
+        db.conn.execute('''
+            INSERT INTO contents (article_id, type, lang, link, content)
+            VALUES (:article_id, :type, :lang, :link, :content)
+        ''', {
+            "article_id": abstract.article_id,
+            "lang": abstract.lang,
+            "type": content_type,
+            "content": abstract.content,
+            "link": abstract.link
+        })

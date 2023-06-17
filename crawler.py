@@ -23,7 +23,9 @@ class Crawler:
 
     async def start(self, link: Link):
         save_link(link)
-        self._session = aiohttp.ClientSession()
+        self._session = aiohttp.ClientSession(
+            timeout=aiohttp.ClientTimeout(total=60)
+        )
 
         while True:
             await asyncio.sleep(1)
@@ -58,7 +60,7 @@ class Crawler:
 
         exception = task.exception()
         if exception is not None:
-            print(exception)
+            print("bad happened", exception)
             status = "failed"
         else:
             self._enqueue(task.result())
