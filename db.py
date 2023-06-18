@@ -38,6 +38,7 @@ def setup():
             article_id text not null references articles (id) on delete cascade,
             type text not null,
             lang text not null,
+            format text not null,
             content text not null,
             link text references links (url)
         );

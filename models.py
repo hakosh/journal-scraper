@@ -95,22 +95,24 @@ def save_article(article: Article):
 
 
 class Content:
-    def __init__(self, article_id: str, lang: str, link: str | None, content: str):
+    def __init__(self, article_id: str, lang: str, link: str | None, content: str, format: str):
         self.article_id = article_id
         self.lang = lang
         self.link = link
+        self.format = format
         self.content = content
 
 
 def save_contents(contents: list[Content], content_type: str):
     for abstract in contents:
         db.conn.execute('''
-            INSERT INTO contents (article_id, type, lang, link, content)
-            VALUES (:article_id, :type, :lang, :link, :content)
+            INSERT INTO contents (article_id, type, lang, link, content, format)
+            VALUES (:article_id, :type, :lang, :link, :content, :format)
         ''', {
             "article_id": abstract.article_id,
             "lang": abstract.lang,
             "type": content_type,
             "content": abstract.content,
-            "link": abstract.link
+            "link": abstract.link,
+            "format": abstract.format
         })

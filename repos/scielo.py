@@ -65,8 +65,9 @@ def extract_from_item(item) -> (Article, list[Content]):
         abstract = Content(
             article_id=article_id,
             lang=lang,
+            link=None,
+            format="text",
             content=abstract_item.get_text(strip=True),
-            link=None
         )
 
         abstracts.append(abstract)
@@ -111,6 +112,7 @@ def process_article(link: Link, content_type: str, body: str) -> list[Link]:
             article_id=pid,
             lang=qs["tlng"][0],
             link=link.url,
+            format="html",
             content=body.encode('utf-8', 'ignore').decode('utf-8')
         )
 
@@ -131,7 +133,8 @@ def process_article(link: Link, content_type: str, body: str) -> list[Link]:
             article_id=pid,
             lang=qs["lang"][0],  # error suppressed
             link=link.url,
-            content=body.encode("utf-8", "ignore").decode("utf-8")
+            format="xml",
+            content=body
         )
 
         print(f'saved xml: {pid}')
@@ -177,4 +180,4 @@ def run():
     crawler = Crawler(repo="scielo", visit=visit, concurrency=4)
     entry = Link(url=get_page_url(3), repo="scielo", resource_type="index")
 
-    asyncio.run(crawler.start(entry), debug=True)
+    asyncio.run(crawler.start(entry), debug=False)
