@@ -5,7 +5,7 @@ import aiohttp
 from bs4 import BeautifulSoup
 
 from crawler import Crawler
-from models import Link, Article, Content, save_article, save_contents
+from models import Link, Article, Content, save_article, save_contents, reset_running, get_first_pending
 from retry import retry
 
 base_url = "https://search.scielo.org"
@@ -178,6 +178,12 @@ def get_page_url(page: int):
 
 def run():
     crawler = Crawler(repo="scielo", visit=visit, concurrency=4)
-    entry = Link(url=get_page_url(3), repo="scielo", resource_type="index")
+
+    reset_running()
+    entry = get_first_pending()
+    if entry is None:
+        entry = Link(url=get_page_url(3), repo="scielo", resource_type="index")
+
+    print("ENTRY", entry.url)
 
     asyncio.run(crawler.start(entry), debug=False)

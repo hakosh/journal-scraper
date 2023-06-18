@@ -64,6 +64,26 @@ def save_link_status(link: Link, status: str):
     ''', {"url": link.url, "status": status})
 
 
+def reset_running():
+    db.conn.execute('''
+        UPDATE links
+        SET status = 'pending'
+        WHERE status = 'running'
+    ''')
+
+
+def get_first_pending():
+    rows = db.conn.execute('''
+        SELECT url, repo, type, status
+        FROM links
+        WHERE status = 'pending'
+        LIMIT 1
+    ''')
+
+    url, repo, resource_type, status = list(rows)[0]
+    return Link(url=url, repo=repo, resource_type=resource_type)
+
+
 class Article:
     def __init__(self, article_id: str, title: str, country: str, journal: str, pub_year: int):
         self.id = article_id
