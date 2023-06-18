@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 
 from crawler import Crawler
 from models import Link, Article, Content, save_article, save_contents
+from retry import retry
 
 base_url = "https://search.scielo.org"
 
@@ -140,6 +141,7 @@ def process_article(link: Link, content_type: str, body: str) -> list[Link]:
     return links
 
 
+@retry(count=2)
 async def visit(session: aiohttp.ClientSession, link: Link) -> list[Link]:
     resp = await session.get(link.url)
     body = await resp.text()
