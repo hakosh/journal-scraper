@@ -88,7 +88,7 @@ def process_index(body: str) -> list[Link]:
         for url in item.select('div.versions > span > a'):
             if "sci_arttext" in url['href']:
                 links.append(
-                    Link(url=url['href'].replace('http://', 'https://'), resource_type="article", repo="scielo")
+                    Link(url=url['href'], resource_type="article", repo="scielo")
                 )
 
     if len(article_items) == 50:
@@ -105,8 +105,17 @@ def process_article(link: Link, content_type: str, body: str) -> list[Link]:
     qs = urllib.parse.parse_qs(url.query)
     pid = qs["pid"][0]
 
-    if content_type == "text/html":
+    if "text/html" in content_type:
         soup = BeautifulSoup(body, "html.parser")
+        content = Content(
+            article_id=pid,
+            lang=qs["tlng"][0],
+            link=link.url,
+            content=body.encode('utf-8', 'ignore').decode('utf-8')
+        )
+
+        print(f'saved html: {pid}')
+        save_contents([content], "body")
 
         if not (soup.find(id="article-body") or soup.find(id="s1-body")):
             print(f'return xml link: {link.url}')
@@ -115,22 +124,12 @@ def process_article(link: Link, content_type: str, body: str) -> list[Link]:
                 resource_type="article",
                 repo="scielo"
             ))
-        else:
-            content = Content(
-                article_id=pid,
-                lang=qs["tlng"][0],
-                link=link.url,
-                content=body.encode('utf-8', 'ignore').decode('utf-8')
-            )
-
-            print(f'saved html: {pid}')
-            save_contents([content], "body")
 
     else:
         print(f'trying to save xml: {pid}')
         content = Content(
             article_id=pid,
-            lang=qs["lang"][0],
+            lang=qs["lang"][0],  # error suppressed
             link=link.url,
             content=body.encode("utf-8", "ignore").decode("utf-8")
         )
@@ -175,7 +174,7 @@ def get_page_url(page: int):
 
 
 def run():
-    crawler = Crawler(repo="scielo", visit=visit, concurrency=5)
-    entry = Link(url=get_page_url(65), repo="scielo", resource_type="index")
+    crawler = Crawler(repo="scielo", visit=visit, concurrency=4)
+    entry = Link(url=get_page_url(3), repo="scielo", resource_type="index")
 
     asyncio.run(crawler.start(entry), debug=True)

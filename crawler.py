@@ -24,14 +24,12 @@ class Crawler:
     async def start(self, link: Link):
         save_link(link)
         self._session = aiohttp.ClientSession(
-            timeout=aiohttp.ClientTimeout(total=30)
+            timeout=aiohttp.ClientTimeout(total=15)
         )
 
         while True:
             await asyncio.sleep(1)
             self._poll()
-
-            print(f'pending: {len(self._pending)}')
 
             if len(self._pending) == 0 and count_pending(self._repo) == 0:
                 await self._session.close()
@@ -44,7 +42,6 @@ class Crawler:
     def _poll(self):
         count = self._concurrency - len(self._pending)
         links = get_links(self._repo, count)
-        print(f'added {len(links)} tasks')
         for link in links:
             task = asyncio.create_task(self._process(link))
             task.add_done_callback(self._done)
@@ -60,7 +57,6 @@ class Crawler:
 
         exception = task.exception()
         if exception is not None:
-            print("bad happened", exception)
             status = "failed"
         else:
             self._enqueue(task.result())

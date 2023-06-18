@@ -33,6 +33,7 @@ def get_links(repo: str, count: int) -> list[Link]:
             SELECT url
             FROM links
             WHERE repo = :repo AND status = 'pending'
+            ORDER BY ROWID
             LIMIT :count
         )
         RETURNING url, type, repo
@@ -72,7 +73,12 @@ class Article:
         self.pub_year = pub_year
 
 
+count = 0
+
+
 def save_article(article: Article):
+    global count
+
     db.conn.execute('''
         INSERT INTO articles (id, journal, title, country, pub_year)
         VALUES (:id, :journal, :title, :country, :pub_year)
@@ -83,6 +89,9 @@ def save_article(article: Article):
         "journal": article.journal,
         "pub_year": article.pub_year
     })
+
+    count += 1
+    print(f'saved article #{count}')
 
 
 class Content:

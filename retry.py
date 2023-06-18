@@ -8,7 +8,9 @@ def retry(count=3):
             attempt = 0
 
             while True:
-                print(f'trying - attempt #{attempt}')
+                if attempt:
+                    print(f'trying - attempt #{attempt}')
+
                 try:
                     return await fn(*args, **kwargs)
                 except (ServerDisconnectedError, TimeoutError) as error:
