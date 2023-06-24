@@ -1,7 +1,7 @@
 import sys
 
 import db
-import transform
+import transform_old
 from repos import scielo
 
 if len(sys.argv) <= 1:
@@ -16,7 +16,7 @@ match mode:
 
     case "transform":
         print("run transform")
-        transform.run()
+        transform_old.run()
 
     case "setup-db":
         print("setup db")
