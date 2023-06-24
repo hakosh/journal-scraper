@@ -24,7 +24,7 @@ class Crawler:
     async def start(self, link: Link):
         save_link(link)
         self._session = aiohttp.ClientSession(
-            timeout=aiohttp.ClientTimeout(total=15)
+            timeout=aiohttp.ClientTimeout(total=20)
         )
 
         while True:

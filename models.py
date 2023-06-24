@@ -72,7 +72,7 @@ def reset_running():
     ''')
 
 
-def get_first_pending():
+def get_first_pending() -> Link | None:
     rows = db.conn.execute('''
         SELECT url, repo, type, status
         FROM links
@@ -80,7 +80,12 @@ def get_first_pending():
         LIMIT 1
     ''')
 
-    url, repo, resource_type, status = list(rows)[0]
+    rows = list(rows)
+
+    if len(rows) == 0:
+        return None
+
+    url, repo, resource_type, status = rows[0]
     return Link(url=url, repo=repo, resource_type=resource_type)
 
 

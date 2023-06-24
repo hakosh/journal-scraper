@@ -13,7 +13,7 @@ def retry(count=3):
 
                 try:
                     return await fn(*args, **kwargs)
-                except (ServerDisconnectedError, TimeoutError) as error:
+                except ServerDisconnectedError as error:
                     print(f'caught error: {type(error).__name__} {error}')
                     attempt += 1
 

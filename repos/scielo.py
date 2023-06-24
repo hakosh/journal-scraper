@@ -143,7 +143,7 @@ def process_article(link: Link, content_type: str, body: str) -> list[Link]:
     return links
 
 
-@retry(count=2)
+@retry(count=3)
 async def visit(session: aiohttp.ClientSession, link: Link) -> list[Link]:
     resp = await session.get(link.url)
     body = await resp.text()
@@ -177,12 +177,12 @@ def get_page_url(page: int):
 
 
 def run():
-    crawler = Crawler(repo="scielo", visit=visit, concurrency=4)
+    crawler = Crawler(repo="scielo", visit=visit, concurrency=6)
 
     reset_running()
     entry = get_first_pending()
     if entry is None:
-        entry = Link(url=get_page_url(3), repo="scielo", resource_type="index")
+        entry = Link(url=get_page_url(1), repo="scielo", resource_type="index")
 
     print("ENTRY", entry.url)
 
