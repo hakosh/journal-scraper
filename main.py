@@ -2,7 +2,7 @@ import sys
 
 import db
 import transform_old
-from repos import scielo
+from repos.scielo.download import download_scielo
 
 if len(sys.argv) <= 1:
     print("arguments required")
@@ -12,7 +12,7 @@ mode = sys.argv[1]
 
 match mode:
     case "sync":
-        scielo.run()
+        download_scielo()
 
     case "transform":
         print("run transform")

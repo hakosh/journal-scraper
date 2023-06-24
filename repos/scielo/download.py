@@ -176,7 +176,7 @@ def get_page_url(page: int):
     return base_url + "/?" + urllib.parse.urlencode(params) + "&" + journals_q + "&" + years_q
 
 
-def run():
+def download_scielo():
     crawler = Crawler(repo="scielo", visit=visit, concurrency=6)
 
     reset_running()
