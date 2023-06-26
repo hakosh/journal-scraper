@@ -8,10 +8,10 @@ conn.execute('''
 
 def setup():
     conn.execute('''
-        drop table contents_clean;
-        drop table contents;
-        drop table articles;
-        drop table links;
+        drop table if exists contents_clean;
+        drop table if exists contents;
+        drop table if exists articles;
+        drop table if exists links;
     ''')
 
     conn.execute('''
@@ -40,7 +40,9 @@ def setup():
             lang text not null,
             format text not null,
             content text not null,
-            link text references links (url)
+            link text references links (url),
+            
+            primary key (article_id, type, lang, format)
         );
     ''')
 
@@ -49,7 +51,10 @@ def setup():
             article_id text not null references articles (id) on delete cascade,
             type text not null,
             lang text not null,
-            lang_conf float not null,
-            content text not null
+            lang_det text not null,
+            lang_cnf float not null,
+            content text not null,
+            
+            primary key (article_id, type, lang)
         );
     ''')
