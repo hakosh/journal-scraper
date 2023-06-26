@@ -141,3 +141,54 @@ def save_contents(contents: list[Content], content_type: str):
             "link": abstract.link,
             "format": abstract.format
         })
+
+
+def get_uncleaned_contents(content_type: str, content_format: str) -> list[Content]:
+    results = db.conn.execute('''
+        SELECT c.article_id, c.type, c.lang, c.format, c.content, c.link
+        FROM contents c
+            LEFT JOIN contents_clean cc ON c.article_id = cc.article_id AND c.lang = cc.lang AND c.type = cc.type
+        WHERE c.type = :type AND c.format = :format AND cc.article_id IS NULL
+    ''', {
+        "type": content_type,
+        "format": content_format
+    })
+
+    contents = []
+
+    for result in results:
+        article_id, _, lang, content_format, content_text, link = result
+        content = Content(
+            article_id=article_id,
+            lang=lang,
+            format=content_format,
+            content=content_text,
+            link=link
+        )
+        contents.append(content)
+
+    return contents
+
+
+class CleanContent:
+    def __init__(self, article_id: str, content_type: str, lang: str, lang_det: str, lang_cnf: float, content: str):
+        self.article_id = article_id
+        self.type = content_type
+        self.lang = lang
+        self.lang_det = lang_det
+        self.lang_cnf = lang_cnf
+        self.content = content
+
+
+def save_clean_content(content: CleanContent):
+    db.conn.execute('''
+        INSERT INTO contents_clean (article_id, type, lang, lang_det, lang_cnf, content)
+        VALUES (:article_id, :type, :lang, :lang_det, :lang_cnf, :content)
+    ''', {
+        "article_id": content.article_id,
+        "type": content.type,
+        "lang": content.lang,
+        "lang_det": content.lang_det,
+        "lang_cnf": content.lang_cnf,
+        "content": content.content
+    })

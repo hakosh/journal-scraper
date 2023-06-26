@@ -1,8 +1,8 @@
 import sys
 
 import db
-import transform_old
 from repos.scielo.download import download_scielo
+from repos.scielo.transform import transform
 
 if len(sys.argv) <= 1:
     print("arguments required")
@@ -12,11 +12,12 @@ mode = sys.argv[1]
 
 match mode:
     case "sync":
+        print("run scielo")
         download_scielo()
 
     case "transform":
         print("run transform")
-        transform_old.run()
+        transform()
 
     case "setup-db":
         print("setup db")

@@ -84,13 +84,13 @@ def process_index(body: str) -> list[Link]:
     for item in article_items:
         article, abstracts = extract_from_item(item)
         save_article(article)
-        save_contents(abstracts, "abstract")
+        # save_contents(abstracts, "abstract")
 
-        for url in item.select('div.versions > span > a'):
-            if "sci_arttext" in url['href']:
-                links.append(
-                    Link(url=url['href'], resource_type="article", repo="scielo")
-                )
+        # for url in item.select('div.versions > span > a'):
+        #     if "sci_arttext" in url['href']:
+        #         links.append(
+        #             Link(url=url['href'], resource_type="article", repo="scielo")
+        #         )
 
     if len(article_items) == 50:
         page_num = int(soup.select_one("input[name='page']").attrs["value"])
@@ -119,13 +119,13 @@ def process_article(link: Link, content_type: str, body: str) -> list[Link]:
         print(f'saved html: {pid}')
         save_contents([content], "body")
 
-        if not (soup.find(id="article-body") or soup.find(id="s1-body")):
-            print(f'return xml link: {link.url}')
-            links.append(Link(
-                url=get_xml_url(link),
-                resource_type="article",
-                repo="scielo"
-            ))
+        # if not (soup.find(id="article-body") or soup.find(id="s1-body")):
+        #     print(f'return xml link: {link.url}')
+        #     links.append(Link(
+        #         url=get_xml_url(link),
+        #         resource_type="article",
+        #         repo="scielo"
+        #     ))
 
     else:
         print(f'trying to save xml: {pid}')
