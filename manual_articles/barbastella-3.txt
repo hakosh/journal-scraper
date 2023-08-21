@@ -1,0 +1,344 @@
+Introducción
+Las carreteras son infraestructuras cada vez más
+presentes en los paisajes actuales (Giulio et al. 2009),
+mejoran la comunicación humana y desempeñan un papel
+social importante en la sociedad de hoy en día (Trombulak
+& Frissell, 2000; Hawbaker et al 2004). Sin embargo,
+tienen una amplia gama de impactos ecológicos negativos
+en la vida silvestre (Abbott et al, 2012), además de destruir
+y degradar el hábitat natural (Forman et al., 2003), son un
+factor importante, causante de la pérdida de biodiversidad en
+todo el mundo (Giulio et al.2009).
+Se han realizado muchos estudios centrados en la
+mortalidad de mamíferos no voladores (Barthelmess &
+Brooks, 2010), aves (Gomes et al., 2008), anfibios (Eigenbrod
+et al., 2008) y reptiles (Woltz et al., 2008). No obstante, los
+murciélagos son especialmente vulnerables, debido a su gran
+movilidad y necesidad de recursos alimenticios dispersos
+en el paisaje, tienden a ponerse frecuentemente en contacto
+con las carreteras (Abott et al., 2012), sin embargo existen
+pocos estudios centrados en ellos (Bafaluy, 2000; Gaisler
+et al., 2009; Lesiński et al., 2011). De hecho, el estudio de
+mortalidad de las poblaciones de murciélagos en carreteras,
+es un campo relativamente nuevo en la conservación y la
+mayoría de la información procede de Europa oriental y
+central (e. g. Limpens et al , 2005; Lesiński, 2008; Gaisler
+et al., 2009; Kerth & Melber2009; Lesiński et al., 2011;
+Berthinussen & Altringham, 2012b). En América del Norte
+y el sur de Europa, la información sigue siendo muy escasa
+(González -Prieto et al., 1993; Bafaluy, 2000) y todavía no
+somos capaces de predecir los lugares exactos donde los
+murciélagos pueden hallarse particularmente amenazados o
+las especies que pueden estar en mayor riesgo (Lesiński et
+al., 2011). Otro impacto negativo descrito de las carreteras en
+los murciélagos, es la fragmentación del hábitat, en especial
+los que utilizan las estructuras naturales del paisaje como
+elementos de orientación (Limpens et al., 2005).
+El impacto de las carreteras sobre la vida silvestre,
+ha llevado a un mayor reconocimiento de la necesidad de
+construir estructuras que faciliten su cruce en seguridad
+(Trocmé et al., 2003; Beckmann et al, 2010). Varios
+estudios han investigado como los vertebrados no voladores,
+utilizan estructuras viales diseñadas para el drenaje u otros
+usos humanos (Ascensão & Mira, 2007) y los diseñados
+específicamente como puntos de cruce para la fauna
+(Clevenger & Waltho, 2000). Aunque los murciélagos
+también son conocidos por utilizar los pasos subterráneos
+para cruzar carreteras anchas (Bach et al., 2004; Kerth &
+Melber, 2009), raramente se incluyen en las investigaciones.
+Directrices nacionales para la mitigación de los impactos
+de tráfico en los murciélagos se han publicado en varios
+países, debido al estado de conservación comprometido y la
+protección jurídica de los murciélagos en Europa (Abott et
+al., 2012). Muchos de ellos recomiendan la implementación
+de pasos inferiores para facilitar el paso (Limpens et al.,
+2005, National Roads Authority, 2006; Highways Agency
+UK, 2008; Sétra, 2008). Sin embargo, el conocimiento del
+uso de estos pasos por los murciélagos sigue siendo muy
+limitado (Bach et al., 2004). La capacidad de volar en
+espacios reducidos es probablemente uno de los principales
+factores que determinan el uso de los pasos por debajo de la
+carretera (Abott et al., 2012). Los pasos inferiores, además
+de proporcionar a los murciélagos seguridad en el cruce de
+las carreteras, pueden también proporcionar refugios muy
+adecuados; como en los espacios en cornisas, los huecos en
+fachadas, las juntas de dilatación, los desagües, la superficie
+interior del arco de piedra y sus fisuras (Sétra, 2008). De
+hecho, la pérdida de refugios naturales debido al cambio y
+uso de la tierra, ha aumentado la importancia de los refugios
+artificiales y en algunos casos estos son esenciales para la
+supervivencia de muchas especies de murciélagos (Bat
+Conservation Trust, 2012). Por ello, el conocimiento sobre el
+uso de los pasos inferiores de carreteras es de clara relevancia
+práctica para la planificación de medidas específicas dirigidas
+a conservar las poblaciones de murciélagos (Abott et al.,
+2012).
+A pesar de los posibles efectos positivos que los
+pasos inferiores de carreteras puedan representar para los
+murciélagos, el impacto de estas estructuras permanece en
+gran parte sin cuantificar. Por ello este trabajo tiene como
+principal objetivo aportar información original y aumentar
+el conocimiento de la utilización de los pasos inferiores de
+carreteras por parte de los murciélagos, que podrán ayudar a
+la hora de poner en práctica medidas de mitigación eficientes
+para los murciélagos, en la construcción de carreteras.
+Metodología
+La información presentada en este artículo, es el
+resultado de los trabajos de campo realizados en los meses
+de agosto (detección acústica, captura y revisión de refugios)
+y diciembre (revisión de refugios) del año 2013 en los cinco
+pasos inferiores ubicados a lo largo de 8250m del tramo
+construido en 2005, de la carretera N212 (41º 18’ 58.23’’N;
+7º 28’ 28.58’’O), situada en el Norte de Portugal (Figura 1),
+Concelho de Alijó, a una altitud que varía entre los 800 y
+los 600 m.s.n.m.. Todos los pasos agrícolas inferiores están
+localizados en zona rural de uso agrícola y pastoreo, con
+estructuras lineales, como setos, muros de piedra y líneas de
+árboles que proporcionan conectividad para los murciélagos
+(Limpens & Kapteyn, 1991; Verboom & Huitema, 1997).
+Se realizaron sesiones de captura en los pasos inferiores.
+La captura se efectuó con redes de niebla de cinco bolsas
+(14mm), colocadas dentro de los pasos agrícolas inferiores
+y ajustadas a la dimensión (Vintulis & Šuba, 2010) de cada
+paso agrícola inferior. Las 5 sesiones de captura (una por
+paso) realizadas en agosto, tuvieron una duración de 3 horas,
+las de mayor actividad de murciélagos (Bat Conservation
+Trust, 2012). La identificación e los ejemplares capturados
+se realizó en mano, mediante la utilización de caracteres
+morfológicos y de dentición (Dietz & Helversen, 2004; Dietz
+et al., 2009); además, se tomaron datos sobre el sexo, así
+como las mediciones estándar de peso (±0.1 g) y longitud
+del antebrazo (±0,01 mm). Las redes fueron instaladas al
+anochecer (en el ocaso) y se revisaron cada 10 minutos,
+tomando nota de la hora de cada captura. Con el propósito
+de no duplicar datos, todos los individuos fueron marcados
+en el codo con esmalte de uñas (Gloza-Rausch et al., 2008;
+Stawski, 2012) después de ser procesados, fueron puestos en
+libertad, de inmediato.
+Las 5 estaciones de escucha (una por paso) realizadas
+en agosto, tuvieron una duración de 3 horas a partir del
+ocaso y fueron realizadas con detectores de ultrasonidos
+Pettersson Elektronik® AB Mod. D 240X, para grabar
+carretera en formato digital y en grabadoras Handy Recorder H2,
+las llamadas de ecolocación y las llamadas sociales (16
+bits/44,1 kHz). El análisis de las grabaciones se realizo con
+el programa informático BatSound 3.3.1®. Los registros
+grabados fueron transferidos al programa en formato Wave
+(.Wav), en una frecuencia de muestra de 44.1kHz, con 16
+bits/muestra y un número de muestras de la Transformación
+Rápida de Fourier de 1024. La identificación de las especies
+fue realizada teniendo en cuenta las siguientes variables:
+estructura del pulso; frecuencia inicial (Fi, kHz) y mínima
+(Ff, kHz); duración del pulso (D, ms); intervalo entre pulso
+(IPI, ms) y frecuencia máxima de energía (FMaxE, kHz).
+Los parámetros caracterizadores de cada una de las variables
+fueron comparados con los descritos en la bibliografía
+especializada (e. g. Barataud, 1996; Russo & Jones, 2002;
+Davidson-Watts et al., 2006; Rainho et al., 2011; Walters
+et al., 2012). Además de las variables indicadas para la
+identificación de los Pipistrellus, también se han tenido en
+cuenta las grabaciones con llamadas sociales.
+La revisión de refugios en los pasos agrícolas inferiores
+implicó una búsqueda previa de señales de murciélagos,
+como excrementos, manchas de orina y de las características
+potenciales de las fisuras, así como una revisión general
+de todas las fisuras con la ayuda de unos prismáticos y un
+frontal. Los murciélagos encontrados en las fisuras fueron
+contabilizados e identificados mediante el uso de un
+endoscopio (Andrew et al., 2013) flexible con pantalla LCD
+(PCE, modelo DE25).
+Características de los pasos
+Todos los pasos tienen una arquitectura tipo bóveda
+(Figura 2) con dimensión media de 9 m de anchura (C), 4,25
+m de altura (B) y 34 m de profundidad (A) (Tabla 1). Se trata
+de pasos inferiores destinados al cruce de caminos agrícolas
+con baja intensidad de tráfico o vías pecuarias. La base del
+paso es en sustrato natural (tierra) y las bandas laterales no
+están pavimentadas, lo que puede favorecer su uso como
+pasos de fauna. Los cinco pasos en estudio son los únicos
+pasos inferiores existentes a lo largo de los 8250m del tramo
+nuevo (construido en 2005) de la carretera N212, que resulta
+en una razón de 0,6 pasos/km.
+La caracterización de la ocupación del suelo (Figura 3)
+fue realizada con base en la “Carta de Uso e Ocupação do
+Solo Para Portugal Continental” de 2007 (COS2007), así
+la ocupación del suelo en un buffer de 1Km de la carretera
+es caracterizada por áreas agrícolas, constituidas por
+cultivos de secano (principalmente patata y maíz ), viñedos,
+pstizales, matorral constituido principalmente por carquesa
+(Pterospartum tridentatum), escobas (Cytisus sp), bosques
+mixto de melojo (Quercus pyrenaica), castaños (Castanea
+sativa), bosque de coníferas de pinos (Pinus pinaster),
+además el área está ocupada por un pequeño embalse (61
+hectáreas) y el tejido urbano de la localidad de Alijó (2800
+habitantes).
+Resultados
+Uso de los pasos inferiores para cruzar
+la carretera
+Los resultados de los 208 registros acústicos y de las 72
+captura de murciélagos, permitieron confirmar el cruce de
+la carretera a través de los pasos inferiores por parte de 12
+especies (Pipistrellus pipistrellus, P. kuhlii, P. pygmaeus,
+Myotis daubentonii, M. escalerai, M. myotis, Nyctalus
+leisleri, Plecotus austriacus, Rhinolophus ferrumequinum,
+R. hipposideros, R. mehelyi/R. euryale –probablemente
+R.euryale- y Eptesicus serotinus/E. isabellinus –
+probablemente E. serotinus-) y la posibilidad de 4 más (P.
+auritus, M. blythi, R. mehelyi y E. isabellinus) (Tabla 2).
+P. pipistrellus y el P. pygmaeus fueron las únicas especies
+que utilizaron todos los paso inferiores, por lo contrario M.
+daubentonii, M. escalerai, M. myotis y N. lelsleri fueron
+las especies capturadas que utilizaron solamente un paso
+inferior (paso II, IV, II y I, respectivamente), mientras que R.
+hipposideros, M. myotis/M. blythii y P. auritus/P. austriacus,
+fueron detectadas acústicamente también en un solo paso
+inferior (paso IV, I y V, respectivamente) (Tabla 2).
+Los resultados obtenidos demuestran que los pasos
+I, IV y V fueron los que presentaron una mayor riqueza
+específica, con un mínimo de 7 y máximo de 10 especies,
+estos pasos tienen como tipo de uso de suelo dominante
+áreas agrícolas y viñedos, respectivamente. Por el contario
+los pasos (II y III) cuyo tipo de uso de suelo dominante es el
+matorral, demostraron, ser utilizados por un menor número
+de especies, 6 y 4 respectivamente (Tabla 2 y Tabla 1). No
+obstante, el número de especies no mantiene una proporción
+similar con el índice de actividad (número de cruces), ya que
+por ejemplo en el paso I, con un número de especies elevado
+(8-10) se obtuvo el índice de actividad más bajo de todos, con
+16 cruces/hora. Los datos de índice de actividad apuntan para
+una proporcionalidad con la Longitud del paso, de hecho los
+pasos con mayor longitud (II, IV y V) (Tabla 1) presentar una
+mayor índice de actividad (Tabla 2) e por lo contrario, los
+pasos más cortos (I y III) (Tabla 1) presentan un número de
+cruces más reducido (Tabla 2).
+Uso de los pasos inferiores como refugio
+La inspección y revisión de refugios en los 5 pasos
+inferiores en agosto e diciembre han permitido constatar la
+presencia de por lo menos 4 especies; M. daubentonii (Figura
+4), M. myotis, N. leisleri (Figura 6) y P. austriacus) (Figura
+8), a las que habría que añadir al menos dos especies más
+(Tabla 3) de los géneros Eptesicus (Figura 5) y Pipistrellus
+(Figura 7), cuyos individuos no han podido ser identificados
+a nivel de especie.
+La presencia del M. myotis y M. daubentonii, solamente
+ha podido ser confirmada en la visita de Agosto, mientras
+que Eptesicus sp, por el contrario, solo se ha observado
+refugiado en los pasos inferiores en la visita de Diciembre.
+P. austriacus, N. leisleri y Pipistrellus sp. utilizaron como
+refugio los mismos pasos inferiores en ambos periodos (agosto
+e diciembre) (Tabla 3). Todas las especies observadas se
+refugiaban de forma aislada, aunque en ocasiones, Pipistrellus
+sp. constituyeron pequeños grupos de 3-6 individuos o bien
+aislados.Todos los individuos fueron observados en fisuras
+con una anchura mínima de 1,2 y máxima de 1,9 cm (Tabla 4
+y Figura 9), los Pipistrellus sp. ocupaba fisuras más estrechas
+(1,2-1,4 cm) y las demás especies fisuras más anchas (1,4-
+1,9 cm), con una profundidad que variaba entre 17 y 22 cm,
+indistintamente de la especie.
+Discusión
+El presente trabajo ha permitido comprobar la
+utilización de los pasos inferiores por al menos 12 especies
+de murciélagos (P. pipistrellus, P. kuhlii, P. pygmaeus,
+M. daubentonii, M. escalerai, M. myotis, N. leisleri, P.
+austriacus, R. ferrumequinum, R. hipposideros, R. mehelyi/
+R. euryale y E. Serotinus/E. isabellinus). La distribución
+del Eptesicus serotinus y E. isabellinus en la Península
+Ibérica es de origen alopátrica (Ibáñez et al., 2006). Los
+individuos del sur pertenecen a la especie E. isabellinus,
+y las poblaciones del Norte pertenecen a la especie E.
+serotinus (Ibáñez et al., 2006; Juste et al., 2009), pero existe
+una zona de contacto entre ambas especies, que hasta el
+momento, no es claramente conocida, ni sus límites ni su
+dimensión (Lisón et al., 2010). Así, y a pesar de que E.
+isabellinus fue recientemente identificado en el Norte de la
+Beira Interior de Portugal (Barros, 2011), las grabaciones
+acústicas de este género fueron consideradas como Eptesicus
+serotinus/E. isabellinus. Teniendo en cuenta la localización
+del área de estudio, lo más probable es que los individuos
+detectados pertenezcan a E. serotinus. Lo mismo ocurre con
+la determinación de la especie de Rhinolophus euryale/R.
+mehelyi, aunque probablemente la llamada de ecolocación
+registrada pertenezca a R. euryale, ya que R. mehelyi en el
+Norte de Portugal es escasa y está desapareciendo en gran
+parte de su área de distribución (Flaquer et al. 2010, Lisón et
+al. 2010, 2011).
+No obstante, la poca antigüedad de esta carretera (8 años),
+las 12 especies que utilizan estos pasos representan cerca del
+50% de las especies presentes en Portugal Continental, lo
+que representan una elevada diversidad, cuando comparado
+con estudios similares (Kerth & Melber, 2009; Abbott et al.,
+2012). El alto índice de actividad (número de cruces) y la alta
+diversidad de especies registradas parecen indicar un elevado
+grado de adaptación de los murciélagos a estas estructuras.
+La buena densidad de los pasos en el tramo estudiado (0,6
+pasos/km) permite una mayor permeabilidad (Ascensão &
+Mira, 2007), lo que podría explicar la intensidad de uso y
+riqueza específica observada en estos pasos. No obstante de
+estos resultados, habría que discernir si los datos sugieren
+un elevado grado de adaptación o simplemente un uso en la
+misma intensidad que el resto del entorno, lo que necesitaría
+la realización de estudios más amplios y detallados de la
+actividad e riqueza de murciélagos en los entornos de los
+pasos. De hecho, en Alemania se verifico que las captura en
+los pasos inferiores eran significativamente más elevadas en
+algunas especies que en los entornos, lo que sugiere que la
+eficacia de cruce en los pasos inferiores, puede ser mayor
+para algunas especies (Kerth & Melber, 2009) y en Irlanda,
+se observó la tendencia a volar a través de los pasos inferiores
+en lugar de sobre la carretera, lo que sugiere un grado de
+adaptación de las especies (Abbott et al., 2012).
+La arquitectura del tipo bóveda, es utilizada por un gran
+número de especies (Sétra, 2008; Abbott et al., 2012), de
+hecho la relación entre sección de cruce y longitud del paso
+es de extrema importancia para su utilización por parte de los
+murciélagos (Limpens et al., 2005). La luminosidad dentro
+de un paso tiene un efecto contrario, incluso para especies
+que normalmente se alimentan en torno de iluminación
+artificial, como por ejemplo los Pipsitrellus (Limpens et al.,
+2005). La mayoría de los murciélagos tienen una grande
+capacidad de volar en espacios confinados (Abbott et al.,
+2012) y evitan espacios amplios y abiertos, visto que se
+sienten más vulnerables a los predadores (Limpens et al.,
+2005). De hecho los datos de índice de actividad apuntan
+para una proporcionalidad con la longitud del paso, los con
+mayor longitud (II, IV y V) y consecuentemente los más
+oscuros presentar una mayor índice actividad, lo que reflecte
+una propensión de cruce en los pasos de “openness” de 1 o
+próximo.
+En los hábitats terrestres el aumento de la urbanización
+tienen en general un efecto negativo en la riqueza de las
+especies, aunque este patrón no es universal (McKinney,
+2008), de hecho, la proximidad de los pasos I, IV y V a
+zonas urbanizadas pudo tener influencia en la diversidad
+de las especies y en la presencia de especies consideradas
+antropófilas (e.g. M. escalerai, P. austriacus, Eptesicus sp
+o Rhinolophus sp.). El índice de actividad de murciélagos
+(cruces/hora) registrado en los pasos inferiores fue variable
+entre estos, pero se encuentra recogido en otros estudios (e.g.
+Bach et al., 2004; Kerth & Melber, 2009; Abbott et al., 2012;
+Berthinussen & Altringham, 2012a).
+Muchas estructuras construidas en carreteras, como pasos
+inferiores, viaductos y puentes tienen un impacto positivo,
+proporcionando nuevos abrigos para los murciélagos (Limpen
+et al., 2005, Seiler & Helldin, 2006; Ceľuch & Ševčík, 2008;
+Highways Agency UK, 2008; Sétra 2008; Am==orim et
+al., 2013; Medinas et al., 2013), además, muchas especies
+demuestran una alta fidelidad a los refugios (Racey & Swift
+1985; Entwistle et al., 2000; Senior et al., 2005; Dietz et
+al., 2009). De hecho, en este trabajo se ha confirmado que
+los pasos inferiores son utilizados como refugio al menos
+por 6 especies (M. daubentonii, M. myotis, N. leisleri y P.
+austriacus, Eptesicus sp. y Pipistrellus sp.), estos resultados,
+se deben principalmente, a la cantidad de fisuras con anchura
+de 1,2-1,9 mm existentes entre las piezas prefabricadas del
+hormigón que representan refugios potenciales.
+En conclusión, la importancia que estas estructuras
+representan para los murciélagos como paso o refugio, resulta
+fundamental como medida de conservación y a la hora de su
+implementación, deben ser tenidas en cuenta características
+como la longitud de los pasos y la cantidad de fisuras con
+anchura adecuadas para el refugio de murciélagos. Por
+último, creemos muy necesaria la realización de estudios
+más detallados que profundicen el conocimiento de la
+utilización de los quirópteros de estas estructuras así como
+sus características físicas, su entorno y en otras carreteras.

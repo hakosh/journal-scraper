@@ -1,0 +1,159 @@
+Introducción
+El pueblo de Cueva de Ágreda (Soria) debe su nombre a la
+presencia de una conocida cavidad en sus inmediaciones. La
+boca de la cueva se sitúa a 1.340 m de altitud, en la ladera
+SO del Moncayo (UTM-X: 592.432, UTM-Y: 4.624.230 del
+uso 30T). Se trata de una cavidad relativamente pequeña
+(aproximadamente 200 m de longitud total) y de recorrido
+horizontal. Las salas de su interior son generalmente bajas,
+salvo la más interior, que alcanza los 8 m de altura. La
+cueva se ha utilizado regularmente como corral para ganado
+hasta finales del siglo XX. El lugar es fácilmente accesible
+y ha sido visitado por numerosas personas, de lo cual dan
+testimonio las frecuentes señales encontradas en su interior
+así como las abundantes formaciones rotas que se aprecian
+en todo su recorrido.
+
+Probablemente esta cavidad ha albergado colonias de
+quirópteros desde tiempos remotos, como lo atestiguan
+numerosas manchas en varias zonas del techo. A finales
+del siglo pasado, cuando ya se tenía conocimiento de la
+importancia de la cueva como refugio de murciélagos, se
+redactó un proyecto para “poner en valor” la cueva y hacerla
+visitable para turistas. Desde el Servicio Territorial de
+Medio Ambiente, y de acuerdo con las recomendaciones del
+Programa Life “Actuaciones prioritarias para la protección
+de los quirópteros en zonas de interés comunitario de Castilla
+y León”, se consiguió desestimar dicho proyecto. Asimismo,
+con el consentimiento del ayuntamiento, se instaló una verja
+para impedir el paso de personas, dejando libre la parte
+superior de la entrada con la intención de permitir el paso de
+los murciélagos. Además, y en colaboración con el grupo de
+desarrollo rural, se colocaron unos carteles interpretativos en
+el exterior de la cueva. Para ello se contó con el asesoramiento
+de J. Benzal.
+Los datos precisos existentes hasta la fecha, son escasos y
+recientes: Benzal (1998) revisa la cavidad periódicamente
+en ese año y encuentra tres especies (Rhinolophus
+ferrumequinum, Rhinolophus hipposideros y Miniopterus
+schreibersii); las dos primeras en escaso número (1-16
+ejemplares) y la tercera, formando una agrupación de 600-
+700 ejemplares en mayo y 69 en noviembre. Martínez
+y Calvo (2001) comprueban el mantenimiento de la
+agrupación en 2001, mientras que Meijide (2003) observa
+un descenso a 280 individuos en 2002. Comprueba además
+la presencia ocasional de entre 1 y 6 ejemplares de Myotis
+myotis. Posteriores visitas de los Agentes Medioambientales
+comprueban nuevos descensos a 200 murciélagos de cueva
+en 2007 y 100 en 2008 y 2009 (datos ofrecidos por el Servicio
+Territorial de Medio Ambiente de la Junta de Castilla y León).
+Ver figura 1. En ninguna ocasión se han hallado colonias de
+cría ni de hibernación.
+Ante las frecuentes molestias que sufrían los murciélagos por
+la entrada de gente y ganado, a finales de 2001 se instaló
+en la boca de la cavidad, una verja de hierro que impidió
+definitivamente el acceso al interior. La verja tapaba las ¾
+partes de la boca, dejando un espacio libre y triangular en la
+parte superior, de aproximadamente 3,5 m de ancho por 1 m
+de alto (Figs 2 y 3).
+A la vista de la disminución del número de ejemplares, la
+Diputación de Soria, con la asistencia técnica del Servicio
+Territorial de Medio Ambiente, diseñó un proyecto de
+recuperación y puesta en valor de las poblaciones de
+murciélagos de cueva en el Moncayo soriano, que comenzó
+en 2009. Dentro de ese proyecto se enmarca el presente
+estudio que fue propuesto a SECEMU.
+Material y métodos
+La cavidad ha sido inspeccionada periódicamente entre
+diciembre de 2009 y diciembre de 2010. En estas visitas se
+han identificado y censado los individuos hallados (tabla
+1). El censo se ha realizado mediante inspección visual
+o fotografías cuando los individuos eran escasos y se
+encontraban descansando. En caso de hallarse más de 100
+individuos o que éstos estuvieran activos, el censo se ha
+realizado mediante grabaciones de vídeo con luz infrarroja
+y detector de ultrasonidos con sistema de división de
+frecuencias. Las grabaciones se han realizado en un estrecho
+pasillo del interior de la cavidad, cercano a la boca de salida.
+Ante la sospecha de que la verja constituyera un obstáculo
+para el paso de los murciélagos de cueva, en marzo de 2010
+se serró y retiró el tercio superior de la misma, dejando un
+vano triangular más amplio, de aproximadamente 7 m de
+ancho por 2 m de altura máxima. En mayo del mismo año se
+grabó además la salida de los quirópteros por dicho vano, con
+el objeto valorar el efecto de la verja.
+Además en diciembre de 2009 se colocó un data-logger
+(PCE-HT71) para medir en intervalos horarios, la
+temperatura y humedad relativa de la sala más profunda,
+donde suele refugiarse la colonia más numerosa. Este aparato
+ha registrado ambos parámetros hasta octubre de 2010.
+Resultados
+Se han identificado 5 especies de murciélagos en la cavidad,
+observándose un patrón diferente según especies: la presencia
+de R. ferrumequinum y R. hipposideros es prácticamente
+continua durante todo el año salvo en la época más cálida
+y las mayores cifras se encuentran en invierno. M. myotis
+y Plecotus austriacus son muy escasos y esporádicos. M.
+schreibersii se encuentra durante todo el año salvo en los
+meses más fríos. El máximo de esta especie ha alcanzado los
+447 ejemplares en octubre (tabla 1).
+La grabación de la emergencia de murciélagos en mayo,
+a través del espacio superior que dejaba la verja, permitió
+observar que todos los ejemplares salían por la parte inferior
+de dicho vano, pasando muy cerca de la reja. Esa zona de
+paso estaba ocupada anteriormente por la verja original que
+fue retirada en marzo.
+La temperatura de la sala interior de la cavidad ha
+permanecido prácticamente constante, oscilando entre 10,8 y
+12,6o
+C (x=11,2; s=0,3), mientras que la humedad relativa ha
+variado entre 77 y 95,2% (x=91,7; s=3,3).
+
+Discusión
+El aumento del número máximo de murciélagos de cueva
+en la agrupación de 100 a 447 ejemplares, indica que la
+colonia original de esta especie parece haber vuelto a utilizar
+la cavidad estudiada, al menos en otoño. Aunque la cifra no
+coincide totalmente con los 600-700 individuos mencionados
+anteriormente por Benzal (1998) y Martínez y Calvo (2001),
+es preciso matizar que el método de conteo que utilizaban
+dichos autores era la observación directa, que entraña un
+considerable margen de error. Además hay que considerar
+el episodio de mortalidad de esta especie, ocurrido en 2002
+(Quetglas et al. 2003; González-Álvarez y Paz 2004) que
+podría haber reducido la población original.
+La retirada de la parte superior de la verja ha ofrecido un
+mayor espacio de paso para los murciélagos. Es probable
+que ello haya posibilitado la vuelta de esta colonia, dado que
+Miniopterus schreibersii muestra una patente intolerancia de
+hacia las verjas (Moeschler 1995, Rodrigues y Palmeirim
+1996, Arthur y Lemaire 2000, Fernández 2003, Lucas 2007,
+Dietz et al. 2009). La grabación de los murciélagos saliendo
+por la zona que antes era ocupada por el enrejado, reafirma
+esa sospecha. Teniendo en cuenta estos datos, se recomienda
+dejar un vano de al menos 2 m de altura al instalar verjas
+en cavidades con colonias de esta especie y similar tamaño.
+Cabe suponer que colonias de mayor número necesiten
+huecos de mayores dimensiones. La grabación realizada en
+Cueva de Ágreda ha animado a proponer la retirada total
+de la verja y su sustitución por un vallado perimetral. Este
+cambio se ha realizado recientemente (Fig. 4).
+Por otro lado, se ha modificado el uso de la cueva: la
+prohibición total de entrada a la cavidad provocó el rechazo
+de la población local a este cierre. Actualmente se permite
+visitar la gruta a los habitantes Cueva de Ágreda, en dos días
+de julio. Ésta se realiza en pequeños grupos, en compañía
+de un Agente Medioambiental y no dura más de media hora.
+Todo ello minimiza las molestias a los pocos ejemplares
+presentes y como se observa en la estabilidad térmica
+del interior, no influye en el microclima de la cavidad.
+La actuación ejecutada ha incluido la realización de una
+actividad divulgativa dirigida a la población local y una
+jornada formativa para técnicos y agentes medioambientales.
+Además, y como parte del proyecto global de recuperación
+y puesta en valor, se han instalado tres cámaras de vídeo
+con iluminación infrarroja y se está habilitando un edificio
+multiusos en el pueblo, donde se podrá observar a los
+quirópteros sin ninguna molestia. Todo ello ha favorecido
+que el propio pueblo considere la cueva y sus murciélagos
+como un valor más a proteger y conservar.
