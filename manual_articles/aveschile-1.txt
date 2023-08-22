@@ -1,0 +1,440 @@
+El fuego es el mayor agente de perturbación en
+muchos ecosistemas (Brotons et al. 2005), considerado
+por algunos autores como el principal agente causante
+de la pérdida del hábitat, debido a la gran cantidad de
+hectáreas de vegetación que se queman anualmente
+(Venegas et al. 2009). Sin embargo, para los ecosistemas
+donde naturalmente ocurren incendios forestales, el fuego
+desempeña un papel importante en la mantención de la
+estructura y composición del bosque (González et al.
+2007). Todos los tipos de especies presentes en un bosque
+responden al fuego dependiendo de una serie de factores
+relacionados con los incendios, incluyendo la severidad
+del área quemada, el tamaño y la forma del incendio, la
+proximidad a los bosques no quemados, tipos de cobertura
+pre y post-incendio y el tiempo de duración del incendio
+(Kotliar et al. 2002).
+Para el caso de las aves, la composición del
+ensamble después de un incendio puede estar determinada
+por el tipo de vegetación antes del incendio, el manejo post-
+incendio y el contexto del paisaje (Zozaya et al. 2010).
+No obstante, la respuesta de las aves a la modificación del
+hábitat depende de los atributos de cada especie, pudiendo
+algunas especies no ser afectadas o incluso ser beneficiadas
+(Lantschner & Rusch 2007). Por ejemplo, Grigera y Pavic
+(2007), en un estudio realizado en el parque Nacional
+Nahuel Huapi, Argentina, encontraron que las especies
+que se alimentan en el suelo respondían positivamente
+a la perturbación producida por el incendio, observando
+una mayor diversidad de aves en los sitios quemados que
+en los no quemados. Venegas et al. 2009, en un estudio
+realizado un año después de ocurrido un incendio en la
+Reserva Malleco, evidencian un aumento en la abundancia
+de Troglodytes aedon en zonas más quemadas y una
+disminución en la abundancia de Aphrastura spinicauda,
+Elaenia albiceps y Scelorchilus rubecula en las zonas más
+afectadas por el incendio.
+En Chile, la ocurrencia de incendios forestales
+ha experimentado un incremento significativo en los
+últimos 25 años (Peña-Fernández & Valenzuela-Palma
+2004), superando en la última década los 6.000 incendios
+(CONAF 2012). Este incremento pareciera aún no
+alcanzar su punto máximo porque no se observa una
+declinación en el número de incendios a pesar de los
+esfuerzos realizados por los programas de prevención
+desarrollados por las empresas privadas y la Corporación
+Nacional Forestal (Peña-Fernández & Valenzuela-Palma
+2004). A nivel nacional, durante la temporada 2011 y
+2012, la superficie afectada por incendios fue de 34.305 y
+47.073 hectáreas de plantaciones forestales y vegetación
+natural, respectivamente (INE 2012). En Chile, los
+incendios forestales se inician alrededor de octubre o
+noviembre, cuando las condiciones climáticas favorecen
+la propagación del fuego, prolongándose hasta abril o
+mayo del año siguiente (Ministerio de Agricultura 2012).
+Entre los días 30 de diciembre de 2011 y 11
+de enero de 2012 se desarrolló el denominado incendio
+Pichiqueime, el cual se originó en el predio Panicalco
+(36º49’S; 72º34’O), propiedad de la empresa forestal
+CELCO, en la Región del Bío-Bío. Este siniestro destruyó
+una superficie de 26.640 hectáreas en las comunas de
+Florida, Quillón y Ránquil (Ministerio del Medio Ambiente
+2012) y afectó, entre otros, al Cerro Cayumanque ubicado
+en la Cordillera de la Costa de la Provincia de Ñuble, a
+764 msnm, al sur del curso inferior del río Itata (Ibarra-
+Vidal et al. 1998).
+El Cerro Cayumanque se encuentra incluido
+como sitio de prioridad urgente en lo que respecta a
+sitios de conservación de diversidad biológica en Chile
+(Muñoz et al. 1996, CONAMA 2002), ya que presenta un
+bosque caducifolio, comprendiendo 232 especies de las
+cuales 66 son endémicas (Muñoz et al. 1996). La fauna
+se encuentra representada por 129 especies, de las cuales
+20 son endémicas (CONAMA 2002). El Ministerio del
+Medio Ambiente (2012) indicó que el incendio que afectó
+al sector del Cerro Cayumanque consumió más de 1.000
+hectáreas de bosque nativo constituidas por renovales,
+bosque adulto/renoval denso y matorral arborescente en
+la Región del Bío-Bío. Puesto que este incendio podría
+tener importantes consecuencias sobre la avifauna local,
+el objetivo del presente estudio fue determinar cambios
+temporales tanto en la abundancia como en la riqueza de
+especies de aves en las zonas que fueron afectadas por el
+incendio.
+MATERIALES Y MÉTODOS
+Área de estudio
+El Cerro Cayumanque se ubica en la zona centro-
+sur de Chile, específicamente en la provincia de Ñuble en
+la Región del Bío-Bío, comprendiendo un área de 1.474
+ha. De éstas, el 97,5% resultó con algún grado de daño por
+el incendio (Ministerio del Medio Ambiente 2012). Esta
+área posee un clima templado cálido con estación seca de
+4 a 5 meses, con una temperatura media anual de 14,9
+ºC, y precipitación anual entre 700 a 1.000 mm. Desde su
+base hasta media altura este sitio ha sido objeto desde hace
+muchos años de un descontrolado uso agrícola y forestal,
+por lo que allí se encuentran plantaciones de pinos,
+aserraderos abandonados, caminos y senderos usados para
+la extracción de madera y tránsito de ganado. Esta presión
+le confiere una alta vulnerabilidad al bosque nativo
+remanente de la parte más alta al encontrarse rodeado
+de propiedades privadas, con casas y construcciones
+industriales que cada día va en aumento. En la cumbre se
+encuentran instalaciones de gran envergadura que sirven
+para todo tipo de comunicaciones satelitales, cuyo acceso
+es por medio de un camino con tráfico diario de todo tipo
+de vehículos (Rodríguez et al. 2009).
+Monitoreo de aves
+Pre incendio: entre los meses de septiembre
+y octubre del 2005 se realizaron tres monitoreos de
+aves en el Cerro Cayumanque, mediante un muestreo
+por conteos por puntos de radio fijo de 50 m (Bibby et
+al. 1992). Este método permite asegurar una razonable
+detección de las aves, aún cuando la vegetación sea densa,
+el dosel sea alto y exista gran nubosidad. Los puntos
+estuvieron separados entre sí por 250 m desde el centro
+del punto de monitoreo. Se seleccionaron 13 puntos de
+monitoreo siguiendo un transecto altitudinal. Los puntos
+1 y 2 (Fig. 1) correspondieron a sitios agrícolas, 3 al 6
+(Fig. 1) plantaciones de pino y del 7 al 13 (Fig. 1) bosque
+nativo. Los censos fueron realizados desde la salida del
+sol y hasta cuatro horas posteriores (Ralph et al. 1996).
+El muestreo comenzó inmediatamente al llegar al punto
+y duró 10 min. siguiendo las recomendaciones de Fuller
+& Langslow (1984). Durante el monitoreo se registraron
+todas las aves vistas y/o escuchadas dentro del área de
+muestreo. Los monitoreos fueron realizados durante el
+inicio de la estación reproductiva (septiembre y octubre de
+2005), ya que en este periodo las aves están más activas,
+emiten vocalizaciones y la tasa de detección es más alta y
+estable (Ralph et al. 1996).
+Post-incendio: nueve meses después de ocurrido
+el incendio Pichiqueime, entre septiembre y octubre del
+año 2012, se realizó un monitoreo de aves considerando
+los mismos puntos y metodología utilizada en el año 2005.
+Sin embargo, como el cerro presentaba distintos grados de
+alteración, los puntos de muestreo fueron agrupados en tres
+zonas (alterada, medianamente alterada y sin alteración),
+utilizando como referencia la clasificación realizada por el
+Ministerio del Medio Ambiente (2012) representado en la
+figura 1, donde la zona alterada (daño grave; puntos 1, 2,
+3, 5 y 6) correspondió a aquella donde el fuego calcinó la
+vegetación y existió mortalidad casi total de la vegetación,
+lo que corresponde a las áreas donde existían cultivos
+agrícolas y plantaciones forestales, en la base del cerro; la
+zona medianamente alterada (daño leve y medio; puntos
+4, 7 y 8) correspondió a la superficie donde el fuego
+afectó al suelo, sotobosque y copas de los árboles, donde
+la mortalidad arbórea es media, zona media del cerro. La
+cima del cerro (zona no alterada; puntos 9, 10, 11, 12 y
+13) no fue afectada por el incendio, cima del cerro. La
+zona alterada y medianamente alterada estaba compuesta
+principalmente por bosque nativo.
+Para cada una de las zonas se estimó la riqueza, abundancia
+media (promedio de los tres monitoreos) y la diversidad
+específica mediante el índice de Shannon-Wiener (H’).
+Para realizar las comparaciones de la avifauna pre-
+incendio con la registrada post-incendio, los puntos de
+monitoreo previos al incendio fueron agrupados en las
+mismas zonas que post-incendio.
+Las aves registradas fueron clasificadas en
+categorías tróficas de acuerdo a la información sobre dietas
+registradas por diversos autores (Pereyra 1927, Bucher
+& Nores 1973, López-Calleja 1995, Rozzi et al. 1996,
+Simeone et al. 1997, Estades 2001, Martin & Vukasovic
+2001, González-Acuña et al. 2003, De Juana et al. 2004,
+Martínez & González 2004, Tomasevic 2004, Jaramillo
+2005, Figueroa & González-Acuña 2006, Giraudo et al.
+2006, Gómez 2006, Takano & Castro 2007, Mesta et al.
+2011, Tellechea 2011).
+Muestreo de Vegetación
+Se realizó un muestreo de la vegetación para
+explicar las preferencias de hábitat de las aves observadas
+durante el monitoreo post-incendio. La estructura vertical
+de la vegetación se midió en parcelas circulares de 25
+m de radio, ubicadas en el mismo punto que el utilizado
+para el monitoreo de aves. En cada parcela se marcaron
+cuatro transectos con origen en el centro de la misma,
+siguiendo la dirección de los cuatro puntos cardinales
+(López de Casenave et al. 1995, Sarasola & Bragagnolo
+2005). En cada transecto se eligieron 10 puntos al azar,
+en cada uno de los cuales se registró la altura a la que
+cada especie vegetal tocó la vara telescópica de 8 m de
+altura. Para llevar a cabo el análisis de la cobertura de la
+vegetación de los diferentes estratos presentes en el área de
+estudio se utilizó la clasificación utilizada por Sarasola &
+Bragagnolo (2005): (1) graminoso-herbáceo, 0-0,5 m, (2)
+arbustal, 0,75-3,00 m, (3) sub-dosel, 3,25-6 m y (4) dosel.
+La cobertura vegetacional se expresó en porcentajes.
+Análisis de los datos
+Debido a que los datos de riqueza y abundancia
+no se distribuyeron de forma normal, para la comparación
+de la abundancia media y riqueza de especies entre las
+diferentes zonas pre y post-incendio se utilizó una prueba
+de rangos con signo de Wilcoxon. Para determinar si
+había diferencias significativas en la diversidad entre
+dos zonas se realizaron pruebas pareadas utilizando la
+prueba de t propuesta por Hutcheson (t = (Hi – Hj)/(SHi +
+SHj)^(0,5)), donde Hi y Hj representan el valor del índice
+de diversidad de los sitios i y j respectivamente mientras
+que SHi y SHj representan la varianza en la diversidad
+de los mismos sitios (Hutcheson 1970). Se utilizó un
+análisis de similitud (ANOSIM; Clarke & Warwick 2001)
+para evaluar las diferencias en la composición de especies
+entre la avifauna presente pre y post incendio. Se realizó
+un análisis de correlación de Spearman para evaluar la
+asociación entre el porcentaje de cobertura vegetacional
+y la abundancia y riqueza de especies post incendio. Los
+análisis estadísticos fueron realizados con el programa
+Biodiversity Professional versión 2 y JMP7.
+RESULTADOS
+Pre-incendio: a partir del monitoreo efectuado
+en el 2005 en el Cerro Cayumanque, se registró un total
+de 17 especies (Tabla 1). Las especies más abundantes
+en las tres zonas monitoreadas fueron E. albiceps y A.
+spinicauda, mientras que las especies menos abundantes
+fueron Sephanoides sephaniodes, Anairetes parulus,
+Zonotrichia capensis y Curaeus curaeus. La mayoría de
+las especies observadas correspondieron a insectívoras,
+seguidas de omnívoras, granívoras y nectarívoras (Tabla 1).
+Post-incendio: Se registró un total de 21 especies
+de aves (Tabla 1). Dos especies, Geranoaetus polyosoma y
+P. castaneus, no fueron consideradas dentro de los análisis
+por haberse registrado fuera de los puntos de muestreo.
+De las especies observadas, siete fueron insectívoras,
+siete granívoras, cinco omnívoras, una nectívora y una
+frugívora/granívora (Tabla 1).
+Al igual que el año 2005, la composición de
+especies del ensamble post-incendio estuvo dominada
+por E. albiceps, observada en todos los puntos de
+monitoreo, seguida de A. spinicauda y S. sephaniodes,
+las que estuvieron presentes en 12 (92,3%) y 11 sitios
+(84,6%), respectivamente. Por otra parte, las especies
+menos frecuentes fueron Phrygilus gayi y Leptasthenura
+aegithaloides, registradas en un sólo punto cada una
+(7,7%).
+Las especies más abundantes fueron E. albiceps
+y Zenaida auriculata y las especies raras en abundancia
+correspondieron a L. aegitaloides, Pygarrhichas
+albogularis, P. gayi, Xolmis pyrope, Colaptes pitius y
+Turdus falcklandii.
+La cobertura vegetacional entre las zonas alterada
+y medianamente alterada tuvo una composición dominante
+del tipo graminoso-herbáceo en comparación a la zona no
+alterada, donde la vegetación predominante fue de tipo
+dosel (Tabla 3). El análisis de correlación de Spearman
+indicó que no existe asociación entre el porcentaje de
+cobertura vegetacional y la abundancia media y riqueza
+de especies (p>0,05).
+Comparación entre la composición de avifauna
+pre y postincendio: Al comparar las abundancias medias
+de aves en la zona alterada, pre y post-incendio, se observó
+que esta aumentó significativamente post-incendio
+(p=0,003). La abundancia media observada en las zonas
+sin alteración y medianamente alterada, fue similar a la
+observada en las mismas zonas previo al incendio (p>0,05;
+Tabla 2).
+El análisis de similitud demostró que no existe
+diferencia significativa en la composición de especies entre
+ninguna de las tres zonas analizadas pre y post-incendio
+(Alterada 2005-2012: R=0,59, p=0,90; Medianamente
+alterada 2005-2012: R=0,44, p=18,68; Sin alteración:
+R=0,28, p=5,19). No obstante, la riqueza específica
+aumentó posterior al incendio, para las tres zonas
+evaluadas, sin embargo, esta diferencia no fue significativa
+(p>0,05). Con respecto a la diversidad de especies, esta
+fue menor previo al incendio para las tres zonas analizadas
+(Alterada H’=0,91; Medianamente alterada H’= 0,75; Sin
+alteración H’=0,73) que post-incendio (Alterada H’=1,12;
+Medianamente alterada H’= 1,05; Sin alteración H’=0,84),
+sin embargo, esta diferencia no fue significativa (p>0,05).
+De las especies avistadas el año 2005, no fueron
+registradas en 2012 Cinclodes patagonicus y Pteroptochos
+megapodius. Las especies que fueron registradas en 2012,
+pero no en la misma temporada en 2005 fueron Callipepla
+californica, P. albogularis, C. pitius, P. araucana y Z.
+auriculata (Tabla 1).
+DISCUSIÓN
+El incendio Pichiqueime afectó principalmente
+la base del Cerro Cayumanque cuya composición
+vegetacional estaba compuesta principalmente por
+plantaciones exóticas y zonas de cultivo, las que resultaron
+calcinadas. Sin embargo, se observó una recuperación
+rápida, encontrándose actualmente cubierto de
+vegetación graminosa-herbácea y arbustal. Esto provocó
+que se observara una mayor abundancia de especies
+granívoras y omnívoras que prefieren campos abiertos
+para alimentarse (Jaramillo 2005) como Z. capensis, E.
+albiceps, S. barbata, Milvago chimango, C. curaeus y
+Z. auriculata, las que fueron registradas tanto en la zona
+alterada y medianamente alterada. Pese a este efecto
+positivo del fuego sobre la abundancia, no existió una
+asociación significativa entre la cobertura vegetacional y
+la abundancia relativa y riqueza de especies, contrario a lo
+documentado por Marone (1990), en un estudio realizado
+en Mendoza (Argentina), quien encuentra asociación
+entre las aves que comen en el suelo y la disminución de
+la cubierta herbácea posterior a un incendio.
+Según indicó Grigera & Pavic (2007), se puede
+pensar que la asociación entre el sitio quemado y las
+aves que comen en el suelo se debería a una mayor
+disponibilidad de algunos recursos alimentarios en este
+sustrato. La alta abundancia media de Z. auriculata y P.
+araucana en el área quemada se debe a la mayor cobertura
+de arbustos que aporta mejores sitios de nidificación, ya
+que en los campos cercanos se desarrollan cultivos de
+cosecha que les proporcionan alimentación (Sosa et al.
+2010). Se ha documentado que Z. auriculata y D. diuca
+muestran preferencia por sitios quemados dominados por
+herbáceas, alimentándose principalmente de semillas y
+brotes de plantas (Marone 1990), debido probablemente a
+su mayor capacidad para explotar los recursos (herbáceas)
+liberados por el efecto del fuego (Marone 1990). Algo
+similar ocurre con M. chimango, ave rapaz diurna, en que
+su presencia en la zona alterada se podría deber a que es
+una zona abierta y a la presencia de un área de cultivo
+donde aprovecha los arados para alimentarse de pequeños
+invertebrados que quedan expuestos en la labranza
+(Leveau & Leveau 2002, Jaramillo 2005).
+La codorniz fue exclusiva y abundante en el sitio
+quemado al igual que Diuca diuca. Ésta última aumentó
+su abundancia posterior al incendio. La presencia de estas
+aves en esta zona se debe a que son especies granívoras
+que se alimentan sobre el suelo y en el follaje (Milesi et
+al. 2002, Grigera & Pavic 2007, Sosa et al. 2010, Mesta
+et al. 2011). Z. capensis también se presentó con mayor
+abundancia en la zona alterada, aunque también estuvo
+presente, pero en menor abundancia relativa en la zona
+medianamente alterada, esto podría explicarse ya que
+esta especie al igual que las anteriores, habita próxima a
+huertos y zonas agrícolas, presentes en esta zona, donde
+encuentran lugares abiertos que las proveen de granos
+para alimentarse (Milesi et al. 2002, Araya & Millie 2005,
+Jaramillo 2005, Grigera & Pavic 2007).
+El aumento en la abundancia de insectívoros
+como Anairetes parulus y Tachycineta meyeni en la
+zona medianamente alterada post-incendio, se debería a
+que los espacios abiertos facilitarían la visualización de
+las presas y la maniobrabilidad requerida por el hábito
+cazador. Además, en los sitios afectados por incendios
+puede aumentar la abundancia de ciertas presas (Grigera
+& Pavic 2007). T. aedon sólo fue observado en la zona
+medianamente alterada posterior al incendio, la presencia
+de esta ave estaría favorecida por la presencia de áreas
+abiertas producto del incendio, lo que beneficiaría el
+forrajeo, ya que estas utilizan los arbustos quemados
+como puntos de vigilancia para la captura de insectos,
+aumentando las posibilidades de captura (Marone 1990).
+Además, la zona medianamente alterada posee mayor
+composición de tipo subdosel y dosel respecto a la zona
+alterada, existiendo especies de aves que se caracterizan por
+colonizar sitios como este en los cuales ha ocurrido algún
+tipo de destrucción o apertura del dosel.
+Los árboles más grandes o viejos, una alta
+cantidad de árboles muertos y una alta riqueza de especies
+de árboles tienen grandes poblaciones de aves y ensambles
+más diversos. Esto explica la mayor riqueza específica
+de la zona medianamente alterada respecto a la zona no
+alterada (Moreira et al. 2003, Venegas et al. 2009). Esto
+concuerda con la hipótesis de perturbación intermedia
+(Connell 1978) que indica que la diversidad de especies
+puede ser mayor donde se presentan perturbaciones de
+frecuencia, superficie e intensidad intermedia. Grigera
+& Pavic (2007) demostraron que en sitios quemados
+quedaron fragmentos con la fisonomía original y algunas
+áreas donde la vegetación herbácea se enriqueció con el
+ingreso de especies exóticas.
+El gremio dominante en la zona no alterada fue
+el de los insectívoros quienes se alimentan primariamente
+sobre el follaje, sobre las ramas y troncos en pie,
+desapareciendo o reduciéndose drásticamente en los sitios
+que quedaron prácticamente sin árboles y arbustos debido
+a estas perturbaciones (Milesi et al. 2002, Grigera & Pavic
+2007, Sosa et al. 2010). En la zona no alterada se observó
+una elevada abundancia de E. albiceps, pero también una
+alta frecuencia y abundancia en las otras zonas ya que
+ocupa diversos tipos de hábitats tales como matorrales,
+árboles y terrenos cultivados (Jaramillo 2005).
+El picaflor aumentó su abundancia en las tres
+zonas posterior al incendio, lo que podría explicarse
+porque al disminuir la densidad de plantación de pinos,
+se permite la recolonización de alguna vegetación nativa,
+lo que restaura en algo el hábitat perdido y conforma un
+sotobosque que permite una mayor oferta alimentaria
+de flores que se desarrollan frecuentemente en el estrato
+inferior del bosque (Muñoz-Pedreros et al. 1996, Venegas
+et al. 2009).
+Ciertas especies fueron registradas sólo en
+algunas zonas y en muy bajas abundancias respecto
+al ensamble de aves del cerro, por lo que no es posible
+comprobar si fueron afectadas por el incendio o si son
+exclusivas de algún tipo de vegetación. De estas especies,
+las pertenecientes al gremio de los insectívoros fueron X.
+pyrope, L. aegithaloides, P. albogularis y C. pitius. Estas
+dos últimas no fueron registradas pre incendio.
+Al gremio omnívoro pertenece T. falckandii y
+al gremio de los granívoros P. gayi, esta última especie
+tampoco fue registrada en la avifauna previo al incendio.
+Aún así, la presencia de comesebo grande y pitio en la zona
+no alterada, donde predomina la vegetación tipo dosel, se
+explicaría debido a que estas aves habitan principalmente
+zonas boscosas (Jaramillo 2005). Sosa et al. (2010),
+demostraron que las diferencias de ensambles de aves
+entre los ambientes se explicarían por los cambios de
+estructura de la vegetación de modo que la abundancia de
+frugívoros e insectívoros generalmente sería más sensible
+a los disturbios en los bosques, mientras que la abundancia
+de granívoros de suelo aumentaría generalmente en áreas
+modificadas, sin embargo, el estudio de Soza et al. (2010)
+fue llevado a cabo en un ecosistema muy diferente al
+de este estudio lo cual no implica que las aves debieran
+responder de la misma manera al fuego.
+El incendio no afectó considerablemente la
+composición, riqueza y diversidad de aves presentes en
+el Cerro Cayumanque, observándose valores similares
+antes del incendio y posterior a este, reafirmando lo
+que indica Moreira et al. (2003) acerca de que grandes
+incendios podrían realizarse sin efectos perjudiciales en la
+diversidad de aves. Respecto a la abundancia, esta aumentó
+posterior al incendio en la zona alterada, observándose
+este aumento en las aves granívoras, mientras que en la
+zona medianamente alterada, aumentaron las insectívoras,
+reafirmando lo descrito por Woltmann (2000) acerca de
+que la abundancia es mayor en el bosque alterado que en el
+intacto. Estos resultados también concuerdan con Venegas
+et al. (2009), quienes observan una relación negativa entre
+la riqueza y abundancia de aves con el nivel de daño,
+explicándose por la simplificación de la composición y
+estructura de la vegetación que queda tras un incendio. Sin
+embargo, Grigera & Pavic (2007) encuentran una menor
+abundancia de aves en sitios quemados, argumentando
+que esta se debería a la reducción de los sustratos de
+alimentación y a la modificación de la estructura de la
+vegetación por efectos del fuego.
+El incendio que afectó el Cerro Cayumanque
+modificó la estructura de la vegetación la cual se recuperó
+rápidamente en los meses posteriores al incendio, lo
+anterior sumado a la presencia de zonas de cultivos en
+la base del cerro podrían explicar por que el incendio no
+afectó significativamente la composición de aves en el
+Cerro Cayumanque.

@@ -1,0 +1,578 @@
+Introducción
+El oso hormiguero gigante (Myrmecophaga tri-
+dactyla; a partir de ahora referido como “hormiguero
+gigante”) es la mayor especie viviente de la familia
+Myrmecophagidae, llegando a medir más de 2 m y
+pesando hasta 50 kg (Redford & Eisenberg, 1992). Se
+distribuye desde Belice y el sur de México hasta el
+norte argentino, ocupando bosques lluviosos y secos,
+sabanas arboladas, pastizales abiertos y evitando re-
+giones de altura o con inviernos marcadamente fríos
+(Camilo Alves, 2003; Rodrigues et al., 2008). Se trata
+de una especie de reproducción tardía, alcanzando la
+madurez sexual alrededor de los dos años y medio
+(Nowak, 1999). Su dieta se basa casi exclusivamente
+en hormigas y termitas, variando la proporción ocu-
+pada por cada uno de estos grupos según la zona y,
+probablemente, la época del año (Montgomery, 1985;
+Redford, 1985; Shaw et al., 1987; Drumond, 1992;
+Medri et al., 2003).
+Myrmecophaga tridactyla está catalogada como
+Vulnerable globalmente –VU A2c– (IUCN, 2014)
+y en la Argentina (Superina et al., 2012). La especie
+está citada para todas las provincias del norte de
+la Argentina hasta llegar a Santa Fe, Santiago del
+Estero y el norte de Córdoba, incluyendo la provincia
+de Corrientes (Pérez Jimeno & Llarín Amaya, 2007;
+Chébez y Cirignoli, 2008). Igualmente se ha compro-
+bado la presencia actual de la especie en la selva at-
+lántica interior de la provincia de Misiones (Massoia
+et al., 2006). En la provincia de Corrientes, Chébez
+& Cirignoli (2008:33) recopilan una cita antigua de
+D’Orbigny (ca. 1830) y una referencia oral bastante
+confiable que indicaba la captura de un ejemplar en la
+Ea. Rincón de Las Mercedes sobre el río Uruguay, en
+el departamento de Santo Tomé en 1986, y la foto de
+un ejemplar en la zona de los esteros Batel y Batelito
+en la década del 1950, por lo que asumen como “muy
+probable su extinción en fecha reciente”.
+Dentro de su ámbito general de distribución se
+han identificado las siguientes amenazas más im-
+portantes: 1) pérdida y fragmentación de hábitat por
+transformación agrícola o urbana, incendios recu-
+rrentes o inundaciones para crear represas, 2) mortali-
+dad directa por incendios de grandes proporciones, 3)
+atropellamientos por automóviles, 4) cacería delibe-
+rada y 5) muerte de individuos asociada a conflictos
+con perros (Silveira et al., 1999; Aguiar, 2004). En lo
+que se refiere a la ecorregión de Iberá, ante la ausen-
+cia de información histórica detallada se puede inferir
+que la desaparición gradual de la especie fue motiva-
+da por una combinación de cacería (intencionada o
+incidental al entrar en conflicto con perros), muerte
+directa en incendios de pastizales y pérdida de há-
+bitat al ser sustituidos los pastizales naturales altos
+por praderas ganaderas. A esto se le suma una vul-
+nerabilidad asociada a que la región estaría situada
+cerca del límite sur de la distribución de la especie, lo
+que la haría más susceptible a las bajas temperaturas
+invernales.
+En el año 2006, The Conservation Land Trust
+(CLT) y la Dirección de Recursos Naturales de
+Corrientes acordaron realizar el “Plan de recupera-
+ción del oso hormiguero gigante en los Esteros de
+Iberá” (Jiménez Pérez, 2006), el cual tiene como meta
+“Establecer en el medio plazo una población de osos
+hormigueros gigantes que sea viable y autosostenible
+a largo plazo en su ambiente natural dentro de la re-
+gión de los Esteros de Iberá y áreas limítrofes”. De
+acuerdo con este plan, desde el año 2007 el personal
+de CLT ha liberado hormigueros gigantes dentro de
+la Reserva Natural Iberá, en la que sería la primera
+experiencia mundial destinada a restaurar una pobla-
+ción extinta de este mamífero.
+El propósito de este artículo es describir los prin-
+cipales resultados del proyecto, con énfasis en los
+siguientes aspectos: a) demografía de los animales
+reintroducidos medida en términos de abundancia,
+supervivencia y reproducción, b) origen biogeográ-
+fico de los ejemplares y su implicación en términos
+de biología de la conservación, y c) resultados de las
+pruebas serológicas y moleculares realizadas en la
+fase de cuarentena previa a las liberaciones.
+Materiales y Métodos
+Área de estudio
+Este estudio fue realizado en dos reservas priva-
+das propiedad de CLT situadas dentro de la Reserva
+Natural Iberá, Corrientes, Argentina (RNI) (Fig. 1).
+La Reserva Privada Rincón del Socorro (12.400 ha;
+28º38'6"S, 57º26'35"W) – llamada Socorro a partir de
+ahora – está ubicada en el sector oriental de la RNI.
+La vegetación de Socorro es una combinación de
+malezales (i.e., pastizales abiertos temporalmente
+inundados), sabanas arboladas, bosques hidrófilos
+y pantanos (CLT, 2012a). Esta reserva fue utilizada
+como estancia ganadera hasta el año 2000, cuando
+fue adquirida por CLT con fines de restauración y
+conservación, por lo que el ganado fue excluido de la
+propiedad. Socorro fue elegido como primer lugar de
+reintroducción de hormigueros gigantes en el Iberá
+por ser un área de conservación estricta (i.e., sin cace-
+ría), por su heterogeneidad de paisajes y por la facili-
+dad logística para el manejo y seguimiento de una po-
+blación de animales silvestres (Jiménez Pérez, 2006).
+La Reserva Privada San Alonso (11.384 ha; 28º18'18"S,
+57º27'14"W) – San Alonso a partir de ahora – es una
+lomada arenosa cubierta de pastizales abiertos, baña-
+dos y pequeños bosques situada en el centro-oeste de
+la RNI (CLT, 2012b). Esta reserva tuvo un uso gana-
+dero decreciente hasta el año 2013, cuando se retiró
+completamente el ganado con la excepción de unos
+10 caballos. San Alonso fue elegido como segundo
+lugar de liberación de hormigueros gigantes al care-
+cer también de cacería y por contar con abundantes
+pastizales altos y algunos bosques (Jiménez Pérez,
+2006).
+El clima de la RNI es subtropical, las tempera-
+turas medias del mes más frío (julio) varían entre 15
+y 16 ºC y en verano (enero y febrero) son de 27 a 28
+ºC. En el invierno se registran heladas entre mayo y
+septiembre, con un promedio de 5,2 heladas por año
+entre 1950 y 1990, y las precipitaciones pluviales me-
+dias anuales varían entre 1.500 y 1.800 mm (Neiff &
+Poi de Neiff, 2006).
+Con una extensión estimada en 13,000 km2 la RNI
+destaca como una de las regiones de Argentina con
+mayor vocación para mantener un ecosistema natural
+íntegro y viable a largo plazo (Parera, 2004; Heinonen,
+2007). Esta reserva tiene como característica determi-
+nante que alrededor del 40% de su extensión es de
+propiedad provincial (situada principalmente en las
+áreas de agua abierta o permanentemente inundadas),
+mientras que el resto – fundamentalmente las áreas
+de pastizal mejor drenadas, de bosques y sabanas que
+servirían como hábitat para los hormigueros gigantes
+– está bajo propiedad privada (Heinonen, 2007).
+Animales incorporados al proyecto: orígenes
+Entre el 2006 y agosto de 2015 el proyecto ha incor-
+porado 79 ejemplares con el fin de ser reintroducidos
+en el Iberá. Estos animales proceden originariamente
+de cinco provincias situadas en la región chaqueña de
+Argentina: Santiago del Estero (N=52), Salta (N=15),
+Formosa (N=7), Jujuy (N=2) y Chaco (N=2), más un
+ejemplar nacido en el Zoológico de Florencio Varela.
+Los animales incorporados al proyecto fueron: a)
+crías de hormigueros gigantes que quedaron huérfa-
+nas después de que alguien matara a su madre cuan-
+do todavía iban sobre su espalda (N=57); b) animales
+que fueron criados como los anteriores por un zoo-
+lógico o centro de rescate para luego ser donados al
+proyecto como adultos (N=10); c) animales adultos
+de vida silvestre que fueron entregados al proyecto
+por autoridades provinciales después de haber sido
+encontrados heridos (N=9); d) animales silvestres
+translocados desde su ambiente hacia las instala-
+ciones del proyecto (N=2); y e) un animal nacido en
+un zoológico. Con el fin de identificar la ecorregión
+de origen de los animales incorporados al proyecto,
+se ubicaron las localidades de origen de éstos sobre
+una capa de las ecorregiones de Argentina incluidas
+en el programa ArcGis Desktop 10.1 (Environmental
+Systems Research Institute, Redlands, USA).
+Manejo en cuarentena e instalaciones ex-situ
+En todos los casos, los animales pasaron por
+una fase de cuarentena antes de ser trasladados a su
+área de liberación. En esta fase se realizaron prue-
+bas serológicas para detectar anticuerpos en sangre
+frente a los siguientes patógenos: a) Brucella spp.:
+BPA (Buffered Plate Antigen) mediante aglutinación
+rápida en placa, SAT (Seroaglutinación en Tubo)
+mediante prueba lenta en tubo (Wright), 2ME (2
+Mercaptoetanol) y FPA (Polarización de luz fluores-
+cente); b) Leptospira interrogans: microaglutinación de
+Martin y Petit con diferentes antígenos vivos (sero-
+vares pomona, wolffi, tarassovi, icterohaemorragiae, cani-
+cola, grippotyphosa, pyrogenes, ballum, hardjo, bovis); c)
+Neospora spp.: diagnóstico IFI (inmunofluorescencia
+indirecta); d) Leishmania spp.: inmunocromatografía;
+e) Trypanosoma cruzi: HAI (Hemoaglutinación indi-
+recta; Wiener Lab, Rosario Argentina); f) Toxoplasma
+gondii: HAI (Hemoaglutinación indirecta) y HAI 2ME
+(Hemoaglutinación indirecta con 2-mercaptoetanol);
+y g) Virus del moquillo canino o CDV: reacción en
+cadena de la polimerasa en tiempo real (RT-PCR).
+Todas las pruebas excepto el moquillo canino fueron
+realizadas en el Centro de Diagnóstico Veterinario,
+mientras que la detección de presencia del virus del
+moquillo canino se realizó en el Centro de Virología
+Animal (CEVAN). Ambos laboratorios se encuen-
+tran ubicados en Ciudad Autónoma de Buenos Aires,
+Argentina.
+Además de estas pruebas, se realizaron análisis
+coproparasitológicos para identificar la presencia de
+parásitos intestinales. En algunos animales también
+se estudió la presencia de Cryptosporidium sp. en he-
+ces mediante inmunofluorescencia directa. En los ca-
+sos positivos donde se confirmó el tipo de parásito
+y se observaron síntomas en el animal (diarrea, dis-
+minución de peso, falta de apetito, etc.), se procedió
+al tratamiento con un antiparasitario adecuado para
+cada caso.
+En el caso de las crías se realizó la crianza artifi-
+cial hasta que alcanzaron la edad y el peso óptimos
+para su liberación, fijándose éste en aproximadamen-
+te 20 kg. La edad de liberación varió entre 10 y 18
+meses, realizándose las liberaciones al final de la pri-
+mavera, verano o principios de otoño. Los animales
+silvestres heridos incorporados al proyecto pasaron
+por una fase de cuidados intensivos y, en los casos de
+lesiones óseas (N=4), por sucesivas cirugías destina-
+das a restaurar estos daños.
+Pre-suelta, liberación y monitoreo in situ
+Una vez que los animales alcanzaban el estado
+sanitario correcto, evaluado mediante los resultados
+de las pruebas médicas, y mostraban una adecuada
+alimentación artificial y natural (depredación sobre
+hormigas), eran trasladados a corrales de pre-suelta
+situados en la misma reserva donde serían liberados.
+Después de pasar un mínimo de una semana en estos
+corrales, los hormigueros gigantes los abandonaban
+saliendo de manera autónoma o siendo trasladados
+en un cajón de transporte a lugares seleccionados en
+Socorro o San Alonso.
+Todos los animales liberados fueron dotados
+de un transmisor de VHF (MOD 400 y MOD 335;
+Telonics, Mesa, USA; ver Di Blanco et al., 2012), lo
+que permitió su localización a través de técnicas de
+radiotelemetría (White & Garrott, 1990) con el uso
+de receptores TR4 y antenas direccionales (Modelo
+R14K; Telonics, Mesa, USA). Su localización a través
+de rastreo (Samuel & Fuller, 1994) permitió su segui-
+miento regular y observación directa por técnicos del
+proyecto. Además, los animales fueron recapturados
+periódicamente luego de su liberación para evaluar
+su peso, estado general y ajustar, reemplazar o re-
+mover completamente el radio-arnés. En general los
+radio-arneses fueron quitados en los machos después
+de que pasaran dos inviernos en vida libre y se man-
+tuvieron en todas las hembras, a no ser que se des-
+prendiesen de éstas. Para inmovilizar a los animales
+se utilizó una combinación de tiletamina/zolazepam
+(Zelazol; Fort Dodge Sanidad Animal S.A., La Plata,
+Argentina) a dosis de 3-4 mg/kg IM (Deem & Fiorello,
+2002). Las drogas fueron administradas de mane-
+ra intramuscular mediante dardos de teleinyección
+(Dan-Inject, Børkop, Dinamarca), disparados con
+cerbatana de fabricación artesanal o con un rifle de
+precisión (Mod. 1M, No. 1122, Dan-Inject). Con el fin
+de complementar el monitoreo de los hormigueros
+gigantes, se ubicaron cámaras trampa en lugares se-
+leccionados junto a “cebaderos” especialmente dise-
+ñados para que sólo pudieran ser aprovechados por
+hormigueros gigantes. Estos cebaderos eran dotados
+regularmente del mismo licuado con que se alimentó
+a los hormigueros en las fases previas a su liberación
+(conteniendo, en general, alimento balanceado para
+gatos, fruta y agua). Las cámaras fueron colocadas
+en Socorro y no en San Alonso, ya que en el primer
+lugar se quitaron gradualmente los radioarneses a
+los hormigueros, tal y como se explica anteriormente.
+Luego de su liberación, la gran mayoría de los anima-
+les permaneció dentro de los límites de Socorro y San
+Alonso, evitando las áreas circundantes dedicadas a
+la ganadería (Di Blanco et al., 2015). Esto facilitó que,
+con el uso combinado de telemetría y cámaras tram-
+pa, fuera posible ubicar a la mayoría de los animales
+de Socorro y la totalidad de animales de San Alonso,
+verificar si estaban vivos, y comprobar posibles naci-
+mientos en vida silvestre.
+Resultados
+La supervivencia durante las fases previas a la
+liberación varió según el origen de los animales. Así,
+en el caso de los hormigueros gigantes que llegaron
+como crías huérfanas se logró que el 73% (N=57) so-
+brevivieran a las fases de recría y cuarentena. De los
+animales cautivos adultos el 100% (N=10) pasó por
+la fase de cuarentena y pudo ser trasladado al Iberá.
+Los dos hormigueros que fueron relocalizados des-
+de su hábitat silvestre fallecieron en las instalaciones
+de cuarentena a los pocos días de ser capturados y
+trasladados, probablemente debido al pobre esta-
+do nutricional con el que llegaron, sumado al estrés
+de la captura. Finalmente, de los animales adultos
+silvestres que llegaron heridos y tuvieron que pasar
+por un periodo de cuidados intensivos, que en algu-
+nos casos incluyó varias intervenciones quirúrgicas,
+el 67% (N=9) logró ser finalmente liberado. En total la
+supervivencia de los animales durante la fase de cua-
+rentena y cuidados intensivos previa a la liberación
+fue del 73% (N=79).
+En lo que se refiere a las pruebas realizadas du-
+rante la cuarentena, en ningún caso se detectaron anti-
+cuerpos neutralizantes frente a Brucella spp., Neospora,
+Mycobacterium, Trypanosoma cruzi o Leishmania spp.
+De 51 animales muestreados frente a anticuerpos de
+T. gondii, el 27% resultaron positivos. En el caso de
+Leptospira interrogans se muestrearon 56 ejemplares y
+en el 4% se detectaron anticuerpos.
+Para la detección de ADN del virus del moquillo
+canino se muestrearon 48 animales mediante la téc-
+nica de RT-PCR. De estos 48, 12 animales (25%) pre-
+sentaron resultados positivos a la presencia del virus
+en el primer chequeo. A 5 de ellos (10,4% de 48), no
+fue posible realizar un segundo chequeo para cons-
+tatar si negativizaron o no la presencia del virus. A 4
+(8,3%) se les realizó un segundo chequeo donde los
+resultados fueron negativos. Los 3 animales restantes
+de los 12 volvieron a dar positivo en el segundo che-
+queo, constatando la negativización recién en la ter-
+cera intervención (Tabla 1). La Tabla 1 resume los re-
+sultados de las pruebas realizadas. Los animales con
+presencia del CDV en sangre mostraron sintomato-
+logía inespecífica (anorexia, debilidad, decaimiento)
+pero no mostraron el cuadro clásico que se observa
+en otras especies.
+En relación al origen de los hormigueros gigan-
+tes liberados en el Iberá, todos ellos provinieron de
+diferentes localidades de la ecorregión del Chaco
+Seco, con la excepción de tres animales procedentes
+de la ecorregión del Chaco Húmedo y un macho ju-
+venil procedente de Libertador General San Martín
+en Jujuy en la frontera entre el Chaco Seco y la ecorre-
+gión de Yungas (Fig. 2).
+La Tabla 2 resume la dinámica poblacional de
+los hormigueros gigantes reintroducidos en Socorro
+y monitoreados mediante radio-seguimiento y cáma-
+ras trampa. El número de animales liberados en esta
+población fue aumentando gradualmente desde 2007
+hasta el 2013, cuando se decidió empezar a liberar
+en San Alonso. La primera cría nació en 2009 y poco
+a poco fue aumentando el número de hembras que
+dieron a luz hasta llegar a ocho ejemplares en agosto
+de 2015. Todas estas hembras, incluyendo a la libera-
+da en 2007, siguen con vida en Socorro. Desde que la
+especie comenzó a reproducirse en la zona, durante
+dos años el número de nacimientos fue equivalente
+al de muertes, en un año éstas superaron a aquéllos y
+durante cuatro años se observaron más nacimientos
+que fallecimientos. Los años 2011 y 2012 fueron los de
+mayor mortalidad en la población reintroducida. En
+este sentido el invierno del 2011 fue particularmen-
+te frío y se detectaron numerosas muertes de ciervos
+de los pantanos (Blastocerus dichotomus) y carpinchos
+(Hydrochaeris hydrochaeris) (Datos sin publicar de los
+autores). De las 27 crías nacidas en vida libre identifi-
+cadas en Socorro, sólo tres fallecieron antes de alcan-
+zar la edad de independencia estimada en los seis a
+siete meses de edad.
+A partir de 2013 y después de realizar cambios
+en el manejo de los animales en cautiverio y en vida
+libre (i.e., suplementación de comida en los primeros
+inviernos), el número de animales reintroducidos fa-
+llecidos disminuyó notablemente a pesar de haber
+más hormigueros gigantes en la población. En 2014
+el único animal fallecido fue una cría de pocos me-
+ses y durante los ocho primeros meses de 2015 no se
+identificó ningún animal muerto. Según la población
+fue aumentando, también aumentó el número de
+animales sin marcar – crías nacidas en vida silvestre y
+animales que se quitaban o a los que les quitábamos
+el radio-arnés – y así el grado de incertidumbre en la
+estimación de la población residente en Socorro fue
+incrementándose. Para agosto de 2015 se verificó con
+total certeza la presencia de 29 ejemplares. Además
+existirían al menos otros 17 animales conocidos que
+habían sido liberados o nacidos en la zona que al care-
+cer de radio-arnés o señas identificativas no pudieron
+ser identificados con total certeza mediante cámaras
+trampa. Con estos datos, estimamos una población
+mínima y máxima de 29 y 46 ejemplares, respectiva-
+mente, en Socorro para agosto de 2015. A esto habría
+que sumar las posibles crías de animales nacidos en
+Socorro, las cuales nunca pudieron ser identificadas.
+Las primeras liberaciones en San Alonso comen-
+zaron en la primavera austral de 2013. Para agosto
+de 2015 había en la zona 18 ejemplares, incluyendo
+dos crías nacidas a partir de hembras de entre dos y
+tres años de edad, sin que hubiera fallecido ningún
+ejemplar. De los 47 animales liberados en la Reserva
+Natural Iberá sólo 11 han fallecido, por lo que la su-
+pervivencia de aquéllos a lo largo de todo el proyecto
+ha sido del 76%. La supervivencia total – tanto en ma-
+nejo intensivo como en vida silvestre – de los indivi-
+duos con anticuerpos frente a Toxoplasma gondii fue
+del 71% y la de los animales inicialmente positivos a
+RT-PCR frente a moquillo canino fue del 33%.
+Discusión
+Existe un amplio consenso en que los mejores ani-
+males para un proyecto de reintroducción son anima-
+les silvestres con experiencia en vida libre (Jule et al.,
+2008; McCarthy et al., 2011). El “Plan de recuperación
+del oso hormiguero gigante en los Esteros de Iberá”
+se basó en la idea de que el proyecto se nutriera pre-
+ferentemente de estos animales y de ejemplares adul-
+tos cautivos. Sin embargo, las autoridades de fauna
+del norte argentino (Dirección General de Recursos
+Forestales y Medio Ambiente de Santiago del Estero;
+Dirección de Fauna, Parques y Ecología de Chaco;
+Subsecretaría de Recursos Naturales, Ordenamiento y
+Calidad Ambiental de Formosa; Secretaría de Gestión
+Ambiental de Jujuy; y Dirección de Conservación y
+Áreas Protegidas de Salta) no autorizaron la captura
+y traslado de animales silvestres desde su provincia
+hasta Corrientes, y en cambio autorizaron el rescate
+y traslado de crías huérfanas que aparecieron en di-
+ferentes parajes del Chaco argentino. Esto hizo que la
+gran mayoría de los animales incorporados a nuestro
+proyecto acabaran siendo ejemplares de escasos me-
+ses de edad que debían ser criados y cuidados por
+personal del proyecto hasta que alcanzasen el peso
+y la edad adecuados para vivir por sí solos. Así tuvi-
+mos que generar protocolos y capacitar personal para
+el manejo de crías de osos hormigueros.
+Con respecto al origen biogeográfico de los ani-
+males liberados, se logró minimizar el nivel de paren-
+tesco entre ellos al obtenerlos de múltiples lugares
+del norte de Argentina. Por otro lado, para minimizar
+eventuales problemas de depresión por exogamia
+(ver pág. 392 en Scribner et al., 2006; Frankham et al.,
+2011) ayudó que todos los animales provengan de la
+ecorregión del Chaco Seco, con la excepción de cuatro
+ejemplares que provienen de dos ecorregiones veci-
+nas a ésta. Estas dos ecorregiones (Chaco Húmedo y
+Yungas) muestran continuidad biogeográfica y ecoló-
+gica con el Chaco Seco al tratarse de áreas forestales
+adyacentes que carecen de barreras significativas al
+movimiento de la fauna entre sí (i.e., áreas de altas
+montañas o grandes cuerpos de agua). Esto último
+cumpliría con el criterio explicitado por Frankham et
+al. (2011) de no mezclar animales de poblaciones que
+llevan más de 500 generaciones separadas entre sí con
+el fin de evitar la depresión por exogamia. El uso de
+animales procedentes de diferentes lugares dentro de
+una región con continuidad ecológica y biogeográfica
+coincide con los lineamientos de la IUCN para rein-
+troducciones (ver Anexo 5.5.6 en IUCN/SSC, 2013).
+Después de años de experiencia práctica se fue
+mejorando el manejo de estos animales hasta el punto
+que en los últimos años sólo ha fallecido una cría por
+año en la fase previa a su liberación a la vida silves-
+tre. Esta mejoría en la supervivencia de los ejemplares
+rescatados no hubiera sido posible sin años de traba-
+jo y una cultura de aprendizaje continuo que incluyó
+la invitación de un experto externo en el manejo de
+cuarentenas para fauna silvestre (i.e., Wanderley de
+Moraes del Zoológico de Itaipú en Brasil) para que
+realizase una evaluación formal de las instalaciones y
+los protocolos de manejo.
+En lo que se refiere a las pruebas serológicas y
+moleculares realizadas para detectar seroprevalencia
+de anticuerpos frente a patógenos o la presencia de
+ADN viral en la sangre de los animales que ingresa-
+ron al proyecto, los resultados más relevantes son los
+títulos de anticuerpos hallados frente a L. interrogans y
+T. gondii y las RT-PCR positivas a CDV. Las dos prime-
+ras no parecen tener un efecto sobre la supervivencia
+de los ejemplares, pero sí la tercera. Este supone el
+primer reporte del CDV en la especie detectado me-
+diante PCR y se desconoce de qué manera afecta el
+virus del moquillo canino a los hormigueros gigantes.
+La supervivencia de los ejemplares que dieron positi-
+vo a la prueba frente al CDV en algún momento (25%)
+resultó ser marcadamente inferior a la del conjunto de
+los animales incluidos en el proyecto (72%). Sin em-
+bargo, de los que dieron positivo en algún momento
+y que actualmente viven en libertad se da el caso de
+una hembra (Ivoty Porá) que lleva viviendo exitosa-
+mente en Socorro desde 2007 y ha tenido seis crías en
+vida libre. Este supone el primer reporte del CDV en
+la especie detectado mediante PCR. Se desconoce de
+qué manera afecta el virus del moquillo canino a los
+hormigueros gigantes.
+Al ser el primer proyecto dedicado a reintroducir
+M. tridactyla en un área donde la especie estaba extin-
+ta, se han tenido que desarrollar y mejorar técnicas de
+manejo en cautiverio, junto con marcaje, seguimien-
+to y manejo en vida silvestre, a partir de los conoci-
+mientos provenientes de otros equipos de trabajo. No
+existen otras experiencias de reintroducción de esta
+especie, y no es común que animales provenientes de
+cautiverio sean exitosos frente a procesos de reintro-
+ducción (Snyder et al., 1996), pero hemos visto como
+los hormigueros gigantes reintroducidos provenien-
+tes del cautiverio o de crianza con humanos logran
+sobrevivir en vida silvestre por varios años e incluso
+reproducirse naturalmente. Quizás el ejemplo más
+notable es el de los primeros hormigueros gigantes
+reintroducidos, los cuales venían ambos del cautive-
+rio y siguen apareciendo en las cámaras trampa ocho
+años después, habiéndose reproducido la hembra en
+al menos seis ocasiones. También es notable la alta su-
+pervivencia de las crías nacidas a partir de animales
+reintroducidos, ya que de 27 ejemplares identificados
+sólo tres no lograron alcanzar la edad de independen-
+cia, siendo éste un periodo especialmente sensible
+para cualquier mamífero.
+Conclusiones
+La Comisión de Supervivencia de Especies de la
+IUCN definió la reintroducción como “un intento para
+establecer una especie en un área que fue en algún
+momento parte de su distribución histórica, pero de
+la cual ha sido extirpada o de la cual se extinguió”
+(IUCN/SSC, 1995:2). Desde que esta definición fue
+elaborada el número de proyectos de reintroducción
+ha crecido notoriamente en el mundo, llegando inclu-
+so a postularse una nueva disciplina de “Biología de
+la Reintroducción” (Seddon et al., 2007; Soorae, 2008).
+En paralelo, diferentes autores y grupos de trabajo
+proponen el rescate y liberación de animales cautivos
+decomisados como una posible herramienta de con-
+servación, aunque a menudo cumplan más bien obje-
+tivos de bienestar animal (ver Drews, 2002).
+Después de siete años de liberaciones y segui-
+miento sobre el terreno la información disponible
+apunta a que el Proyecto de Reintroducción del Oso
+Hormiguero en Iberá podría estar cumpliendo con
+ambos propósitos. Por un lado, está ofreciendo una
+oportunidad de retorno a su ambiente natural a de-
+cenas de ejemplares de la especie que han quedado
+huérfanos, han sufrido heridas o traumatismos, o que
+permanecían en zoológicos y centros de rescate de
+fauna. A falta de tener una medida de comparación
+con otras poblaciones de hormigueros gigantes sil-
+vestres, estos ejemplares “rescatados” parecen adap-
+tarse adecuadamente a su nuevo ambiente silvestre,
+reproduciéndose y en varios casos logrando sobrevi-
+vir en su ambiente natural por varios años.
+Más allá del bienestar animal, la población rein-
+troducida en Socorro muestra valores demográficos
+que apuntan a que podría llegar a crecer y mantener-
+se por sí sola sin requerir la suplementación regular
+de más ejemplares. En el caso de San Alonso estos
+valores son todavía más positivos aunque harán falta
+más años de monitoreo para poder estimar su viabi-
+lidad a largo plazo. En la actualidad las liberaciones
+continúan en esa población. Con la información de-
+mográfica acumulada se podrán generar modelos
+predictivos que pongan a prueba la supervivencia a
+largo plazo de ambas poblaciones. Posiblemente des-
+pués de otros cinco años de liberaciones y seguimien-
+to poblacional intensivo podremos saber si el proyec-
+to está cumpliendo su meta explícita de “establecer
+una población de osos hormigueros gigantes que sea
+viable y autosostenible a largo plazo en su ambiente
+natural”.
+Agradecimientos
+El Proyecto Oso Hormiguero en Iberá es una
+iniciativa conjunta del Gobierno de Corrientes y The
+Conservation Land Trust. La beca de doctorado de
+Yamil Di Blanco fue financiada por CONICET. Los
+autores agradecemos al Gobierno de Corrientes y a la
+Dirección Nacional de Fauna Silvestre de Argentina
+por su apoyo a este trabajo. A los Gobiernos de las
+provincias de Santiago del Estero, Chaco, Formosa,
+Jujuy y Salta, a las instituciones donantes de animales
+(Horco Molle y Zoo Florencio Varela) y a las decenas
+de particulares que donaron ejemplares. A Pascual
+Pérez, Sebastián Cirignoli, Marcela Orozco, Javier
+Fernández, Guichi, Pablo Díaz y el resto del perso-
+nal de CLT, quienes apoyaron en muchos aspectos
+todo el trabajo. A los numerosos asistentes de cam-
+po: Contanza Pasián, Chele Martinez, Gigie Welter,
+Valeria Androsiuk, Talía Zamboni, Viviana Tartarini,
+Imanol Cabaña, Clara Díaz, Lorena Coelho, Manolo
+Cordón, Natalia Silva, María Angeles Párraga Aguado,
+Pau Sanz, Rosanne Blijleven y Diana Friedrich. Flávio
+Rodrigues, Guilherme de Miranda Mourão, Flávia
+Miranda, Mariella Superina, Fernanda Braga, Mario
+Di Bitetti, Juan Jiménez, Marcela Uhart, Susana
+Merani y Guillermo Pérez Jimeno ofrecieron consejo
+y experiencia fundamental en las fases iniciales del
+proyecto. Wanderley de Moraes aportó su experien-
+cia para mejorar aspectos del funcionamiento del cen-
+tro de rescate de osos hormigueros. Gabriel Zunino y
+Martín Kowalesky ofrecieron el apoyo del personal y
+las instalaciones de la Estación Biológica Corrientes
+del CONICET. Douglas y Kris Tompkins apoyaron
+todo el proceso desde la dirección de CLT. Cristian
+Schneider realizó los mapas del artículo.

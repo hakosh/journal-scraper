@@ -1,0 +1,314 @@
+Introducción
+La ictiofauna dulceacuícola es uno de los grupos faunísticos más amenazados entre los
+vertebrados de Chile (Vila et al., 2006). De las 44 especies descritas, el 29% se clasifica Fuera de
+Peligro, Insuficientemente Conocida o Rara, y el 71% en alguna de las categorías de
+conservación de mayor amenaza (30% Vulnerable, y 41% en Peligro de Extinción). Entre las
+principales causas que explican este delicado estado de conservación se encuentran la pérdida y
+fragmentación de hábitat debido a distintas intervenciones directas o indirectas de los cauces
+fluviales (Habit et al., 2006a; Campos et al., 1993). Por ello, las actividades que implican tales
+intervenciones tienen como exigencia mitigar, restaurar o compensar sus impactos negativos
+(DS 95/2001, Reglamento del Sistema de Evaluación de Impacto Ambiental). Cualquiera de estas
+medidas debe ser implementada adecuadamente, de forma tal que aseguren una efectiva
+conservación de la fauna íctica continental. Sin embargo, muchas de estas medidas como las
+relocalizaciones, repoblamientos, propuestas de cultivo o restauración de hábitats tienen como
+limitante la falta de conocimiento de aspectos básicos de la biología de los peces dulceacuícolas
+chilenos. Más aún, las entidades interesadas en aplicar medidas alternativas de conservación ex
+situ (Sarmiento, 2001), las cuales permitirían mantener poblaciones de manera precautoria fuera
+de sus hábitats, carecen de información mínima de cómo mantener adecuadamente estos
+individuos en cautiverio. Recientemente, a nuevas centrales hidroeléctricas aprobadas
+ambientalmente en Chile se les ha exigido generar establecimientos de cultivo de peces nativos a
+pesar de esta falta de información básica (ver Resoluciones de Calificación Ambiental de Central
+Hidroeléctrica San Pedro y Proyecto Hidroeléctrico Aysén en www.e-seia.cl). Un primer paso,
+hacia la reproducción exitosa de peces nativos ex situ consiste en generar el conocimiento
+necesario para mantener individuos saludables en cautiverio.
+En los años recientes el conocimiento de las especies ícticas nativas se ha incrementado
+principalmente en cuanto a: sus patrones de distribución y abundancia (Figueroa et al., 2010;
+Habit et al., 2010; Unmack et al., 2009), efectos de efluentes de plantas de celulosa (Chiang et al.,
+2010), interacción con salmónidos (Arismendi et al., 2009, 2011; Young et al., 2008, 2010; García
+de Leaniz et al., 2010; Vargas at al., 2010; Pardo et al., 2009; Penaluna et al., 2009), y estructura
+genética y filogeografía (Quezada-Romagnelli et al., 2010; Zemlak et al. 2008, 2010; Ruzzante et
+al., 2008). Por el contrario, el conocimiento de las especies nativas chilenas sobre su fisiología,
+etología, reproducción o capacidad de natación es limitado o nulo (e.g. Comisión Nacional de
+Ciencia y Tecnología (CONICYT), 2009), probablemente asociado a la falta de experiencia en la
+mantención de estas especies en condiciones de laboratorio y la dificultad de estudiarlos en su
+ambiente natural.
+A nivel internacional existen entidades que velan por el cuidado y uso de animales para
+investigación en laboratorio, entregando guías que describen los procedimientos desde la
+captura de los peces hasta su mantención en el tiempo (e.g. Canadian Council on Animal Care,
+2005). Por el contrario, en Chile, la Ley de protección animal (e.g. Ministerio de Salud
+(MINSAL), 2009) establece sólo de manera general los requisitos sobre el tipo de personal y las
+necesidades de contar con instalaciones adecuadas para realizar experimentos, según cada
+especie y acorde a los antecedentes que aporta la ciencia. Sin embargo, en el caso de los peces
+nativos de agua dulce, tales antecedentes no existen. La mantención de especies nativas en
+acuarios conlleva varias dificultades debido al estrés propio del confinamiento, el
+desconocimiento sobre condiciones de transporte y mantención, dietas, calidad del agua,
+densidades de individuos, y tratamiento de enfermedades. Para lograr la mantención de peces
+nativos, es necesario entonces, conocer las condiciones base que permitan su cautiverio en
+buenas condiciones, con individuos aclimatados, disminuyendo el estrés asociado al transporte
+y al cambio en las condiciones del entorno. Esto es posible utilizando ecosistemas naturales
+simplificados, que permitan la observación directa y el control de las condiciones ambientales
+(Kangas & Adey, 2008), denominados microcosmos (Odum & Barret, 2006).
+Por ello, con el fin de aportar al conocimiento básico necesario para implementar medidas de
+conservación ex situ y facilitar estudios de laboratorio de esta fauna, estudiamos medidas de
+manejo en cautiverio de cinco especies de peces nativos de agua dulce. Percilia gillisi (Girard,
+1855), clasificada en Peligro de Extinción entre la V y VI regiones y Vulnerable entre la VII y X
+regiones (e.g. Ministerio Secretaría General de la Presidencia (MINSEGPRES), 2008), que habita
+preferentemente en ríos en zonas de alto caudal de baja profundidad, sobre sustratos de bolones
+o mixtos (García et al., 2012a); Percilia irwini (Eigenmann, 1927), que se encuentra en Peligro de
+Extinción (Habit & Belk, 2007) en la VIII Región, amenazada por la construcción y operación de
+centrales hidroeléctricas (García et al., 2011; Habit et al., 2006b), y que habita en zona someras de
+baja velocidad sobre sustratos de bolones o mixtos (Habit & Belk, 2007); Trichomycterus areolatus
+(Valenciennes, 1840) clasificada como Vulnerable en todo su rango distribucional
+(MINSEGPRES, 2008), que se encuentra en hábitats de zonas de alto caudal en diversos tipos de
+sustratos de bolones y mixtos (Arratia et al,. 1983; García et al,. 2012a) ; Cheirodon galusdae
+(Eigenmann, 1928) clasificada como especie Vulnerable (Habit et al., 2006a, 2006b), que se
+encuentra en ríos en las zonas de transición y potamón (Habit et al., 2007) y Galaxias platei
+(Steindachner, 1898), que habita preferentemente zonas de bajo caudal con sustrato mixto
+(García et al. 2012a), clasificada como Fuera de Peligro (MINSEGPRES, 2008). Esta última especie
+presenta una amplia distribución, desde la cuenca del río Valdivia hasta Tierra del Fuego y una
+alta plasticidad en el uso de h{bitat, lo que la convierte en una especie ‘paraguas’ para la
+conservación (Roberge & Angelstam, 2004; Lambeck, 1997). Por lo tanto, la protección de G.
+platei, implicaría a su vez la protección de la mayor parte de la biota acuática que ocupa los
+mismos sistemas acuáticos, los que son mayoritariamente Patagónicos.
+Para cada una de estas especies, se describen las técnicas de traslado, métodos de preparación y
+mantención de acuarios, alimentación y tratamiento de la enfermedad más común en acuarios
+de agua dulce (‘punto blanco’).
+Materiales y Métodos
+Durante este estudio se capturó un total de 141 ejemplares (Pesca de Investigación Res. Ex. N°
+55/2010) provenientes de los ríos Andalién, Biobío y Pingueral en la Región del Biobío P. irwini,
+C. galusdae y T. areolatus, y del río San Pedro en la Región de los Ríos P. gillissi y G. platei (Tabla
+1). Los peces fueron capturados mediante pesca eléctrica (Smith-Root LR-24) y luego
+depositados en recipientes con agua del mismo sistema fluvial, para ser transportados y
+mantenidos en el Laboratorio de Ingeniería Hidráulica Ambiental de la Universidad de
+Concepción (R.N.A N° 21750/2011). Independientemente de la especie, se probó el transporte de
+hasta seis individuos en estanques de 5 l sin aireación para viajes de menos de 1 hora y con
+aireación para viajes más largos. El transporte de más de 10 individuos se realizó en estanques
+de 100 l sin aireación. Todos los ejemplares fueron medidos y pesados antes de ser introducidos
+en los acuarios.
+Se prepararon microcosmos, comúnmente denominados acuarios, construidos de materiales
+inertes al agua, evitando piezas de cobre, cadmio, níquel o bronce (DeTolla et al., 1995). Se
+habilitaron 12 acuarios de distintos materiales y tamaños: 3 acuarios de vidrio de 10 l, 3 de 40 l,
+1 de 120 l y 1 de 750 l, 1 de acrílico de 10 l, y 3 acuarios de plástico negro de 70 l. En cada acuario
+se agregó sustrato de grava o canto rodado (ver Tabla 2), según las características de tipos de
+hábitats en los que se encuentran de manera natural (Arratia et al., 1983; García et al., 2012a, b).
+Se ubicaron en una habitación sin calefacción y fuera de la incidencia directa del sol.
+Para que los peces no fueran afectados por los compuestos tóxicos provenientes de su
+metabolismo, como amonio, urea, aminas y amino ácidos (Porter et al., 1987), es necesaria la
+colonización del acuario por bacterias nitrosomas (Grommen et al., 2002) que conviertan las
+formas tóxicas de nitrógeno en nitrito y nitrato (Crab et al., 2007). Por ello, cada acuario fue
+equipado con un filtro mecánico-biológico (filtro esponja o filtro interno con esponja) o
+mecánico-biológico-químico (filtro interno o de mochila, con esponja y carbón activado) con una
+capacidad de bombeo de al menos cuatro veces el volumen del acuario por hora. Para lograr un
+acuario ‚maduro‛, es decir, que sea capaz de remover los compuestos amoniacales, los acuarios
+fueron llenados con agua de grifo previamente desclorada de dos maneras: con una solución de
+tiosulfato de sodio en una proporción de 1 gota por cada litro de agua, o con agua de grifo
+previamente agitada mediante aireación con piedra difusora durante 48 horas. Posteriormente,
+se dejaron en funcionamiento los filtros de cada acuario con un sistema de aireación con piedra
+difusora, durante 2 semanas antes de ser incorporados los peces. Sin embargo, en los acuarios de
+plástico de 70 l y el de vidrio de 750 l el tiempo de maduración fue menor al agregar un medio
+de filtrado biológico con bacterias nitrificantes (marca SERA bio nitrivec), en una proporción de
+10 ml por cada 25 l de agua del acuario. Sólo un acuario de vidrio de 120 l fue habilitado en una
+primera oportunidad con agua del mismo río desde donde se capturaron los peces (ver Tabla 2),
+para observar su evolución.
+Para que los acuarios entregaran una condición ambiental similar a la natural y se favoreciera la
+eliminación de nutrientes del agua, se incluyeron plantas acuáticas de tipo comerciales de las
+especies Egeria densa (Planchon, 1849), Ceratophyllum demersum (Linnaeus, 1753), Lemma minor
+(Griff, 1851), Rotala rotundifolia (Linnaeus, 1771) e Hydroctyle leucocephala (Chamisseau &
+Schlechtendal, 1826) (ver Tabla 2). Para ello se implementó un sistema de iluminación con luces
+fluorescentes (18 W), de manera de mantener un fotoperíodo similar al natural de 12hl:12ho
+(horas luz: horas oscuridad) en verano, hasta 8hl:16ho en invierno.
+La introducción de los peces a los acuarios se realizó de la siguiente forma. Primero, los peces
+fueron incorporados en una bolsa de plástico, transparente, cerrada, con 1 l del agua extraída del
+lugar de procedencia del pez y se dejaron dentro del acuario por un período entre 15 a 30
+minutos considerando que Tomasso (1993, en DeTolla et al., 1995) reporta que una variación de
+1ºC hr-1 es adecuado para evitar estrés térmico. Luego se abrió la bolsa con los peces y se
+incorporó 1 l de agua del acuario para equilibrar parámetros de calidad del agua, y se mantuvo
+en el acuario durante 15 a 30 minutos. Se retiró la bolsa del acuario, se extrajeron los peces de la
+bolsa con una malla y se depositaron dentro del acuario, evitando que el agua de aclimatación
+entrara al acuario. Un proceso similar se realizó cada vez que un pez fue cambiado de acuario.
+Para G. platei se probó aclimatar a los peces en un balde con 15 l de agua de transporte y 5 l de
+agua del acuario destino, durante 15 minutos para luego ingresarlos al acuario final. Durante
+este proceso se observó la conducta de los peces, en cuanto a la frecuencia en el uso de los
+hábitat ofrecidos (canto rodado, plantas), así como el nivel de actividad observado (nadando o
+en reposo), durante 5 minutos por cada acuario.
+La alimentación que se ensayó en todas las especies varió desde alimento natural como
+macroinvertebrados bentónicos de río hasta alimento vivo cultivado y comercial, en momentos y
+cantidades distintas, según aceptación de cada especie y talla de los individuos. El comienzo de
+alimentación de los peces fue realizado 24 hrs posterior al arribo al laboratorio, con
+macroinvertebrados bentónicos (Ephemeroptera, Plecoptera, Trichoptera) proporcionados hasta
+que se observara que no se alimentaban más, durante las primeras dos semanas. Considerando
+que el uso de alimento comercial en peces de acuario facilita el control de una dieta balanceada y
+reduce los tiempos de cuidado asociados a alimentación, posterior a las dos primeras semanas se
+probó con distintos tipos de alimento como Tubifex sp. liofilizado, Artemia sp. liofilizada, krill
+(Euphausia sp.) liofilizado, hojuelas para peces de agua tropical y hojuelas para peces de agua
+fría, tabletas de espirulina, alimento granulado para peces carnívoros, y micropellet de calibre 5
+utilizado para la alimentación de alevines en la industria de salmonicultura. Se entregó una
+cantidad estimada menor a un 2% del peso del pez, de manera de identificar si los peces se
+alimentaban del alimento ofrecido y de no ser consumido evitar ensuciar el agua. Este alimento
+se proporcionó durante la mañana, en ayuna, dejando un tiempo de observación de seis horas.
+Si el alimento no era consumido, se ofrecía alimento vivo, de lo contrario se entregaba una
+cantidad equivalente estimada al 2% del peso total de los peces que estaban en el acuario. A la
+cuarta semana se probó alimento vivo cultivado como gusanos grindal (Enchytraeus buchholzi
+Henle, 1837), tenebrios (Tenebrio molitor Linnaeus, 1758) y lombriz californiana (Eisenia foetida
+Savigny, 1826). En cada prueba se registró mediante observación directa si era consumido por
+todos los individuos, por la mayoría de los individuos, por pocos individuos o no era
+consumido por los peces.
+Para controlar la calidad del agua, las principales variables físico-químicas monitoreadas
+semanalmente previo a realizar cambios de agua, fueron la temperatura del agua (°C),
+concentración de oxígeno disuelto (OD mg l-1), pH, conductividad (μS cm-1), potencial de óxido
+reducción (ORP mV), dureza total (CaCO3 mg l-1), compuestos nitrogenados (NH4+, NO3-, NO2-
+mg l-1) y fosfatos (PO43-). Se consideró que debía mantenerse la concentración de oxígeno > 6 mg
+l-1 y pH > 7, de manera de evitar daños fisiológicos en los peces (DeTolla et al., 1995).
+En cuanto a la presencia de alguna enfermedad durante el estudio, se identificaron los síntomas
+de la enfermedad del punto blanco, también llamada Ich, causada por el protozoo parásito
+Ichthyopthirius multifiliis (Fouquet, 1876) (Ruiz et al., 1989). Esta enfermedad es común en
+acuarios ornamentales y sistemas de cultivo de peces comerciales (Durborow et al., 1998), siendo
+una de las enfermedades parasitarias más serias en peces de agua dulce (Svobodova &
+Kolarova, 2004) que puede causar la muerte de muchos peces si no es tratada a tiempo. Los
+peces infectados con Ich se observaron después de tres a cuatro días de la incorporación de los
+peces al acuario. Los peces presentaron puntos blancos en su piel, observándose que antes de
+que se vean los puntos blancos, los peces infectados se frotan contra las piedras del acuario.
+Luego, aparecen los puntos blancos, la piel aumenta su mucosidad, algunos peces dejan de
+comer. Más adelante se observan muchos puntos blancos, la mucosidad aumenta y se desprende
+del cuerpo, los peces dejan de comer y se acercan a los aireadores o a los filtros de agua.
+Finalmente, los peces mueren. Para combatir esta enfermedad se probó tratar con sal común
+(cloruro de sodio, NaCl) y azul de metileno.
+Durante dos años (2009 – 2010) se probaron técnicas de mantención, alimentación y tratamiento
+de enfermedades. En este trabajo se describen los mejores métodos de mantención para cada
+especie, basadas en los dos años de pruebas, antecedentes bibliográficos y comunicaciones
+personales con acuaristas.
+Resultados
+Captura y transporte de peces: Todos los peces nativos capturados en los distintos ríos
+mediante pesca eléctrica, sobrevivieron sin daño observable. El tiempo de transporte de menos
+de 1 hora, en las especies P. irwini, P. gillissi, C. galusdae y T. areolatus puede ser realizado en
+estanques sin aireación, considerando una relación de hasta 10 individuos por 5 l de agua en
+media hora. De necesitar más tiempo, se puede incorporar aireación o bien aumentar el volumen
+de agua. Este procedimiento resulta adecuado luego de contrastar con mediciones preliminares
+de consumo de oxígeno de peces nativos que están en el orden de 100-400 mg O2 hr-1 kg-1 (García
+et al., 2012b). Así por ejemplo, un estanque de 5 l con agua a saturación (9 mg O2 l-1 a 19ºC)
+tendrá 20 mg O2 disponibles (hasta bajar a 5 mg O2 l-1), que pueden satisfacer a uno o varios
+individuos con un peso total de 100 g por 30 minutos como mínimo. Los ejemplares de la
+especie G. platei, deben ser transportados en recipientes separados para las tallas menores a 5
+cm, entre 5,5 – 8 cm y mayores a 8 cm, para así evitar canibalismo propio de esta especie.
+Construcción y preparación de acuarios: El mejor procedimiento de habilitación de acuarios
+para P. gillissi, P. irwini, T. areolatus, y C. galusdae fue primero, incorporar grava al acuario,
+cubriendo todo el fondo con un espesor uniforme. En tanto, para G. platei fue mejor cubrir el
+75% del fondo con un espesor variable entre 1 a 5 cm, generando una pendiente suave. Luego,
+ubicar las piedras (canto rodado) y plantas acuáticas sumergidas sobre la grava para crear zonas
+de refugio, ofreciendo al menos una zona de refugio por ejemplar para las especies P. gillissi y P
+irwini. Una vez montado el sustrato, llenar el acuario con agua previamente desclorada,
+ubicando un filtro mecánico –biológico. El medio de filtrado, puede ser agregado para acelerar
+el proceso de maduración del agua en acuarios nuevos entre 24 a 48 horas antes de introducir
+los peces.
+Aclimatación de los peces a los acuarios: El ingreso de los peces desde los tanques de
+transporte al acuario de destino, debe ser de manera gradual que incluya una mezcla de agua
+según se describe en materiales y metodos. Para G. platei es necesario separar tallas para evitar
+canibalismo. Este procedimiento también es importante para el traslado de un pez de un acuario
+a otro.
+Luego de introducir a los peces a los acuarios de destino, el comportamiento de las especies fue
+diferente en los distintos acuarios. En el acuario de 120 l de vidrio que fue habilitado
+inicialmente sólo con agua de río y canto rodado, se observó que los ejemplares de T. areolatus
+permanecieron gran parte del día agrupados bajo un canto rodado. El mismo acuario tuvo alta
+turbidez durante tres a cuatro semanas y una carga de sólidos que saturaba el filtro biológico
+diariamente. En general, los peces no mostraron mal desempeño en este acuario, sin embargo,
+la alternativa no fue repetida. En el acuario de 40 l con sólo P. irwini, que inicialmente no
+contenía grava pero sí canto rodado, los individuos permanecieron separados y repelían
+cualquier pez que se acercara a sus refugios. Al cubrir la base de ambos acuarios con grava y
+canto rodado se observó una disminución de la agresividad entre los peces (perseguirse y
+morderse) y mayor movilidad. En G. platei se observó que en el primer día los individuos
+presentaron baja actividad en la zona de grava y canto rodado, la que fue aumentando en el
+tiempo.
+La mayoría de los peces recién ingresados en los acuarios se mantienen inmóviles en el fondo
+por varias horas antes de comenzar a reconocer su entorno y buscar un refugio. Transcurridos
+dos a tres meses en cautiverio, la mayoría de los peces de todas las especies no se alteran en los
+horarios de alimentación, procesos de cambio de agua, limpieza de filtros, o ante la presencia de
+personas alrededor de los acuarios.
+Los peces fueron mantenidos en acuarios separados por especie (excepto el acuario de 120 l con
+T. areolatus y C. galusdae), en acuarios de distintos tamaños según se indica en la Tabla 3. Durante
+todo el período de estudio, se presentó mortalidad en ejemplares de las especies P. gillissi y P.
+irwini, C. galusdae y en ejemplares de la especie G. platei de tallas menores a 5 cm.
+Alimentación: En la Tabla 4 se indica el tipo de alimento proporcionado a cada especie y grado
+de aceptación observada. La alimentación de los peces en cautiverio se puede controlar con el
+tiempo, según la especie. En todos los casos, durante las primeras dos semanas los peces deben
+ser alimentados con macroinvertebrados bentónicos (Ephemeroptera, Plecoptera, Trichoptera) a
+saciedad, tres a cuatro veces por semana. Esto favorece su aclimatación. Los individuos de P.
+gillissi y P. irwini fueron las de más difícil alimentación. La mejor opción es alimentarlos con
+alimento vivo cultivado, como gusanos grindal (E. buchholzi) o con trozos de lombriz
+californiana (E. foetida). Los ejemplares de G. platei aceptaron además alimento comercial del tipo
+Tubifex sp. o pellet, T. areolatus se puede alimentar con Tubifex sp. y C. galusdae con Tubifex sp. y
+hojuelas, en una cantidad de un 2% del peso total de los ejemplares a alimentar tres a cuatro
+veces por semana. El alimento comercial debe ser proporcionado de manera gradual, la que
+inicialmente debe ser mezclada con E. foetida en una proporción de un 50% de alimento vivo y
+50% alimento comercial. La dieta puede ser variada en el tiempo, mezclando alimento natural o
+cultivado con alimento comercial, que dependerá de los objetivos de mantención.
+Características del agua y mantención de los acuarios: La Tabla 5 muestra el valor de las
+variables de físico-químicas que resultó adecuada para la mantención de los peces estudiados,
+durante el período de estudio. Para conservar las variables físico-químicas en tales rangos se
+debe mantener aireación constante mediante piedras difusoras, limpiar las paredes de los
+acuarios con una esponja y retirar fecas y restos de comida no consumida por los peces al menos
+una vez por semana para evitar su descomposición en el acuario. Además, cada vez que se
+realiza un recambio de agua, las esponjas contenidas en los filtros mecánico-biológicos de cada
+acuario deben ser retiradas y limpiadas en un recipiente con agua del mismo acuario. Los filtros
+que contienen carbón activado deben ser renovados cada dos meses.
+Se debe utilizar un recambio de agua semanal entre un 25 y 30% del volumen del acuario Este
+recambio resulta adecuado para mantener las variables físico-químicas estables. Para G. platei un
+recambio de un 10% es adecuado para ejemplares de tallas mayores a 5 cm.
+Enfermedad del punto blanco: Todas las especies de peces que se mantuvieron en los acuarios
+fueron infectadas por Ich. Los primeros síntomas de la enfermedad se observaron después de
+tres a cuatro días de la incorporación de los peces en los acuarios. Los tratamientos aplicados
+(por separado) fueron limpieza abundante del fondo del acuario con recambio de agua, azul de
+metileno (0,1 – 0,3 mg l-1), y sal de mar (2 g l-1). Sólo el tratamiento con sal de mar erradicó el
+parásito del acuario sin causar la muerte de los peces.
+El tratamiento con sal de mar se debe aplicar al acuario cuando un pez es observado con
+síntomas de la enfermedad. La sal de mar debe ser agregada en forma gradual, subiendo la
+concentración a 0,5 – 1,3 y 2 g l-1 durante tres días. La concentración se debe mantener en 2 g l-1
+por cuatro días cuando la enfermedad es detectada en su primera etapa y hasta por dos semanas
+cuando es detectada en un estado avanzado (tres semanas desde la incorporación de los peces al
+acuario). El aumento de salinidad provoca la mortalidad de bacterias nitrificantes, por lo que se
+recomienda desconectar el filtro mecánico – biológico durante todo el período de tratamiento. Se
+debe continuar con el tratamiento hasta que no se observen puntos en ningún pez del acuario en
+tratamiento. Finalmente, la sal debe ser eliminada del acuario de manera progresiva, a través de
+los cambios de agua regulares. Este procedimiento resultó exitoso para el tratamiento de todos
+los ejemplares de los peces nativos tratados.
+Discusión
+La conservación de la ictiofauna nativa de Chile requiere del avance en conocimiento aplicado
+sobre técnicas de mantención en cautiverio, las que permitirán su conservación ex situ. Con ello,
+es posible además generar conocimiento sobre la autoecología, fisiología o técnicas de
+fertilización, que facilitarán la rehabilitación de poblaciones Vulnerables o en Peligro de
+Extinción (Ireland et al., 2002). Diversas investigaciones han enfatizado previamente la necesidad
+de mantener ejemplares de peces nativos en acuarios por tiempos prolongados para realizar
+estudios experimentales sobre comportamiento, interacciones intra e interespecíficas o
+depredación (Stuart-Smith et al., 2008; Glova, 2003; Pettersson et al., 2001). Este tipo de
+investigación permite la generación de medidas de manejo adecuadas para la conservación
+como translocación y repoblamiento, así como lo plantean Ward (2008) y en Nueva Zelanda en
+el Plan de Recuperación de Especies amenazadas (Department of Conservation, 2005).
+En Chile, la legislación relacionada con el manejo de fauna en cautiverio, señala específicamente
+que las instalaciones deben ser adecuadas para los animales que se utilicen para
+experimentación, basado en el conocimiento científico. Ello, avala también la necesidad de
+generar conocimiento científico como el que se desarrolló en este trabajo, indicando los pasos y
+cuidados necesarios para mantener en cautiverio a seis especies de peces nativos de aguas
+continentales. Las técnicas de mantención descritas son simples y específicas a las especies
+estudiadas, aunque similares a las descritas en guías internacionales para el cuidado de peces
+para experimentación (Canadian Council on Animal Care, 2005).
+Del estudio, se identifica como período crítico el de aclimatación de los peces, ya que es cuando
+se observan peces con punto blanco o no ingesta de alimento. Sin embargo, en este estudio se
+han establecido los requerimientos básicos para el traslado y aclimatación inicial de los peces
+que permiten una sobrevivencia exitosa de los ejemplares colectados. En este sentido, para
+disminuir los riesgos de mortalidad y enfermedad en todas las especies, es necesario que al
+incorporar los peces en acuarios éstos se encuentren debidamente habilitados y madurados. De
+igual forma, se debe realizar una transición gradual de la dieta, desde alimento natural
+(macroinvertebrados bentónicos) a alimento cultivado o comercial, considerando la talla en cada
+especie.
+En cuanto a la presencia de la enfermedad producida por I. multifiliis existe alta probabilidad
+que los peces hayan venido infectados desde el medio natural, así como lo describen Ruiz et
+al.(1989). Las mortalidades obtenidas en ejemplares de Percillia spp. con punto blanco tratadas
+con azul de metileno y las mortalidades de G. platei de tallas menores a 5 cm sugieren que son
+especies particularmente sensibles. Al respecto, se sugiere que ejemplares de Percilia spp. deben
+ser tratadas únicamente con sal de mar y G. platei (< 5cm) deben ser mantenidos en acuarios con
+recambios de agua mayores a un 10%, y proporcionando únicamente alimento vivo.
+Si la alimentación y mantención de los acuarios es permanente, y se aplica tratamiento en caso
+de presencia de la enfermedad de punto blanco, los peces nativos pueden mantenerse en el
+tiempo, permitiendo la realización de experimentos controlados. Estos resultados, permitirán el
+desarrollo de nuevas investigaciones en éstas y otras especies de características similares, que
+permitan la generación de conocimiento para la conservación ex situ en nuestro país y a nivel
+internacional.

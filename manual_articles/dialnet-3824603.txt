@@ -1,0 +1,571 @@
+Los arrecifes artificiales se han propuesto como he-
+rramientas de restauración del medio marino, asig-
+nándoles toda una serie de beneficios derivados de
+la creación de sustratos duros nuevos en ambientes mari-
+nos carentes de estos (Bombace, 1997). Sin embargo, se
+ha comprobado en muchos casos que la existencia de un
+arrecife artificial no sólo no ha cumplido con los objetivos
+propuestos, por primarios que fueran, sino que han acabado
+provocando cambios negativos en la biota y el medio físico
+de la zona (Seaman, 1997a). En este sentido, es importante
+conocer el status del arrecife artificial en relación al medio
+que lo circunda (Bortone y Kimmel, 1991), sobre todo cuando
+se proponen hipótesis de funcionamiento. Las respuestas a
+estas hipótesis, por otro lado, deben satisfacer no sólo los
+objetivos puramente aplicados, sino también deben aportar
+nuevos conocimientos a la ciencia básica (Seaman, 1997b).
+De ahí, la necesidad de abordar el estudio de la efectividad
+de los arrecifes artificiales con el suficiente rigor y en base a
+los objetivos de gestión planteados previamente (Bohnsack y
+Sutherland, 1985; Seaman y Sprague, 1991).
+A pesar de los esfuerzos realizados en la instalación de arre-
+cifes artificiales en la Comunidad Valenciana (Belda y Jover,
+1992), se conocen pocos datos sobre los efectos y funciona-
+miento de todos ellos, ya sea desde el punto de vista pura-
+mente científico, o desde el punto de vista aplicado. En el res-
+to del Estado Español, la política de instalación de arrecifes
+artificiales no ha sido tan intensa (Revenga et al., 1997), co-
+nociéndose datos de algunos de ellos, ya sea de tipo prelimi-
+nar (Moreno et al., 1994; Haroun et al., 1994; Gómez-Buckley
+y Haroun, 1994; Castillo y Pérez, 1994; Goutayer et al., 1994)
+o incluyendo datos cuantitativos (Bayle et al., 1994; Sánchez
+Jerez, 1994; Sánchez Jerez y Ramos, 1996; Guirado et al.,
+1997; Herrera, 1998).
+El arrecife artificial de Tabarca se planteó con dos objetivos
+de gestión: primero, impedir la pesca de arrastre ilegal que
+degradaba la pradera de Posidonia oceanica en el sector
+sur de la Reserva Marina de Tabarca y, con ello, favorecer
+la restauración natural de la zona. Segundo, favorecer los
+usos pesqueros tradicionales de bajo impacto ejercidos por
+la flota artesanal de Tabarca mediante la creación de nuevos
+sustratos duros que pudieran favorecer el incremento de la
+biodiversidad íctica de la zona y de las poblaciones explo-
+tables. Este último objetivo tenía un carácter totalmente ex-
+perimental y, por ello se planteó la necesidad de realizar un
+seguimiento que permitiera un análisis cuantitativo de las va-
+riaciones temporales de la ictiofauna asociada al Arrecife Ar-
+tificial de Tabarca. Este tipo de aproximación es la única que
+puede aportar ideas claras sobre el funcionamiento y status
+de estos substratos nuevos (Bohnsack y Sutherland, 1985;
+Seaman, 1997a).
+En este trabajo se describe la comunidad íctica presente en
+el arrecife artificial de Tabarca y sus cambios temporales en-
+tre Febrero de 1990 y Agosto de 1992, con la finalidad de
+tipificar la estructura de la comunidad y su dinámica a lo largo
+del tiempo. Los objetivos concretos del presente trabajo son:
+a) Descripción de la comunidad íctica asociada al arrecife ar-
+tificial de Tabarca; b) Análisis de la variación temporal de la
+estructura de la comunidad íctica en términos de número de
+especies, abundancia y biomasa; c) Estudio de las variacio-
+nes temporales de las especies más relevantes d). Análisis
+de los cambios temporales en la composición del poblamien-
+to íctico para definir el potencial del Arrecife Artificial de Ta-
+barca, haciendo especial hincapié en el carácter predecible o
+impredecible del poblamiento.
+Material y métodos
+El estudio se realizó entre febrero de 1990 y agosto de 1992
+en un arrecife alveolar instalado en agosto de 1989 dentro
+de los límites de la Reserva Marina de Tabarca (Ramos y
+Bayle, 1990), a 21 metros de profundidad al sur de la Isla
+de Nueva Tabarca, Alicante (figura 1). El arrecife se diseñó
+con la finalidad de proteger la zona frente la pesca de arras-
+tre ilegal sobre la pradera de Posidonia oceanica (L.) Delile,
+1813, y para favorecer la restauración del medio marino. El
+Arrecife Artificial de Tabarca ocupa una superficie de unas 80
+ha, y está formado por 25 módulos antiarrastre de unas 9 tm,
+además de cuatro pirámides alveolares de 4,5 m de altura
+construidas con módulos rectangulares paralelípedos (figura
+2). Cada pirámide tiene un volumen de 50,6 m 3 .
+Los datos se obtuvieron mediante censos visuales en inmer-
+sión (Harmelin-Vivien et al., 1985) dada su idoneidad para es-
+tudiar la ictiofauna de este tipo de ambientes y por provocar
+un nivel mínimo de perturbación en la comunidad a estudiar.
+Esta metodología permite un seguimiento espacio-temporal
+bastante preciso de la porción observable del poblamiento
+íctico (Harmelin-Vivien y Francour, 1992). Los censos se rea-
+lizaron trimestralmente (febrero, mayo, agosto, noviembre)
+durante varios días consecutivos desde febrero de 1990 has-
+ta agosto de 1992, entre las 10 y las 14 horas. Durante la in-
+mersión se inspeccionaban las cuatro pirámides, realizando
+un censo en cada una de ellas y anotando todos los peces
+observados dentro del perímetro a un metro alrededor. Pri-
+mero se anotaban las especies más móviles, apuntando des-
+pués las especies crípticas y sedentarias a lo largo de un re-
+corrido minucioso por el interior de la estructura alveolar. En
+total se realizaban ocho censos en cada época de muestreo.
+En cada censo se registraba el número de individuos de cada
+especie y su talla, anotando la abundancia sobre clases pre-
+determinadas de progresión geométrica de base 2 (Great Ba-
+rrier Reef Marine Park Authority, 1978). Esto permite igualar
+los errores cometidos al asignar cada observación a alguna
+de las clases de abundancia, y homogeneizar las varianzas
+mediante transformación logarítmica (Frontier, 1986). Las
+marcas de clase de estos intervalos se tomaron como valores
+de abundancia de la respectiva clase para realizar los cálcu-
+los. La longitud de cada individuo o grupos de individuos se
+estimaba mediante una regla graduada fijada en el extremo
+de un bastón (Bohnsack y Bannerot, 1986). Estas estimas
+visuales de talla resultan precisas después de cierto entre-
+namiento (Bell et al., 1985). Los datos se agruparon poste-
+riormente en cinco clases de talla, determinadas dividiendo
+entre cinco la longitud máxima de cada especie referidas en
+la bibliografía (Whitehead et al., 1984-86).
+Para cada réplica se calculó la abundancia total, número de
+especies, diversidad y biomasa. Las especies se clasificaron,
+según su frecuencia de aparición, en residentes (f > 50%),
+transeúntes (50% > f > 25%) y ocasionales (f < 25%) (Kikuchi,
+1966). Para cada una de estas categorías, y en cada época
+de muestreo, se calculó su abundancia media, número medio
+de especies y la biomasa media. Considerando únicamente
+las especies residentes, se calcularon también estos mismos
+parámetros de lo que en lo sucesivo se llamará el poblamien-
+to residente. Todos estos parámetros de la comunidad, y la
+abundancia y biomasa correspondientes a cada especie, se
+analizaron mediante una ANOVA (Underwood, 1997) de dos
+factores fijos y ortogonales entre sí: época (invierno, primave-
+ra, verano) y año (1990, 1991, 1992). Se eliminaron los cen-
+sos pertenecientes al muestreo realizado en otoño de 1990
+por no tener completo este nivel para todos los años estudia-
+dos. Posteriormente, se aplicó un test de Tukey (Zar, 1984)
+para determinar niveles homogéneos dentro de cada factor.
+El análisis multivariante del poblamiento se realizó mediante
+un análisis de escalamiento multidimensional no parámetri-
+co (Clarke y Warwick, 1994) agregando los datos a la media
+de cada época de muestreo, contrastándose sus resultados
+mediante un análisis de la varianza multivariante basado en
+medidas de distancia estadística (PERMANOVA; Anderson,
+2005) incluyendo los factores Época y Año. Asimismo, se cal-
+cularon las disimilitudes entre muestras mediante SIMPER
+(Warwick et al., 1990). De lo que se trató, en definitiva, fue
+detectar periodos de estabilidad (sensu Snoeijs y Prentice,
+1989) en la composición del poblamiento.
+Resultados
+Composición específica y variación temporal de los
+parámetros del poblamiento
+A lo largo del estudio se observaron un total de 32 especies,
+pertenecientes a 17 familias. Sparidae, con 9 especies, fue la
+más representada, seguida de Serranidae (5 especies) y La-
+bridae con 4 especies. El resto de familias estuvieron repre-
+sentadas por una sola especie (tabla I). Del total de especies,
+17 (53 %) fueron consideradas como residentes, 10 (31 %)
+transeúntes y 5 (16 %) se consideraron ocasionales. Para el
+poblamiento total, la abundancia media (figura 2a) fue signifi-
+cativamente diferente entre los años estudiados (tabla 2) con
+tendencia a incrementarse según aumentaba el tiempo de in-
+mersión, aunque con una fuerte variabilidad entre época den-
+tro de cada año. Los máximos se dieron en invierno de 1990
+(187.514.61 individuos), debido a la presencia de un cardu-
+men de Seriola dumerilii, en otoño de 1990 (127.6810.29 in-
+dividuos), por el aumento del número de individuos de Diplo-
+dus vulgaris, Spondyliosoma cantharus y Chromis chromis,
+y en primavera de 1992 (158.9316.09 individuos), debido
+sobre todo al aumento de abundancia de Diplodus vulga-
+ris. La abundancia total media de individuos también fue alta
+en verano de 1992 (150.1959.41 individuos), al registrar-
+se un cardumen de Atherina sp. Teniendo en cuenta sólo el
+poblamiento residente (figura 2a), la abundancia media fue
+significativamente mayor según aumentaba el tiempo de in-
+mersión, con un patrón de diferencias claras entre épocas
+de muestreo repetido para cada uno de los años estudiados
+(tabla 3): aparecieron máximos de abundancia en la prima-
+vera de cada año estudiado, y en otoño de 1990. La mayor
+abundancia se registró en primavera de 1992 (154.3715.77
+individuos) debido al incremento en la abundancia de Diplo-
+dus vulgaris, Coris julis y Symphodus tinca.
+El número medio de especies del poblamiento total (figura 2b)
+tendió a aumentar significativamente a lo largo de los años
+estudiados (particularmente en 1992), con diferencias claras
+y un patrón muy marcado entre épocas (tabla 2). Destacan el
+otoño de 1990 (8.870.39 especies) y la primavera de 1992,
+con 110.7 especies. El número medio de especies residen-
+tes (figura 2b) reflejó una pauta similar (tabla 3), con un au-
+mento progresivo a lo largo de la duración del estudio hasta
+un máximo en primavera de 1992 (9.750.41 especies).
+La biomasa media del poblamiento total (figura 2c) mostró
+un máximo en invierno de 1990 (76139.1 gr8899 gramos/
+pirámide), debido a la presencia del cardumen de Seriola
+dumerilii. El resto de épocas estudiadas presentan leves in-
+crementos debidos, principalmente, al aumento del número
+de individuos de Diplodus vulgaris. Se observaron diferen-
+cias entre épocas y años estudiados, sin un patrón definido
+entre épocas dentro de cada año (tabla 2). La biomasa de
+especies residentes (figura 2c) tendió a incrementarse a lo
+largo del periodo de estudio, aumentando significativamente
+en 1992 debido al incremento de D. vulgaris, C. julis, S. tinca
+y Sciaena umbra. Entre épocas de muestreo también existie-
+ron diferencias significativas (tabla 3), con un patrón marcado
+entre épocas dentro de cada año estudiado. Los valores osci-
+laron entre 1923161.6 gr/pirámide en invierno de 1991 y los
+10452.51358.4 gr/pirámide de primavera de 1992.
+Respecto la abundancia de especies transeúntes (figura 3a),
+ésta fue diferente entre épocas y años estudiados (tabla 4),
+sin mostrar un patrón de variabilidad concreto. Presentó un
+máximo en invierno de 1990 (131.516.86 individuos), por
+la presencia del cardumen de Seriola dumerilii, y en verano
+de 1992 al registrarse un cardumen de juveniles de Atherina
+sp (8.562.29 individuos). En otoño de 1990 se observó una
+abundancia media de 14.372.65 individuos transeúntes, de
+los cuales 11.132.84 fueron Spondyliosoma cantharus. El
+número medio de especies transeúntes (figura 3b) no varió
+significativamente entre épocas ni entre años estudiados, no
+mostrando un patrón concreto entre épocas dentro de cada
+año de estudio. Los valores medios oscilaron entre 0.40.29
+especies en verano de 1990 y 2.830.47 especies en invier-
+no de 1990. La presencia del cardumen de Seriola dumerilii
+supuso que la biomasa de especies transeúntes tuviera un
+máximo en invierno de 1990 (74058.29254.4 gramos/pirá-
+mide) (figura 3c), con valores por debajo de los 5000 gramos
+para las épocas restantes. El patrón de variabilidad de este
+parámetro no siguió una tendencia anual ni estacional.
+Las especies ocasionales (figura 3a, b, c) no mostraron di-
+ferencias significativas en su abundancia media ni en el nú-
+mero medio de especies ni en su biomasa (tabla 4). Sus va-
+lores fueron muy bajos, yendo de los 0.380.25 individuos
+de Thalasoma pavo en primavera de 1991, a los 0.190.19
+individuos del resto de especies ocasionales (Torpedo torpe-
+do, Epinephelus marginatus, Dicentrarchus labrax y Sarpa
+salpa).
+Análisis a nivel de especies
+De las 32 especies observadas en el Arrecife Artificial de Ta-
+barca durante el periodo de estudio (ver tabla 1), 18 especies
+presentaron diferencias significativas en su abundancia y bio-
+masa, ya sea entre años estudiados, entre épocas o simple-
+mente en la interacción de ambos factores (tabla 5 y 6). Once
+especies no presentaron diferencias significativas entre épo-
+cas. De estas especies, siete (Epinephelus costae, Sciaena
+umbra, Diplodus puntazzo, Diplodus sargus, Chromis chro-
+mis, Labrus merula y Scorpaena scrofa) aparecieron de for-
+ma regular durante el estudio después de colonizar el arrecife
+artificial. Las otras 4 son especies que aparecen con cierta
+continuidad al final del estudio (Muraena helena), de forma
+esporádica (Anthias anthias) o en periodos muy concretos del
+estudio (Oblada melanura, Spondyliosoma cantharus). Los
+cambios que presentaron estas especies fueron significati-
+vos entre años estudiados (excepto Anthias anthias y Labrus
+numerula, en los que sólo la interacción fue significativa), ya
+sea porque fueron progresivamente aumentando de número
+y biomasa a lo largo del tiempo de estudio como Sciaena um-
+bra, Diplodus puntazzo, Oblada melanura, Chromis chromis
+y Scorpaena scrofa; o porque aparecieron en mayor número
+en una época del año determinada, disminuyendo en otro pe-
+riodo de tiempo (Muraena helena, Epinephelus costae, Diplo-
+dus sargus, Oblada melanura y Spondyliosoma cantharus).
+De estas 11 especies, cuatro resultaron con interacción no
+significativa. Se trata de especies que mantienen su abun-
+dancia y biomasa constantes a lo largo de las diferentes épo-
+cas del año, incrementándose año a año como Sciaena um-
+bra y Scorpaena scrofa, o disminuyendo un año para volver a
+incrementarse al siguiente, caso de Muraena helena y Epìne-
+phelus costae. En el resto, la interacción es significativa, de
+forma que dependiendo del año, la abundancia y la biomasa
+de estas especies en cada época varió de forma diferente
+(tabla 5 y 6). Mullus surmuletus sólo presenta diferencias sig-
+nificativas entre épocas, siendo mayor su presencia en los
+periodos invernales. La interacción tampoco es significativa,
+lo que refleja una pauta de aparición invernal muy concreta
+para todos los años estudiados.
+La abundancia y la biomasa del resto de especies -Serranus
+cabrilla, Seriola dumerilii, Diplodus vulgaris, Pagrus pagrus,
+Coris julis y Symphodus tinca- fueron significativas entre épo-
+cas y años. En unos casos, la significación se debió a la apa-
+rición esporádica de la especie, con valores altos, como es
+el caso de Seriola dumerilii y Pagrus pagrus. En el caso de
+Serranus cabrilla, Diplodus vulgaris, Coris julis y Symphodus
+tinca, las diferencias se debieron más a repuntes de su abun-
+dancia en ciertas épocas con una pauta muy definida.
+El resto de especies -hasta 14 en número- no presentaron
+diferencias significativas para los factores considerados. En
+algunos casos como Torpedo torpedo, Phycis phycis, Epine-
+phelus marginatus, Dicentrarchus labrax, Diplodus annularis,
+Sarpa salpa, Spicara maena, Thalassoma pavo, Balistes ca-
+rolinensis y Atherina sp se debió a su aparición esporádica.
+El resto de especies -Apogon imberbis, Dentex dentex, Para-
+blennius rouxi y Tripterigion tripteronotus- aparecieron de for-
+ma más o menos constante pero con unos niveles de abun-
+dancia media muy bajos (entre 0.1 y 2 individuos/pirámide).
+Análisis multivariante de la variación temporal del
+poblamiento
+El MDS bidimensional basado en la abundancia de las es-
+pecies, a un 60% de similaridad, muestra una clara separa-
+ción entre la primera (invierno 1990) y la última (verano 1992)
+época de muestreo (figura 4). Entre las dos se distinguen dos
+grupos: uno formado por los muestreos de invierno 1991, in-
+vierno 1992 y verano 1991; y otro grupo con el resto mues-
+treos. SIMPER dió unas disimilitudes entre muestreos entre
+el 20 y el 82%, debido principalmente a especies como Se-
+riola dumerilii, Chromis chromis, Diplodus vulgaris o Sciaena
+umbra, ya sea porque son especies que aparecen y desapa-
+recen de un muestreo al otro, porque cambian de densidad o
+porque aumentan paulatinamente de densidad según aumen-
+ta el tiempo de inmersión del Arrecife Artificial de Tabarca. La
+composición del poblamiento íctico en términos de abundan-
+cia varió de manera diferente entre épocas para cada uno
+de los años estudiados, sin un patrón definido significativo
+que marque eventos temporales repetitivos (PERMANOVA:
+MS época x año : 5911,23; F: 6,001; P<0,0002). La ordenación de
+las especies en el MDS (figura 5) muestra tres grupos de es-
+pecies muy solapados entre si, compuestos por aquellas que
+aparecen de manera más o menos continuada a lo largo del
+estudio, y luego toda una serie de grupos correspondientes
+a especies que aparecen de manera ocasional en diferentes
+muestreos.
+Discusión
+La composición íctica del arrecife artificial de Tabarca es simi-
+lar cualitativamente a la observada en otros arrecifes artificia-
+les estudiados en el Mediterráneo Occidental mediante cen-
+sos visuales (Ody, 1987; Charbonnel, 1990; Sánchez Jerez
+y Ramos, 1995; Ardizzone et al., 1997a; D’Anna et al., 1994;
+Relini et al. 1994; Moreno et al., 1994); y está claramente dife-
+renciada de aquellas registradas en el Mediterráneo Oriental
+(Spanier et al., 1990; Spanier, 1995), Atlántico central (Bor-
+tone et al., 1994; Neves Santos et al. 1996; Herrera, 1998) y
+del Atlántico septentrional (Jensen et al., 1994; Collins et al.
+1995; Lewis et al. 1997).
+A los seis meses de su instalación, el arrecife artificial de
+Tabarca albergaba un total de 11 especies, de las cuales 6
+se consideraron residentes. Esta rapidez en ocupar hábitats
+nuevos se ha observado tanto en arrecifes artificiales ins-
+talados en zonas templadas como en zonas tropicales (Bo-
+hnsack y Sutherland, 1985; Bohnsack y Talbot, 1980). Al final
+del presente estudio, después de tres años desde su inmer-
+sión, se registraron un total de 32 especies, que contrasta
+por un lado con las 17 especies observadas por Ardizzone
+et al. (1997a) después de diez años; representa un número
+de especies similar a las encontradas por Fabi y Fiorentini
+(1994) al cabo de cuatro años en Senigallia (Italia). Por el
+contrario, se diferencia de las 41 especies registradas por
+Relini et al. (1994) en Loano (Italia) después de tres años; o
+las 36 encontradas por Sánchez Jerez y Ramos (1995) en El
+Campello al cabo de dos años de estudio. Estas diferencias,
+en cuanto al número total de especies, no sólo se deben a la
+localización geográfica, ni están necesariamente correlacio-
+nadas con el tiempo de inmersión (Ardizzone et al. 1997b),
+sino que dependen también de otros factores como la pro-
+fundidad (Ody y Harmelin, 1994), la complejidad del sustrato
+artificial (Ody, 1987), la naturaleza y estado de los fondos
+circundantes (Randall,1963), y el nivel de desarrollo de las
+comunidades bentónicas (Relini et al. 1994).
+La explicación de que se hayan observado un total de 32
+especies -y sólo 17 de ellas fueron residentes- se puede de-
+ber a varios factores, aunque profundidad y tipo de diseño
+parecen ser los más determinantes. El hecho de estar insta-
+lado a 21 metros de profundidad, por debajo de la termoclina
+estival y sobre un fondo de sedimento fino fácilmente movili-
+zable en suspensión, le da un carácter circalitoral al Arrecife
+Artificial de Tabarca, reflejado en la comunidad fitobentónica
+de afinidad esciáfila existente durante la duración del estudio
+(Aranda y Boisset, 1993); y la presencia en ciertas épocas
+de Anthias anthias, especie característica de fondos rocosos
+circalitorales (Whitehead et al., 1984-86), o de Serranus ca-
+brilla que es típico de fondos litorales profundos en el Medi-
+terráneo (García Rubiés, 1997). El efecto de la profundidad
+sobre la estructura de la comunidad íctica ha sido puesta de
+manifiesto por varios estudios tanto en fondos de roca (Bell,
+1983; García Rubiés y Zabala, 1990; Jouvenel, 1992; García
+Rubiés, 1997) como de pradera de Posidonia oceanica (Gar-
+cía Charton et al., 1993; Harmelin-Vivien, 1984) y en arrecifes
+artificiales (Ody, 1987; Bayle et al., 1994; Ody y Harmelin,
+1994), causando un empobrecimiento general en el número
+de especies del poblamiento (Harmelin, 1990).
+El otro factor considerado importante -el diseño estructural
+de los módulos- habría impedido una mayor riqueza de es-
+pecies debido a la falta de una mayor complejidad estructural
+que favoreciese un mayor número de microhábitats, y refugio
+más seguro para especies sedentarias y/o de pequeño tama-
+ño, con unos requerimientos o relación con el sustrato muy
+definidos (Bohnsack, 1991). Los mismos resultados se han
+obtenido en otros arrecifes artificiales construidos en Francia
+con grandes aberturas internas (Charbonnel, 1990), a pesar
+de tener un volumen tres veces mayor que el Arrecife Artificial
+de Tabarca. La relación entre ictiofauna, y el tipo y estructu-
+ra espacial del sustrato ha sido evidenciada por numerosos
+trabajos (Luckhurst y Luckhurst, 1977; Hixon y Beets, 1989;
+García Charton et al., 2004), llegándose a considerar como
+uno de los factores más importantes en lo que respecta al
+éxito o fracaso de los objetivos de un arrecife artificial (Bo-
+hnsack et al., 1991; Pickering y Whitmarsh, 1997).
+Respecto a la variación temporal, la abundancia media del
+poblamiento total no presentó un patrón definido, en el sen-
+tido que no se distinguen claramente pautas estacionales o
+interanuales concretas. A pesar de los resultados del ANO-
+VA, que sólo encuentra significativa la variabilidad interanual,
+lo cierto es que la abundancia media del poblamiento total
+fluctúa acusadamente a lo largo del periodo estudiado. Gran
+parte de esta fluctuación se debe a las especies errantes pe-
+lágicas, que utilizan el arrecife artificial como referencia es-
+pacial (Sato, 1985) o se agregan a él como respuesta a un
+comportamiento concreto (Nakamura, 1985), permaneciendo
+durante periodos más o menos largos. Es el caso de Seriola
+dumerilii, que está presente de forma abundante durante los
+primeros muestreos hasta su paulatina desaparición en el ve-
+rano de 1990, probablemente debido a migraciones relacio-
+nados con la ontogenia de la especie (Andaloro et al., 1992).
+Esta misma especie volvió a aparecer esporádicamente a lo
+largo del estudio (primavera 1991), y se tiene constancia que
+ha aparecido agregada alrededor del Arrecife Artificial de Ta-
+barca después de finalizado el muestreo, siendo frecuente
+entre finales de primavera y mediados de verano, época en
+la que es capturada por la flota artesanal de Tabarca median-
+te curricán. Otras especies pelágicas, como Spicara maena
+u Oblada melanura, mostraron una pauta igualmente irregu-
+lar. Estas especies, parecen estar más determinadas por las
+concentraciones de plancton que por cualquier otro tipo de
+factor biótico o abiótico (Hamner et al., 1988).
+En términos similares se comporta la abundancia media del
+poblamiento residente, aunque con cierta pauta más defini-
+da que se refleja en una mayor abundancia en primavera.
+Una buena parte de la variabilidad fue debida a las fluctua-
+ciones en la abundancia de Diplodus vulgaris, que aparece
+en cardúmenes pluriespecíficos junto con Diplodus sargus y
+Diplodus puntazzo. Esta especie es típica de fondos rocosos
+infralitorales, con topografía más o menos accidentada (Sala
+y Ballesteros, 1997). Sus variaciones son debidas, por una
+parte, al comportamiento reproductor que tiene lugar entre
+mediados de primavera y primeros de verano (Mann y Bux-
+ton, 1998) que los hace concentrarse alrededor de fondos
+rocosos; y a las variaciones otoñales e invernales debidas a
+movimientos erráticos provocados posiblemente por el entur-
+biamiento de las aguas tras fuertes temporales (obs. per.).
+Muchos autores describen pautas estacionales de la abun-
+dancia en arrecifes artificiales del Mediterráneo (por ejemplo,
+Relini et al., 1994; Relini et al., 1995), sobre todo los que uti-
+lizan artes de pesca artesanal en el estudio de la ictiofauna
+(Fabi y Fiorentini, 1994; D’Anna et al., 1994). Otros autores
+asumen una mayor variabilidad en sus datos, que supera la
+puramente estacional (Ody, 1987; Bregliano y Ody, 1987;
+Charbonnel, 1989; Herrera, 1998). Estos autores interpretan
+esta mayor variabilidad como el resultado de la coincidencia
+en el tiempo de los efectos estacionales y el proceso de colo-
+nización reflejado en la llegada de nuevas especies al arrecife
+artificial. Dentro de la variabilidad total mostrada por la abun-
+dancia media a lo largo del estudio, una parte significativa se
+deberá, por un lado, a la variabilidad - tanto espacial como
+temporal- a pequeña escala derivada de la desigual presen-
+cia de los individuos entre los cuatro módulos que forman el
+arrecife artificial de Tabarca, y a lo largo de los días en que
+se realizaban los censos de cada época. Esta variabilidad
+entre censos de arrecifes artificiales de idénticas caracterís-
+ticas ha sido citada por varios autores (Molles, 1978; Talbot
+et al., 1978; Bohnsack y Talbot, 1980; Herrera, 1998), y se
+interpreta como evidencia de la falta de interacciones sólidas
+que determinen la coexistencia de especies o la composición
+específica de un poblamiento que ocupe un tipo de hábitat
+particular (Sale, 1988). Otro aspecto que merece la pena ser
+destacado es la falta de pautas asintóticas en la dinámica de
+la abundancia media a lo largo del tiempo de estudio, que
+podría ser un indicio de que no se ha llegado a saturar la ca-
+pacidad de carga del hábitat artificial (Sale, 1980).
+El número medio de especies aumenta progresivamente a
+lo largo de los años de muestreo -más evidente consideran-
+do sólo el poblamiento residente-, lo que puede interpretarse
+como un proceso de colonización paulatina aunque con una
+variabilidad acusada entre épocas. Estos resultados son simi-
+lares a los encontrados por otros autores (Aguilar y González,
+1984; Walsh, 1985; Ody, 1987; Charbonnel, 1989; Buckley y
+Hueckel, 1985; Neves Santos, 1997; Herrera, 1998), y están
+directamente ligados al tiempo de inmersión del arrecife ar-
+tificial (Relini et al., 1994). La variabilidad interestacional en
+el número de especies se debe, por un lado, a la mayor pre-
+sencia durante la primavera de algunas especies (Coris julis,
+Symphodus tinca, Labrus merula) con un marcado comporta-
+miento reproductivo (Lejeune, 1984); y a la presencia de es-
+pecies ocasionales y transitorias en momentos muy concre-
+tos (por ejemplo, Spondyliosoma cantharus, Dentex dentex,
+Mullus surmulletus, Oblada melanura, Balistes carolinensis,
+Atherina sp). El incremento interanual lo provocan aquellas
+especies de tipo sedentario que pasan a ocupar el arrecife ar-
+tificial de forma más o menos permanente. Este grupo lo for-
+man, básicamente, Muraena helena, Phycis phycis, Epine-
+phelus costae, Sciaena umbra y Scorpaena scrofa. Tenemos,
+por tanto, un solapamiento en el tiempo de dos procesos. Por
+una parte, el recambio de especies a lo largo del tiempo pro-
+vocado por las diferentes formas de utilizar el arrecife artificial
+por parte de las distintas especies (Harmelin y Bellan-Santini,
+1997) y el asentamiento progresivo de especies residentes
+que usan el arrecife artifi cial como hábitat habitual. Las espe-
+cies directamente responsables del proceso de colonización
+propiamente dicho llegan a oleadas sucesivas a lo largo de
+los años estudiados, como queda reflejado en la ordenación
+multivariante de los muestreos. Probablemente, las especies
+más ligadas al proceso colonizador llegan buscando un hábi-
+tat apropiado como refugio, ya que la mayoría son de hábitos
+sedentarios, muy ligadas al sustrato, en un proceso similar al
+que propone Sale (1991), en el que las especies se reparten
+por el espacio habitable disponible mediante un proceso al
+azar. Tampoco debería descartarse el efecto de la atracción
+por el aumento de presas tanto de naturaleza íctica, como al
+aumento de presas ligado al desarrollo en complejidad y bio-
+masa de la comunidad bentónica (Hueckel y Buckley, 1987),
+como se ha comprobado en algunos arrecifes artificiales
+(Foster et al, 1995; Herrera, 1998). Si bien, este efecto pro-
+bablemente sea menor que el inducido por la complejidad del
+hábitat, ya que la mayor parte de las especies parece que se
+alimentan de los fondos blandos cercanos (Ardizzone et al.,
+1997a; Bortone y Nelson, 1995). También hay que considerar
+los posibles efectos que puedan tener sobre la tasa de colo-
+nización del poblamiento total otros factores como la estacio-
+nalidad (Osman, 1978; Schoener, 1974), las características
+autoecológicas de las especies implicadas (Simberloff, 1978;
+Villa et al., 1992) o las perturbaciones de tipo natural (p.e., los
+temporales) o antrópico (Herwitz et al., 1996)
+Podemos concluir que, aunque se aprecia una cierta tenden-
+cia hacia una mayor estructuración y complejidad, los pará-
+metros del poblamiento reflejan una acusada fluctuación tem-
+poral a lo largo de todo el periodo de estudio, que se consi-
+dera típico de las primeras fases de la ocupación del arrecife
+(Bohnsack et al., 1991). A una escala temporal anual, los re-
+sultados indican un cierto nivel de estabilidad del poblamien-
+to íctico (sensu Snoeijs y Prentice, 1989) entre 1991 y 1992,
+ya que los muestreos de este último año fueron muy similares
+a los del primero. Por otro lado, y considerando la dinámica
+de algunas especies por separado, se puede apreciar cier-
+ta tendencia más acorde con lo esperado en un proceso de
+colonización. Esto nos demuestra que, para ciertos tipos de
+estudio, puede ser más recomendable el seguimiento y aná-
+lisis de ciertas especies concretas o grupos de especies, que
+el análisis de la comunidad en su conjunto (Sánchez Jerez y
+Ramos-Esplá, 1996).
+Las fluctuaciones a una escala temporal pequeña evidencian
+la falta de interacciones entre las diferentes especies (Gas-
+con y Miller, 1981), y son un indicio que el arrecife artificial
+de Tabarca no es capaz de condicionar progresivamente un
+estado de “estabilidad” permanente en los tres años que duró
+el estudio, probablemente debido a la inmadurez del sistema
+(Christensen, 1995). Por tanto, podemos considerar que la
+ictiofauna del arrecife artificial de Tabarca, en estos tres años
+de estudio, ha tenido una dinámica poco predecible. Esta
+conclusión apoya la idea de que este número de años (3, en
+nuestro caso) son insuficientes para favorecer el asentamien-
+to de una comunidad de peces mínimamente estructurada,
+y que pueda ser sometida a explotación pesquera. Por otra
+parte, la dinámica de la comunidad íctica refleja la importan-
+cia del diseño del arrecife artificial, de su localización, y del
+estado, naturaleza y configuración de los tipos de fondos cir-
+cundantes.
+Por otro lado, la biomasa residente del arrecife artificial de
+Tabarca observada durante el periodo de estudio nunca so-
+brepasó los 12 kg. de media, siendo los valores más usuales
+entre 2 y 6 kg. Este hecho, teniendo en cuenta la biología de
+las especies que más proporción de biomasa aportan (se-
+dentarias, crecimiento lento, cociente P/B bajo), no permitiría
+una explotación pesquera continuada y rentable. Hablamos
+de especies directamente relacionadas con la estructura ar-
+tificial sumergida, y no de los poblamientos que puedan de-
+sarrollarse a lo largo de la área de influencia del arrecife. Es-
+tas últimas podrían experimentar cambios positivos debido al
+cese del impacto de la pesca de arrastre, como así se ha de-
+mostrado en arrecifes artificiales antiarrastre extensivos para
+el caso de Mullus surmuletus (Martínez Hernández, 1996).
+Plantear la explotación sistemática de estos arrecifes artifi-
+ciales podría suponer el aumento de la vulnerabilidad de las
+especies sedentarias atraídas desde fondos naturales cerca-
+nos (Polovina, 1989). Se podría plantear -y de hecho, así ha
+sucedido en la práctica durante los últimos tres años- una
+explotación de los cardúmenes de Seriola dumerilii mediante
+curricán de superficie o medio fondo, aprovechando la ten-
+dencia de esta especie a agregarse alrededor de este tipo de
+estructuras, y como actividad complementaria a la realizada
+con otros artes de pesca. Esta actividad se ha establecido
+espontáneamente, y la realizan pescadores artesanales pro-
+fesionales y deportivos, principalmente entre los meses de
+mayo y septiembre.

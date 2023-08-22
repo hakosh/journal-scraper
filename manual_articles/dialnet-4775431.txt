@@ -1,0 +1,445 @@
+La restauración ecológica es una herramienta de creciente im-
+portancia en el intento por manejar, conservar y reparar los ecosis-
+temas del mundo (Hobbs 2004; Choi 2007) que tiene como meta
+restablecer la estructura, función, diversidad y dinámica del ecosis-
+tema en cuestión (SER 2004).
+El enfoque tradicional de dicha disciplina ha sido devolver a
+los ecosistemas a la trayectoria previa al disturbio utilizando un
+ecosistema de referencia pasado como modelo para su recupe-
+ración. Este enfoque es, en la actualidad, severamente criticado
+debido a la falta de conocimiento de los ecosistemas pasados y
+a la incertidumbre para definir cuan atrás en el tiempo se debe
+llevar a los ecosistemas para considerarlos restaurados (Vitousek
+et al. 1997; Choi 2007).
+Una nueva perspectiva en la ecología de la restauración indica
+que los esfuerzos no deben ser limitados por una “fidelidad histó-
+rica” (Higgs 2003; Halvorson 2004; Throop 2004), y numerosos au-
+tores destacan la necesidad de restaurar ecosistemas para que
+sean capaces de persistir en ambientes futuros, con un clima en
+cambio y una población mundial en crecimiento (Cairns 2002; Davis
+y Slobodkin 2004; Choi 2004). Esta perspectiva se relaciona con
+el concepto de ecosistemas híbridos (Hobbs et al. 2009), definido
+como aquellos que aún conservan características del sistema his-
+tórico pero que en la actualidad su composición y función no se co-
+rresponden con el rango histórico de variabilidad.
+En el pasado, para muchos intentos de “restauración”se eligió,
+con un criterio simplemente pragmático, utilizar especies que pudie-
+ran sobrevivir en un área dada; esto no basta ni es lo adecuado
+pues, frecuentemente, el problema no es que una planta, animal u
+hongo exótico no se adapten sino, por el contrario, que lo hagan tan
+bien que inhiban, desplacen o eliminen especies nativas que son
+las que estamos obligados a conservar (Sanchez et al. 2005). Una
+perspectiva de restauración razonada debe considerar la biodiver-
+sidad nativa de cada área constituye un recurso fundamental para
+la restauración de los ecosistemas terrestres (Renison et al. 2005).
+Las especies del género Tamarix, originarias de África y Eurasia
+e introducidas por sus propiedades ornamentales y su capacidad
+de controlar procesos de erosión en ambientes xéricos, afectan a
+grandes superficies de los ecosistemas ribereños del sudoeste de
+Estados Unidos, México y Australia, entre otros lugares (DeLoach
+et al. 2000; Chambers y Hawkins 2004; Hart et al. 2005; Whitcraft
+et al. 2007).
+Numerosas investigaciones indican que las invasiones de Ta-
+marix pueden producir impactos negativos tanto sobre la biodiver-
+sidad como sobre el régimen de disturbios de los ambientes que
+invade (Cleverly et al. 1997; DeLoach et al. 2000; Zavaleta 2000;
+Shafroth et al. 2005), llevando a la reducción del valor recreativo
+(DeLoach et al. 2000) y productivo de la tierra (Brock 1994; Zava-
+leta 2000; Stevens et al. 2001).
+En Argentina, este género está representado por cuatro espe-
+cies: T. ramosissima Ledeb., T. chinensis Lour., T. gallica L. y T.
+parviflora DC. y se encuentra ampliamente distribuido entre los 49°
+07’ y 22° 91’ S y los 70° 03’ y 57° 10’ O. En este extenso territorio
+existen gran cantidad de áreas de alto valor de conservación que
+se encuentran en riesgo por la presencia de poblaciones invasoras
+del género (Natale et al. 2008).
+Las técnicas de control de Tamarix han sido ampliamente estu-
+diadas y estandarizadas; sin embargo, existen muy pocos estudios
+sobre la recuperación de los sitios invadidos y la respuesta de los
+ecosistemas a largo plazo luego de su control (Kennedy et al. 2005;
+Gieck et al. 2005; Harms y Hiebert 2006; Bay y Sher 2008). Para
+lograr la restauración de los ecosistemas afectados por tamariscos,
+algunas investigaciones indican que no es suficiente con su control,
+y sugieren acciones posteriores de revegetación con especies to-
+lerantes a los niveles de conductividad eléctrica (CE) y disponibili-
+dad hídrica comunes en los suelos invadidos (Ladenburger et al.
+2006), para evitar futuras reinvasiones o el avance de otras espe-
+cies exóticas (Taylor y McDaniel 2004; Shafroth et al. 2005; Harms
+y Hiebert 2006). A partir de lo anteriormente expuesto se plantea
+como hipótesis que la revegetación con especies nativas y con
+banco de semilla de bosque nativo, en áreas donde se ha eliminado
+tamarisco, aumenta la diversidad de especies nativas y disminuye
+la probabilidad de re-invasión.
+El objetivo general de este trabajo fue diseñar e implementar
+técnicas de manejo para la recuperación de ambientes invadidos
+por este género en el sur de la provincia de Córdoba, un área sus-
+ceptible de ser invadida por Tamarix. Los objetivos específicos son:
+1) seleccionar especies nativas para ser utilizadas en las pruebas
+de restauración y evaluar su crecimiento y supervivencia en condi-
+ciones de campo; 2) analizar el estado del banco germinable del
+bosque de Tamarix y de bosques nativos de referencia; y 3) diseñar
+e implementar un ensayo de restauración en un sitio invadido por
+Tamarix (control de tamariscos y revegetación con especies nati-
+vas). Esto permitirá generar información científica para la recupe-
+ración de áreas invadidas con características similares.
+Materiales y Métodos
+La metodología utilizada en el ensayo de revegetación se basó
+en lo expuesto por Shafroth et al. (2008), quienes afirman que la
+revegetación de los sitios invadidos luego del control del tamarisco
+puede realizarse mediante la siembra de semillas escarificadas o
+germinadas y la introducción de plantines o de estacas enraizadas.
+También se trabajó con el traslado de banco de semillas procedente
+de bosques nativos de acuerdo a lo descripto por Putwain y Gillham
+(1990) y por Pywell et al. (1995).
+Área de estudio
+El área de estudio se sitúa en el centro-sur de la Provincia de
+Córdoba (Argentina) sobre las márgenes del Arroyo Tegua
+(32°36’47”S, 63°39’18”O). Es un área característica de descarga
+hidrológica de los sistemas superficiales y subterráneos, con nivel
+freático somero (Blarasin el al 2005). Esta zona pertenece a la eco-
+rregión del Espinal, ubicada en la Provincia Biogeográfica de la
+Pampa, Subregión Chaqueña (Morrone 2000). Ocupa el centro-
+oeste de Argentina, entre los 30º y 39º latitud sur, Uruguay y sur
+del estado brasileño de Río Grande do Sul (Morrone 2001). En los
+remanentes de bosque nativo aledaños al área de estudio predo-
+mina la vegetación halófila adaptada al estrés salino e hídrico.
+El clima es templado y seco, con una temperatura media anual
+de 19.9º C, una máxima de 39º C y una mínima de -6ºC. Las pre-
+cipitaciones se concentran en verano (diciembre-marzo) y oscilan
+entre los 500 y 600 mm anuales. Los valores de conductividad
+eléctrica (CE) del suelo en los bosques de tamarisco del área es-
+tudiada son muy bajos, de 0.5 a 1 dSmˉ¹, mientras que el suelo de
+los bosques ubicados fuera de la llanura de inundación es media-
+namente salino. El suelo de los parches de bosque nativo que no
+han sido afectados por las inundaciones presenta una CE de hasta
+13 dSmˉ¹.
+El bosque seleccionado para realizar el ensayo se ubica en un
+área que no estuvo sujeta a inundaciones en los cinco últimos años
+y presenta una densidad de 50 tamariscos por 100 m², de un diá-
+metro a la altura del pecho (DAP) promedio de 10 cm, altura pro-
+medio de 6 m y con un suelo de salinidad de 0.69 dSmˉ¹.
+Identificación y selección de especies
+Para la identificación de las especies nativas a utilizar en la
+prueba de restauración se realizaron inventarios de plantas en par-
+ches de bosque nativo del área de estudio abarcando una super-
+ficie de 130 ha. Como paso previo, se calculó el tamaño de la
+unidad de muestreo por el método de parcelas anidadas con la co-
+rrección propuesta por Cain (1938), que resultó de 5.39 m 2 . Se tra-
+bajó en dos parches contiguos de bosque nativo donde se
+relevaron 20 parcelas. En cada una se registró la presencia y
+abundancia-cobertura de cada especie, utilizando la escala de
+Braun Blanquet (1979).
+La selección de las especies para ser utilizadas en revegetación
+se basó en los siguientes criterios: importancia fisonómica dentro
+del bosque nativo, hábito de crecimiento, capacidad de invasión,
+facilidad de propagación, antecedentes de uso para la restauración
+de ambientes degradados y utilidades adicionales (Vázques Yanes
+et al. 1999). Se recolectaron ejemplares que fueron identificados
+posteriormente en el laboratorio siguiendo la nomenclatura de Zu-
+loaga y Morrone (1999). La importancia fisonómica de las especies
+fue determinada considerando su cobertura en cada estrato, y se
+realizó una búsqueda bibliográfica para determinar la capacidad de
+invasión, sus utilidades y antecedentes de uso en restauración (Vita
+et al. 1997; Moreno et al. 200; Ruiz et al. 2003).
+Recolección y tratamiento de las semillas
+Una vez seleccionadas las especies se recolectaron semillas
+de ejemplares presentes en el sitio de estudio durante el verano de
+2007. Las mismas fueron secadas en estufa y sometidas a estrati-
+ficación térmica en heladera a 5ºC durante 30 días. Según las ca-
+racterísticas de las semillas se aplicó un tratamiento pregerminativo
+químico, mecánico o térmico. Para el tratamiento químico las semi-
+llas fueron colocadas en ácido sulfúrico al 95 % durante 45 minutos
+y luego fueron lavadas con agua abundante (D’Aubeterre et al.
+2002). Para el tratamiento térmico las semillas fueron sumergidas
+en agua caliente a una temperatura de 80º- 90º C durante una hora;
+mientras que para el tratamiento mecánico se raspó la cubierta se-
+minal con lija de grano fino hasta que esta se aclaró (Ruiz y Parera
+2005).
+Banco de semillas
+Para evaluar el estado del banco de semillas en el suelo, se
+aplicó la técnica del banco germinable en un parche de tamarisco
+y en otro de bosque nativo. La recolección de las muestras se rea-
+lizó durante el mes de abril, con posterioridad a la lluvia de semillas,
+con el fin de capturar la mayor diversidad de especies en el banco
+de semillas, tanto permanente como transitorio. Para la extracción
+de las muestras se utilizó un sacabocados de 30 mm de diámetro.
+Se tomaron cinco muestras de suelo en cuadrados de 5.39 m² (2.20
+m x 2.45 m), superficie correspondiente al área mínima de bosque
+nativo definida anteriormente, a dos profundidades (0-5 cm y 5-10
+cm). Las cinco muestras obtenidas de cada profundidad se secaron
+a temperatura de ambiente y tamizaron con mallas de tres medidas
+(10 mm, 2.5 mm y 0.25 mm), con el propósito de separar pedregu-
+llo, restos vegetales y material extrafino (Bakker 1989; Ter Heerdt
+et al. 1996). Posteriormente, tras un período de cuatro semanas en
+heladera a 5ºC, fueron colocadas en bandejas de plástico de 15
+cm x 20 cm, sobre un soporte de arena esterilizada de 2 cm de es-
+pesor. Dichos recipientes fueron llevados a un invernáculo, con luz
+natural y temperatura ambiente, colocándose además cuatro ban-
+dejas testigo que contenían solamente el soporte de arena esteri-
+lizada, con el objetivo de detectar la posible invasión de semillas
+ajenas a las muestras de suelo. Todas las bandejas fueron regadas
+periódicamente para mantener la capacidad de campo.
+Durante cinco meses se registró el número de plántulas de
+especies monocotiledóneas y de dicotiledóneas que emergieron
+en cada bandeja; las plantas permanecieron en el invernáculo
+hasta completar su desarrollo y lograr su correcta identificación
+taxonómica.
+Control de Tamarix
+Para el control de Tamarix, se utilizó la técnica del corte y apli-
+cación de herbicida (topicado), la cual consistió en cortar las plantas
+con motosierra a la menor distancia posible del suelo y se untaron
+con pincel los tocones, inmediatamente posterior al corte, con Togar
+disuelto al 25 % en gasoil (Shafroth et al. 2005; Lair 2007). Dicho
+control se realizó a fines de julio tratando un total de 70 individuos.
+Antes de aplicar el tratamiento, se identificó cada tamarisco y se
+registró el DAP, la altura y la presencia de agallas en los troncos
+con la finalidad de determinar de algún tipo de correlación de éstas
+variables con el método de control utilizado. Finalmente, para eva-
+luar la efectividad de dicho método se registró mensualmente la va-
+riable rebrote. Para el caso de presencia de parte aéreas, en la
+primera medición, se realizó una segunda aplicación de herbicida.
+Ensayo de restauración y seguimiento
+Para el ensayo se delimitaron tres parcelas de 49 m2 cada una
+dentro de un bosque de tamariscos de 1 ha superficie las cuales fue-
+ron alambradas para evitar el ingreso del ganado. Estas parcelas
+fueron subdivididas en cuatro parcelas de 12.25 m2 cada una donde
+se aplicaron aleatoriamente los siguientes tratamientos: 1) testigo
+(bosque de tamariscos); 2) control de tamariscos (corte); 3) control
+y plantación de especies nativas (plantines); y 4) control, plantación
+de especies nativas y trasplante de banco de semillas (banco).
+Previamente a la aplicación de los tratamientos se registró la
+cobertura de todas las especies presentes en cada parcela si-
+guiendo la metodología propuesta por Braun–Blanquet (1979). Se
+introdujeron un total de 102 individuos de tres a cuatro meses de
+edad, 17 en cada parcela de los tratamientos Plantines y Banco.
+En cada parcela del tratamiento Banco se introdujeron cuatro
+panes de suelo de 20 x 30 cm y 10 cm de profundidad procedentes
+de un bosque nativo aledaño. El seguimiento de las parcelas con-
+sistió en el registro de la riqueza de especies de plantas, el por-
+centaje de cobertura por estrato en cada parcela y la emergencia
+de plántulas a partir del banco introducido durante 20 meses. El
+registro se realizó en forma mensual durante el primer año y luego
+cada 6 meses hasta terminar la experiencia. Para los plantines se
+evaluó la supervivencia, la altura del eje principal, el número de ra-
+mificaciones y el estado fitosanitario de los individuos plantados.
+Para evaluar el estado fitosanitario se estimó visualmente la salud
+de los plantines, considerando el porcentaje de hojas y ramas
+secas y/o amarillentas y el estado del ápice. Las plantas fueron
+asignadas a una de las siguientes cuatro categorías de estado: 1:
+muy bueno; 2: bueno, 3: regular y 4: malo (Barchuk y Díaz 2000).
+Análisis de los datos
+Primero se verificó la normalidad y la homocedasticidad de
+todos los datos. Aquellos que no los cumplieron fueron analizados
+utilizando el test no paramétrico de Kruskal-Wallis y comparaciones
+entre tratamientos a través de las diferencias entre las medias de
+los rangos (Conover 1999). El resto fue analizado con ANOVA y el
+test a posteriori de Bonferroni.
+Para el estudio del proceso de supervivencia de las especies
+se realizó un análisis de supervivencia utilizando el método de Ka-
+plan-Meier y el test Mantel Cox (Long-rank) para la comparación
+de la supervivencia entre especies.
+Además, se realizó una regresión lineal para evaluar la existen-
+cia de correlación entre la eficacia del método de control del tama-
+risco con las variables DAP, altura y presencia de agallas.
+Los análisis estadísticos y gráficos fueron realizados con
+Graph-Pad Prism versión 5.0 (Inc. http://www.graphpad.com).
+Resultados
+Inventario y selección de especies
+En el área de estudio se registraron 74 especies, y de acuerdo
+con los criterios mencionados en la metodología, se seleccionaron
+para su propagación aquellas especies que se consideraron como
+dominantes estructurales y responsables de la fisonomía del bos-
+que. Así se seleccionaron dos especies arbustivas, Atriplex undu-
+lata (Moq.) D. Dietr. “zampa” y Lycium boerhaviifolium L. f. “tala de
+burro” con un 40 % de cobertura respectivamente, y tres especies
+arbóreas, Schinus fasciculatus (Griseb) I.M. Johnst. “moradillo” con
+un 30 % de cobertura, Celtis ehrembergiana (Klotzsch) Liebm. “tala”
+con un 60 % y Vachellia caven (Molina) Seigler y Ebinger “espinillo”
+con un 25 %.
+También se tuvo en cuenta que la capacidad de colonización
+de estas especies en el área de estudio se categorizó como baja,
+mientras que su facilidad de propagación, estimada a partir de
+datos de laboratorio de porcentaje de germinación y tiempo hasta
+su emergencia (Tabla 1), varió de medio a alto según la especie.
+Por otro lado, A. undulata y V. caven han sido previamente uti-
+lizadas en restauración de ambientes degradados, y excepto, L.
+boerhaviifolium, todas las especies presentaron utilidades adicio-
+nales como especies maderables, combustibles, melíferas, medi-
+cinales, ornamentales, tintóreas y/o forrajeras (Correa Castellanos
+et al. 1986, Vischi y Arana 2000; Carrillo et al. 2011)
+Banco de semillas germinable
+En el banco de semillas del bosque de tamariscos se identificaron
+las especies exóticas Cynodon dactylon (L.) Pers., Hordeum vulgare
+L. y Chenopodium alba L. y la especie nativa Bromus catharticus
+Vahl. En el banco de semillas del bosque nativo se registraron A. un-
+dulata, Talinum paniculatum (Jacq.) Gaertn.c, Oxalis conhorriza
+Jacq., B. catharticus y Sida rhombifolia L., todas ellas especies nati-
+vas, y la única especie exótica registrada en este banco fue C. dacty-
+lon. En ambos bancos germinaron otras especies que no pudieron
+ser identificadas dado que no llegaron a la floración durante el
+tiempo evaluado. El test no paramétrico de Kruskal-Wallis no arrojó
+diferencias significativas entre el número de plántulas emergidas en
+las bandejas del banco de semillas del bosque de tamarisco y del
+bosque nativo (p ≥ 0.16). Tampoco se encontraron diferencias entre
+el número de monocotiledóneas (p ≥ 0.84) y dicotiledóneas (p ≥
+0.37) entre ambos bancos. Cabe destacar que en ninguno de los
+bancos analizados se registraron especies leñosas ni germinaron
+semillas de tamarisco.
+El monitoreo del banco de semillas introducido en las parcelas
+de restauración resulto dificultoso debido a que la vegetación her-
+bácea circundante interfirió en el desarrollo de las plántulas emer-
+gentes y por ende en su cuantificación e e identidad taxonómica.
+Sólo se pudieron registrar un total de 12 especies, dos de las cua-
+les, Melica macra Nees. y Lycium infaustum Miers., no habían sido
+documentadas en los inventarios de la vegetación establecida en
+las parcelas de restauración.
+Control de tamariscos
+Luego de dos meses de realizado el control de tamariscos se
+registró un 22.8 % de individuos con presencia de partes aéreas.
+La efectividad del método, luego de la segunda aplicación de her-
+bicida, fue del 89 %. Las variables DAP, altura y presencia de aga-
+llas en los tamariscos no se correlacionaron con el porcentaje de
+rebrote (R² < 0.02).
+Ensayo de restauración
+El análisis de supervivencias arrojó diferencias significativas
+(p < 0.0001) entre las especies estudiadas. En la Figura 1 se puede
+observar que la especie que presentó el porcentaje de superviven-
+cia más alto fue L. boerhaviifolium con el 91.6 % de los individuos
+vivos que, además, tuvieron un muy buen estado fitosanitario. Va-
+chelia caven tuvo una supervivencia del 77.7 % y un estado fitosa-
+nitario que varió entre muy bueno y regular. En tercer lugar se ubicó
+S. fasciculatus con el 66.6 % de los individuos vivos y estado fito-
+sanitario muy bueno y, seguida por C. ehrembergiana con una su-
+pervivencia del 50 % y estado fitosanitario muy bueno. La especie
+que presentó el porcentaje de supervivencia más bajo fue A. un-
+dulata con un 4.1%, pero con un estado fitosanitario muy bueno.
+L. boerhaviifolium a partir de los dos meses de tratamiento y
+hasta el primer año mostró el mayor crecimiento promedio en al-
+tura del tallo principal, alcanzando una altura promedio de 48.3 cm.
+S. fasciculatus y V. caven presentaron un crecimiento constante,
+aunque menor que la especie anterior, llegando a una altura pro-
+medio de 34 cm aproximadamente.
+En el caso de C. ehrembergiana hubo un menor incremento en
+altura durante el primer año, presentando un valor promedio de casi
+22 cm Finalmente A. undulata tuvo un crecimiento muy desparejo
+mostrando un incremento en los tres primeros meses de evaluación
+que luego decayó por debajo de los 20 cm (Fig. 2), debido a que
+los individuos con mayores alturas sobrevivieron/ debido a la gran
+mortalidad de los individuos con mayor crecimiento.
+A fines del mes de julio de 2008, cuando se realizó el control del
+tamarisco, todas las parcelas presentaron una riqueza inicial de ocho
+a nueve especies y una composición florística dominada por un
+grupo de especies que persistió durante los veinte meses monitore-
+ados. Estas especies fueron Bacharis salicifolia (Ruiz y Pav.) Pers.,
+Clematis montevidensis Spreng., B. catharticus, C. dactylon, Dichon-
+dra microcalyx (Hallier F.) Fabris, Carduus acanthoides L., Carduus
+thoermeri Weinm., Senecio pampeanus Cabrera y H. vulgare.
+El análisis de la varianza (ANOVA) realizado con los datos ob-
+tenidos al final del ensayo arrojó diferencias significativas entre
+los tratamientos respecto de la variable riqueza total de especies
+(p < 0.0001). Lo mismo sucedió, con la riqueza de especies leño-
+sas (p < 0.05) obteniendo diferencias entre los tratamientos Testigo
+y corte con los tratamientos plantines y banco.
+Finalmente no se encontró diferencias significativas en la ri-
+queza de herbáceas (Fig. 3).
+Antes de aplicar el método de control la cobertura inicial de las
+especies leñosas fue del 100 % en todas las parcelas. A los 20
+meses de aplicados los tratamientos, el ANOVA encontró diferen-
+cias significativas (p < 0.0001) entre las parcelas Testigo con res-
+pecto al resto de los tratamientos y a su vez entre el tratamiento
+corte con respecto a los tratamientos platines y banco (Fig. 4). La
+cobertura de especies herbáceas final fue del 100 % en todos los
+tratamientos.
+Discusión y Conclusión
+Tanto L. boerhaviifolium y S. fasciculata, lograron establecerse
+y crecer satisfactoriamente reafirmando su potencialidad para su
+uso en restauración de áreas degradadas como lo propuso Mo-
+reno (2000). Si bien V. caven y C. ehrembergiana presentaron una
+alta supervivencia, aunque su crecimiento en las parcelas experi-
+mentales fue menor comparado con los reportados en otros tra-
+bajos (Vita et al. 1997). Esto podría indicar que las condiciones
+microclimáticas del área no fueron las más adecuadas para fa-
+vorecer un mayor desarrollo, al menos en las etapas iniciales del
+establecimiento. Con respecto a A. undulata, si bien existen resul-
+tados que indican que es de gran utilidad en la restauración de si-
+tios con características xerófilas (Ruiz et al. 2003), es una especie
+heliófila y posiblemente las condiciones de sombreado dentro de
+las parcelas (rodeadas de bosque de tamarisco) produjeron su alta
+mortalidad.
+La ausencia de germinación de semillas de tamarisco en las
+muestras provenientes del piso de los bosques de esta especie
+coincide con lo hallado con Taylor et al. (2006) quienes encontraron
+que las semillas de Tamarix tienen un período de viabilidad muy
+corto y no son persistentes en el banco. Si a esto se le suma los
+bajos valores de riqueza y cobertura de especies leñosas obtenidos
+en las parcelas del tratamiento corte se podría inferir que el riesgo
+de re-invasión por tamariscos sólo podría darse por la coincidencia
+de que se produzca un evento de inundación en la época de la llu-
+via de semillas tamarisco, situación propicia para el rápido desarro-
+llo de las semillas (Natale et al. 2010). Esto destaca la importancia
+de la introducción de especies leñosas nativas, por un lado, para
+evitar el restablecimiento del tamarisco, y por otro porque cumplen
+un importante rol estructural en la generación de microambientes
+heterogéneos en cuanto a condiciones de humedad, luz, tempera-
+tura y recursos disponibles para propiciar la regeneración natural
+del sistema y por su efecto nodriza en el establecimiento de otras
+especies nativas (Barchuk y Díaz 2000).
+La presencia de especies invasoras como Carduus acanthoi-
+des, Carduus thoermeri, Conium maculatum L., Morus sp. y Cyno-
+don dactylon, dentro de las parcelas tratadas refuerzan lo
+expresado por Shafroth et al. (2008), sobre la necesidad de dismi-
+nuir el riesgo de invasión por otras especies en áreas restauradas.
+Es importante destacar que la presencia de estas especies en el
+ensayo puede estar asociada a que el área estuvo previamente su-
+jeta a ganadería
+Las similitudes en cuanto a las variables riqueza y cobertura
+entre los tratamientos plantines y banco estarían indicando que el
+trasplante de banco de semillas no aportó una cantidad de indivi-
+duos ni de especies suficiente como para producir un incremento
+significativo en la biodiversidad. La ausencia de especies leñosas
+provenientes del banco coincide con lo obtenido en las pruebas
+de banco germinable, apoyando la estrategia introducción de plan-
+tines de especies leñosas en los procesos de restauración (Taylor
+et al. 2006; Shafroth et al. 2005; Harms y Hiebert 2006).
+De acuerdo a los datos de salinidad de suelo de los bosques
+nativos y de tamarisco, se puede inferir que en esta región, a dife-
+rencia de lo reportado por Stevens et al. (2001) las estrategias de
+ocupación del espacio de Tamarix se relacionan con eventos de
+inundación que estarían actuando como ventanas de oportunidad
+permitiendo que las semillas germinen y se establezcan (Natale et
+al. 2013). Esta situación podría explicar las diferencias encontra-
+das, en la cobertura de especies herbáceas del sotobosque, entre
+nuestro trabajo y lo reportado por Brock (1994) y Stevens et al.
+(2001); quienes reportaron que la hojarasca del tamarisco y la ele-
+vada salinidad del suelo en estos bosques impiden la supervivencia
+de las plántulas.
+La efectividad del método de control de tamarisco alcanzó va-
+lores similares a los reportados por otros trabajos en los que se uti-
+lizó la misma técnica (Lair 2007).
+Recomendaciones de Manejo
+Debido a que existen trabajos que sugieren que el tamarisco es
+sensible al sombreado durante la etapa de germinación (Stevens
+et al. 2001), recomendamos, para zonas xerófilas, el uso de
+Lycium y Schinus para impedir su reclutamiento en sitios restau-
+rado ya que fueron las especies de más rápido crecimiento en
+nuestro estudio
+Para hacer uso de la reconocida capacidad de las especies del
+género Atriplex para la recuperación de zonas degradadas sería
+necesario generar claros más amplios para permitir una mayor en-
+trada de luz o utilizarla para enriquecer bordes de parches de ta-
+marisco donde la incidencia lumínica sea mayor.
+Considerando los recursos y energía invertidos en la implanta-
+ción del banco de semillas proveniente del bosque nativo, no se re-
+comienda su utilización para la restauración de este tipo de
+ecosistemas. Sin embargo sería de interés evaluar el efecto de la
+implantación de banco de semillas mediante otras técnicas, como
+el esparcido del banco por sobre la superficie a restaurar, tal como
+se aplica en trabajos de restauración de áreas degradas por mine-
+ría (Clewell et al. 2000).
+De esta forma y de acuerdo a nuestros resultados, el enrique-
+cimiento de los bosques de tamarisco con islas de especies nati-
+vas podría considerarse como una estrategia factible para
+aumentar la diversidad funcional y estructural, y la resiliencia de
+estos sistemas naturales, generando condiciones más apropiadas
+para el restablecimiento de especies de flora y fauna nativas en
+bosques de llanuras.

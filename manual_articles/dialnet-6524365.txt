@@ -1,0 +1,350 @@
+Los  productos  derivados  de  la  minería  extractiva  en  las
+sociedades modernas son fundamentales para el desarrollo
+tecnológico y su
+aplicación
+ involucra desde la fabricación de
+aviones a la microelectrónica (Azapagic, 2004; Kossoff
+et al
+.,
+2014). En Chile, l
+a minería es sin duda la actividad económica
+más relevante y está dominada por la extracción de Cobre,
+que ha convertido al país en el primer exportador mundial
+(Villarino, 2015; Hernández, 2016). Esta actividad requiere la
+construcción  de  embalses  de  rela
+ves  de  tamaño variable,
+alcanzando en algunos casos tamaños considerables (>100
+ha).  Estos  embalses  atraen  una  cantidad  considerable  de
+aves acuáticas, alguna de las cuales los utilizan de manera
+permanente  (Read,  1999;  Calabrán,  2009;  Páez  2013).
+Adiciona
+l a estos embalses, la actividad minera requiere la
+construcción de piscinas de emergencia, en donde confluye
+y se almacenan los productos de la lixiviación de óxidos de
+cobre. Estas piscinas de emergencia con desechos líquidos,
+altamente tóxicos y de alta
+ acidez, también son utilizados
+por  algunas  aves  acuáticas  provocándoles  la  muerte  por
+intoxicación (Read, 1999), lo que convierte a estas piscinas
+en trampas ecológicas que producen extinción local de fauna
+(Battin, 2004), si no es manejado adecuadamente.
+En Chile, se desconoce la cantidad de aves que utilizan
+las  piscinas  de  emergencia  y  el  nivel  de  mortalidad  que
+alcanzan las poblaciones de aves acuáticas que las utilizan.
+Sin embargo, Angloamerican ChiIe
+ realizó un estudio para
+determinar las causas de muertes de patos en el año 2005
+en  la  zona  del  tranque  de  relave  Las  Tórtolas  (Región
+Metropolitana de Santiago) y en otros humedales de la zona,
+sin  determinar  la  causa  (Calabrán,  2009).  Aunque  la
+mortalid
+ad de aves disminuyó significativamente durante el
+año 2007, contabilizándose 180 muertes contra 1091 el año
+anterior,  desde  abril  de  2007  hasta  fin  de  año  sólo  se
+encontraron 3 aves muertas, para un total
+ de  1247  patos
+contados  (Calabrán,  2009).  Por  otro
+lado,  la  compañía
+minera Teck Carmen de Andacollo (Teck
+-CDA) entre la última
+semana
+de noviembre y la primera de diciembre de 2010,
+informó  a  las  autoridades  ambientales  de  Chile  sobre  la
+muerte  de  65  individuos  de  Gaviota  de  Franklin
+(
+Leucophaeus  pipixcan
+  Wagler,  1831
+)  en
+una  piscina  de
+emergencia
+al  norte del conjunto de piscinas de
+ emergencia
+de  la  faena
+.  La  protección  de  esta  especie  y  otras  que
+pudieran verse afectadas, fue determinante para que Teck-
+CDA desarrolle
+ un sistema que sea
+efectivo
+para disuadir a
+las   aves     con respecto  al  uso  de  estas  piscinas  y  evitar la
+mortalidad
+.
+A  pesar  de  que  los  sistemas  de  disuasión  de  aves
+existentes en el mercado (lanzadores pirotécnicos y sistemas
+de sonido) no siempre son efectivos debido a que las
+aves
+suelen  acostumbrase  (Stickley
+et  al
+.,  1995),  se  diseñó  un
+sistema de líneas paralelas de banderines de colores sobre
+las piscinas de emergencia, esperando que el movimiento de
+los mismos por acción del viento, funcionara como elemento
+disuasivo para l
+as aves. En consecuencia, si el sistema de
+banderines de colores colocados en líneas paralelas sobre las
+piscinas de emergencia disuade a las aves acuáticas del uso
+de  estos  cuerpos  de  agua  tóxicos,  entonces,  no  se  debe
+registrar eventos de mortalidad de a
+ves en las piscinas de
+emergencia de la operación minera de Teck
+-CDA. El objetivo
+de este trabajo fue evaluar la efectividad de este sistema de
+banderines,  simple  y  económico,  como  método  para
+minimizar las muertes de aves acuáticas en aguas ácidas de
+pisc  inas de lixiviación de cobre.
+El problema
+La operación minera de Teck
+-CDA se ubica en la comuna de
+Andacollo,  provincia  de Elqui, Región  de  Coquimbo,  en el
+centro norte de Chile
+ (30°15’4’’S, 71° 5’3’’
+O). Producto de la
+extracción  de  cobre  por  lixiviación
+,  entre  1996  y  2006
+existían  cinco  piscinas  de  emergencia  (agua  ácida)
+permanentes   y  pozas   de   agua   ácida   temporales.
+Actualmente   existen   siete   piscinas   de   emergencia
+permanente que en total suman tres hectáreas y hasta el
+2013 algunas pozas temporales que
+permanecieron activas
+dos o tres meses. Adicionalmente, dentro de la operación
+minera, existen  piscinas claras,  llamadas  así  por contener
+aguas que no son ácidas y se encuentran aptas para riego de
+áreas  verdes.  A  partir  de  enero  de  2011,  producto  de  la
+extracción  hipógena  de  cobre,  se  comenzó  a  formar  un
+embalse  o  depósito  de  relave,  el  cual  presenta  en  la
+actualidad una configuración de humedal y dista 800 m de
+las piscinas de emergencia. En sus inicios, el cuerpo de agua
+presentó  una  superficie  de  60  ha
+y  13  ha  de  sedimento
+aproximadamente. En diciembre de 2016, el cuerpo de agua
+presentó 76 ha mientras que el sedimento alcanzó las 177
+ha (Fig. 1). Análisis químicos del agua del embalse de Teck-
+CDA  indican  que  es  apta  para  riego  (SWS,  2011)  y  no
+represent
+a peligro para las especies de aves acuáticas que lo
+habitan.
+Solución: Sistema de banderines
+Después de la muerte de las 65 Gaviotas de Franklin entre
+noviembre y diciembre de 2010, se realizó una búsqueda
+bibliográfica de situaciones similares y posibl
+es sistemas de
+disuasión, sin embargo, los escasos reportes de sistemas de
+disuasión  presentados  en  la  literatura  resultaron  tener
+costos elevados.
+Para minimizar las muertes de aves acuáticas en aguas
+ácidas de piscinas de lixiviación de cobre, se implem
+entó un
+sistema  simple  y  económico  consistente  en  líneas  de
+banderines de plástico de diferentes colores separados 50
+cm  cada  banderín.  Los  banderines  tuvieron  formas
+rectangulares (30 x 15 cm de lado) y triangulares (30 cm de
+lado x 15 cm de base). En cad
+a piscina de emergencia se
+colocó líneas de banderines en paralelo separados de 6 a 10
+m entre sí sin seguir un patrón definido (Fig. 2)
+, dependiendo
+del tamaño de la piscina y bajo
+ un presupuesto establecido
+.
+Las líneas de banderines se colocaron la segunda semana de
+diciembre de 2010, una semana después de haber registrado
+la  muerte  de  cinco  Gaviotas  de  Franklin  en  una  de  las
+piscinas  de  emergencia.  Después  de  colocar  las líneas  de
+banderines, se instruyó al
+ personal de la
+empresa a reportar
+la presencia de
+ aves acuáticas en cuanto sean detectadas,
+vivas  o  muertas,  en  las  piscinas  de  emergencia  y  en  los
+alrededores dentro de los límites de la faena. Paralelamente,
+se inició un programa de monitoreo de aves que hagan uso
+tanto  de  las  piscinas  con  banderines,
+piscinas  claras,  así
+como del embalse contiguo. Este monitoreo se efectuó entre
+septiembre y enero de cada año desde el 2011 hasta el 2017,
+con un esfuerzo de muestreo de 34 visitas. Se evaluó en este
+período
+ por ser la época de inmigración de la
+Gaviotas
+de
+Franklin y otras especies de aves migratorias que se unen a
+las aves residentes del embalse.
+Resultados
+ y discusión
+Después  de  instalar  las  líneas  de  banderines  sobre
+  las
+piscinas de emergencia, no se registró uso de estos cuerpos
+de agua por parte de
+ alguna especie de ave. Tampoco se
+registró la muerte de ningún individuo, ni en las piscinas de
+emergencia  ni  en  los  alrededores  dentro  de  la  faena.  Sin
+embargo,  en  el  cuerpo  de  agua  del  embalse  aledaño  se
+registró la presencia permanente de ocho especies
+ de aves
+(Tabla 1) que potencialmente pudieron usar las piscinas de
+emergencia.
+En octubre de 2011, se dio cuenta de la muerte de un
+Pato Jergón Grande al interior de una de las pozas de aguas
+ácidas temporales
+de   1.60 ha (30°14'55"S/71° 5'30"O). Esta
+poza    se ubicó a 835 m de la piscina clara más cercana, 1110
+m de la piscina de emergencia donde murieron las Gaviotas
+de Franklin y 1700 m del embalse. Durante el periodo de
+evaluación  desde  la  colocación  de  los  banderines  en  las
+piscinas de emergencia, este fue el único hecho de muerte
+de un ave reportado al interior de la operación minera.
+Después de seis años de evaluación, el sistema de líneas
+de banderines sobre las piscinas de emergencia fue 100%
+efectivo.  Este  sistema  probado  en  Teck  CDA  contrasta
+fuerte
+mente con el sistema de faro rotatorio intermitente
+probado en piscinas de aguas limpias y tóxicas de la mina
+Olympic Dam de Australia donde las tasas de mortalidad se
+redujeron a un sexto de sus niveles más bajos en el segundo
+año  de  funcionamiento  del  si
+stema  de  disuasión,  lo  que
+representó 15 muertes de aves (Read, 1999). En el caso del
+tranque de relaves Las Tórtolas de la Región Metropolitana
+de Santiago, no se reporta el uso de disuasivos y aunque
+disminuyó la mortalidad (Calabrán, 2009), se desconoce
+ si se
+continuaron los conteos de ejemplares muertos.
+La mina El Tesoro ubicada en la región de Antofagasta
+(Chile) implementó  estructuras  disuasivas  en  el  año  2009
+(mallas perimetrales de fibra de vidrio de 1,5 m de altura y
+dispositivos   sonoros   ahuyenta
+-aves)   para   evitar   el
+acercamiento y caída de aves silvestres en las piscinas. Hasta
+el año 2014 la Superintendencia del medio Ambiente de esta
+empresa no reportó muertes o interacción entre piscinas y
+aves  (SMA,  2014).  Posterior  a  esta  información,  no  se
+encontró  reportes  de  mortalidad  para  esta  operación
+minera,
+ en todo caso,
+ los  costos  del  sistema
+  empleado
+por El Tesoro parecen superiores a los costos de Teck
+-CDA
+que obtuvo la misma efectividad en
+el mismo periodo de
+tiempo.
+Aunque el diseño del estudio no contó con controles, y
+no se pretende presentar el evento ocurrido en octubre de
+2011  (muerte  de  un  Pato  Jergón  Grande  en  una  poza
+temporal) como tal, al menos, podría considerarse como un
+indicador  de  la  efectividad  del  sistema  de  líneas  de
+banderines  de  colores  sobre  las  piscinas  de  emergencia.
+Como  complemento,  se  puede  hacer  alusión  a  que en  las
+piscinas  de  Olympic  Dam,  el  Zambull
+idor  de  Tasmania
+(
+Poliocephalus poliocephalus
+ Jardine & Selby, 1827) registró
+cuatro individuos muertos  (Read,  1999).  En  contraste,  en
+Teck   -CDA  las  especies  Picurio  (
+Podilymbus  podiceps
+Linnaeus, 1758
+) y Blanquillo (
+Podiceps occipitalis
+ Linnaeus,
+1758) son
+ zambullidores presentes en el cuerpo de agua del
+embalse  cercano  a  las  piscinas  de  emergencia  que
+potencialmente pudieron acceder a las piscinas con aguas
+ácidas, sin embargo, nunca se registró la presencia o muerte
+de estas especies en las piscinas de em
+ergencia.
+Los  anátidos,  rállidos  y
+podicipédidos
+,  normalmente
+ingresan  al  agua  cuando  están  amenazados.  Este
+comportamiento  explicó  la  mayoría  de  las  muertes  en
+Olympic Dam por lo que se recomendó hacer más atractivos
+los  humedales  limpios  cercanos  a  zonas
+  industriales  que
+generan cuerpos de aguas tóxicas, para evitar la mortalidad
+(Read, 1999). Como medida complementaria al sistema de
+banderines de colores de Teck
+-CDA, se podría aplicar este
+principio de “humedal atractivo” al embalse para evitar que
+las  a
+ves  acuáticas  se  desplacen  hacia  las  piscinas  de
+emergencia y mueran.
+La efectividad del sistema de líneas de banderines de
+colores probablemente radica en el movimiento que genera
+el  aire,  haciendo  a  estas  piscinas  de  emergencia  menos
+atractivas para las
+ aves. Por otro lado, la conformación de
+líneas rectas podría hacer que las aves acuáticas, posibles
+usuarias  de  estos  cuerpos  de  agua,  no  encuentren  las
+señales de comportamiento social o ambiental que hace que
+las  piscinas  de  emergencia  no  sean  seleccion
+adas  como
+hábitat adecuado (Gawlik & Crozier, 2007).
+Debido a que los patos que se alimentan en un cuerpo
+de  agua  atraen  a  otros  patos  (son  específicos)  que  se
+encuentran en vuelo (Pöysä, 1991), otra medida a tener en
+cuenta es la colocación de “patos señu
+elo” para mejorar la
+atracción del embalse a las aves acuáticas, lo que serviría
+como complemento y ayuda a las aves acuáticas residentes
+del  embalse.  Existen  señales  de  comportamiento  social
+como presencia de otras bandadas de aves en el cuerpo de
+agua y ambientales como profundidad del cuerpo de agua,
+importantes para entender las señales que emplean las aves
+para seleccionar su hábitat (Gawlik & Crozier, 2007).
+Las líneas de banderines colocados sobre las piscinas de
+emergencia están evitando el funciona
+miento de estas como
+“trampa  ecológica”  al  evitar  que  las  aves  acuáticas  las
+seleccionen  como  hábitat  de  calidad  y  mueran.  Battin
+(2004), sugiere que en la mayoría de las circunstancias, la
+presencia  de  una  trampa  en  un  paisaje  conducirá  a  la
+extinción a l
+a población local, y esto es lo que se pretende
+evitar. Estudios empíricos, casi todos de aves, sugieren la
+existencia de trampas y las dificultades para reconocerlas en
+el   campo.   La   evidencia   de   trampas   ecológicas
+principalmente  se  encuentra  en  hábitats  m
+odificados  por
+actividades humanas
+, p or lo tanto, es importante identificar
+las trampas y diferenciarlas de los sumideros (Battin, 2004)
+para alcanzar un equilibrio amigable entre los proyectos de
+desarrollo que involucran la generación de residuos tóxicos
+y  la  vida  silvestre
+.  Dadas  las  consecuencias  generalmente
+fatales de las trampas ecológicas, es importante incorporar
+en  la  planificación  de  la  conservación  una  comprensión
+explícita de la  relación entre  la  selección  del  hábitat  y la
+calidad del hábitat (
+Battin, 2004). Las gaviotas de Franklin
+que  murieron  en  las  piscinas  de  emergencia  las  habrían
+seleccionado  por  presentarse  como  hábitat  de  calidad  de
+acuerdo a sus propias señales de selección, sin embargo, la
+acidez y toxicidad no detectada por esta espe
+cie les significó
+la muerte. Por lo tanto, lograr que estas piscinas no sean
+atractivas para las aves acuáticas será fundamental para
+la
+conservación
+  evitando los  conflictos  entre la minería  y la
+fauna
+.
+Conclusiones finales
+El sistema de líneas de bander
+ines plásticos de colores sobre
+las piscinas de emergencia de lixiviación de cobre, fueron
+efectivos durante el periodo de estudio, para disuadir a las
+aves  acuáticas  de  usarlas  como  hábitat,  lo  que  evitó  su
+muerte  por  la  acidez  del  agua  reduciendo  el  efec
+to  de
+trampa  ecológica.  Aunque  normalmente  las  empresas
+mineras  evitan  reportar  este  tipo  de  incidentes,  se
+recomienda que otras operaciones mineras instauren este
+tipo de sistemas de disuasión en sus piscinas de emergencia
+para evitar la muerte de aves acuáticas bajo un sistema de
+monitoreo  permanente  para  evaluar  la  efectividad  en
+diferentes  ambientes y  contribuir  a la conservación  de la
+vida silvestre en Chile.

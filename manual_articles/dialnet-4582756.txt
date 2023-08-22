@@ -1,0 +1,601 @@
+El Ullal de Baldoví (Sueca, Valencia) es un
+hábitat prioritario situado en el interior del Par-
+que Natural de l’Albufera (Turberas calcáreas con
+Mansiega Cladium mariscus, Código 7210 de los
+hábitats prioritarios en la Unión Europea) que está
+conformado por lagunas de escasa superficie y ge-
+neralmente profundas, asociadas con manantiales
+o surgencias de aguas subterráneas. Su continua
+reducción y degradación provocó una actuación
+de restauración por parte de la Consellería de
+Infraestructuras, Territorio y Medio Ambiente y
+del Ayuntamiento de Sueca entre los años 2004 y
+2008. Esta restauración ha estado incluida dentro
+de las actuaciones contempladas en el desarro-
+llo del Proyecto LIFE-Natulareza “Recuperación
+de un hábitat prioritario en el Parque Natural de
+l’Albufera” como “Proyecto Ullals”.
+Durante los últimos años se están realizando
+actuaciones de restauración en diferentes hume-
+dales de la Comunidad Valenciana (Ferrer et al.,
+2006). Uno de los objetivos principales supuso la
+excavación de cubetas para recuperar su morfolo-
+gía, y generar las condiciones naturales. Así, una
+de las primeras actuaciones se efectuó en las ma-
+lladas del Racó de l’Olla, un humedal temporal in-
+tradunar ubicado en la restinga del Parque Natural
+de l’Albufera de Valencia y cuya transformación
+lo convirtió en un hipódromo en los 70. Su pos-
+terior restauración permitió restituir un enclave
+de primer orden con respecto a su capacidad de
+acogida de aves acuáticas nidificantes (Dies Jam-
+brino & Fernández-Anero, 1997). Posterior-
+mente se regeneraron numerosas malladas (depre-
+siones intradunares de inundación temporal) de la
+Devesa de l’Albufera hasta la actualidad y otros
+enclaves emblemáticos, como la red de Reservas
+de Samaruc, Valencia hispanica (Valenciennes,
+1846), para preservar un pez ciprinodóntido endé-
+mico en Algemesi, Xeresa, el Marjal dels Moros
+(Lacomba & Vilalta, 1998) y otros. De forma
+paralela, y en otras comunidades autónomas, se
+vienen desarrollando diferentes actuaciones de
+restauración de humedales, en el Delta del Ebro
+(Ibáñez, 1999), en Doñana (Colmenar, 2004) y
+en Murcia (Ballester et al., 2003).
+Junto al interés suscitado por el retorno de las
+aves o el establecimiento de reservas de Samaruc o
+de galápago europeo (Emys orbicularis), debemos
+de considerar el importante retorno de la fauna
+de invertebrados acuáticos como sustento de las
+poblaciones de las especies citadas anteriormente.
+De dicha fauna, numerosas especies son exclusivas
+de los humedales costeros y, de no practicarse las
+comentadas restauraciones, se verían abocadas a
+su desaparición. Así, en las malladas restauradas
+de la Devesa y del Racó de l’Olla del Parque
+Natural de l’Albufera se detectaron nuevas citas
+para la Comunidad Valenciana (Rueda et al.,
+2006) y se registraron hasta 230 taxones (Rueda
+et al., 2010), una cantidad superior a la que se
+detectó en toda la cuenca del río Mijares (Rueda et
+al., 2002). Hemos de valorar que los invertebrados
+acuáticos juegan un papel primordial en el ciclo de
+la materia de los humedales costeros, se consideran
+excelentes indicadores de calidad, representan
+una importante fuente de alimentación para otros
+organismos y forman un componente mayoritario
+de la biodiversidad local.
+Por razones de optimización y control de las
+actuaciones realizadas en un recurso natural tan
+especial como es el Ullal de Baldoví, se propuso
+un estudio de la fauna de invertebrados acuáticos
+existentes en dicho entorno, cuyos resultados se
+abordan en este estudio. Dada la excelente calidad
+de las aguas de estos enclaves, se sabe que los
+Ullals albergan una gran diversidad de organismos
+de este grupo, incluyendo algunos endemismos
+valencianos y especies raras y/o vulnerables.
+2. Material y métodos
+2.1. Área de estudio
+Rodeada por parcelas de arrozales, la
+Reserva Natural del Ullal de Baldoví se encuentra
+en el Parque Natural de l’Albufera. Éste, forma
+parte de la Red Natura 2000 de la Unión Europea,
+siendo declarado como ZEPA (Zona de Especial
+Protección para las Aves) en el año 1990 e incluido
+en LIC (Lugar de Importancia Comunitaria) en
+2001. Además, forma parte de los humedales
+incluidos en el Convenio RAMSAR. Dentro de la
+importancia de las diferentes figuras de protección
+que posee, el Ullal de Baldoví es uno de los pocos
+manantiales del Parque Natural de l’Albufera que
+se ha salvado de los aterramientos. El escenario
+posee una superficie de 4,4 ha tras la restauración.
+Nuestro principal objetivo se enfoca en la
+obtención de la mayor cantidad de información
+existente acerca de la comunidad de invertebrados
+acuáticos, para lo cual se seleccionó un núme-
+ro significativo de estaciones de muestreo. A tal
+efecto se realizó una observación sobre el terreno,
+considerándose seis ambientes diferenciados en el
+Ullal de Baldoví. Los tres primeros en ambientes
+sin restaurar (Ba1 a Ba3) y los otros tres en una
+zona de nueva generación (Ba4 a Ba6) (Fig. 1).
+Ba4 y Ba5 corresponden a una ampliación de la
+superficie de inundación permanente. Ba6 recrea
+charcas temporales situadas de forma lateral. Las
+coordenadas UTM se obtuvieron mediante GPS
+(Sistema ETRS 89), las cuales quedan relacio-
+nadas en la Tabla I. A cada punto de muestreo se
+le asignó un número de orden posterior a las dos
+primeras letras del entorno (Baldoví), ej; el Naci-
+miento se denominó Ba1 (Tab. I).
+En el campo se tomaron las medidas de
+pH, oxígeno disuelto y su valor de saturación,
+conductividad eléctrica, temperatura y alcalinidad.
+El pH del agua con un peachímetro portátil de
+VWR ® modelo SympHony SP70P con sonda.
+La concentración y el porcentaje de saturación
+de oxígeno en el agua mediante un oxímetro
+WTW® OXI 330i/SET con Dur-ox 325-3. Para
+medir la conductividad eléctrica se utilizó un
+conductímetro-salinómetro VWR® EC300 SET
+con sonda.
+El estudio se realizó durante el año 2007
+en los días 9 de marzo, 7 de junio, 24 de agosto
+y 23 de noviembre. La frecuencia de muestreo
+seleccionada fue la estacional para cubrir el
+ciclo biológico de los distintos invertebrados que
+habitan este sistema acuático.
+En el campo se tomaron las medidas de
+pH, oxígeno disuelto y su valor de saturación,
+conductividad eléctrica, temperatura y alcalinidad.
+El pH del agua con un peachímetro portátil de
+VWR ® modelo SympHony SP70P con sonda.
+La concentración y el porcentaje de saturación
+de oxígeno en el agua mediante un oxímetro
+WTW® OXI 330i/SET con Dur-ox 325-3. Para
+medir la conductividad eléctrica se utilizó un
+conductímetro-salinómetro VWR® EC300 SET
+con sonda.
+Tanto el peachímetro como el oxímetro y
+el conductímetro llevan una sonda de temperatu-
+ra acoplada, lo cual nos permite obtener al mis-
+mo tiempo el valor de temperatura del agua. La
+alcalinidad debida a carbonatos (con pH > 8.2) y
+bicarbonatos se analizó utilizando un test volumé-
+trico Aquamerck® 11109. Se obtuvo además, una
+muestra de agua que fue transportada al laborato-
+rio en una botella de polietileno para el análisis
+de la concentración de cloruros mediante un test
+volumétrico Aquamerck® 11106.
+El concepto de macroinvertebrado se define
+como: organismo que supera siempre el milímetro
+al final de su desarrollo larvario o en su estadio
+adulto (Tachet et al., 1987). En este estudio,
+tomamos en consideración toda la fauna sin límite
+de tamaño, salvo el de ser recolectada con una
+red de 250 μm de luz de malla. Para el muestreo
+de los invertebrados acuáticos, se practicaron
+20 pasadas de red de 0,5 metros de longitud en
+cada punto de muestreo, removiendo con los pies
+y manos la base de la vegetación sumergida o el
+sustrato según el caso. Las muestras recogidas
+se guardaron en botes de plástico con tapón
+de rosca, previa fijación con formol al 5% y
+convenientemente etiquetados para su traslado
+al laboratorio. Tras el lavado de las muestras, se
+procedió a una separación e identificación de los
+individuos mediante una observación directa, con
+ayuda de una lupa binocular.
+El nivel taxonómico de identificación fue el
+específico siempre que fue posible.
+3. Resultados
+3.1. Fisicoquímica del agua
+Nos encontramos con un sistema muy
+homogéneo con respecto a la fisicoquímica de
+sus aguas. La media de la conductividad, de cada
+punto de muestreo, varía en unos 230 μS cm -1 (Tab.
+I), siendo la mínima registrada en el nacimiento
+(Ba1) y la máxima en el carrizal (Ba3).
+Con respecto a la saturación de oxígeno,
+nos encontramos con unos valores del 60 % en el
+nacimiento y próximos al 100 % en las lagunas
+restauradas (Ba4 y Ba5). Esto se debe a la menor
+profundidad de estas, lo que implica una mayor
+insolación con respecto a la columna de agua y
+la proliferación de fitoplancton. El valor mínimo
+de temperatura, registrado en Ba5, fue de 13,1
+ºC y el máximo de 21,4 ºC (invierno y verano
+respectivamente) frente a 17,8 ºC y 20,3 ºC en Ba1
+(invierno y primavera).
+De forma general se observa cierta homoge-
+neidad en la fisicoquímica del agua, registrándose
+algunas oscilaciones poco marcadas. En Ba6 no se
+obtienen los valores de la fisicoquímica por poseer
+escasa profundidad.
+3.2. Riqueza faunística
+El Ullal de Baldoví esta representado por
+una gran presencia de invertebrados en relación
+con su superficie (4,4 ha tras la restauración).
+Se contabilizaron 81 taxones distribuidos en
+6 filos, 24 órdenes y 57 familias. Se aporta a
+continuación el nombre actualizado para cada
+especie recolectada, así como, el nombre del autor
+y la fecha y la relación de estaciones en las que
+apareció (Est). Se indican las EEI con un asterisco
+(*), los endemismos con dos (**) y una nueva
+cita para las aguas continentales de la CV con tres
+(***)
+Phylum CNIDARIA
+Orden HYDROIDA
+Familia Hydridae
+Hydra sp. (Est: Ba2)
+Phylum BRYOZOA
+Orden PLUMATELLIDA
+Familia Plumatellidae
+Plumatella repens (Linnaeus, 1758) (Est:
+Ba1, Ba3)
+Phylum PLATHYHELMINTHA
+Orden NEORHABDOCOELA (Est: Ba1, Ba2)
+Phylum ANNELIDA
+Clase OLIGOCHAETA (Est: Ba6)
+Orden TUBIFICIDA (Est: Ba1, Ba2, Ba3, Ba4,
+Ba5)
+Familia Naididae (Est: Ba1, Ba2, Ba3, Ba4, Ba5)
+Chaetogaster sp. (Est: Ba1, Ba2, Ba3)
+Familia Tubificidae (Est: Ba1, Ba2, Ba3, Ba4,
+Ba5)
+Branchiura sowerbyi (Beddard, 1892)* (Est:
+Ba2)
+Familia Lumbriculidae (Est: Ba2)
+Phylum MOLLUSCA
+Orden NERITOPSINA
+Familia Neritidae
+Theodoxus fluviatilis (Linnaeus, 1758) (Est:
+Ba2)
+Orden ARCHITAENIOGLOSSA
+Familia Melanopsidae
+Melanopsis tricarinata (Bruguière, 1789)**
+(Est: Ba1, Ba2, Ba3)
+Familia Bithyniidae
+Bithynia tentaculata (Linnaeus, 1758) (Est:
+Ba3)
+Orden PULMONATA
+Familia Acroloxidae
+Acroloxus lacustris (Linnaeus, 1758) (Est:
+Ba1)
+Familia Lymnaeidae
+Galba truncatula (O.F. Müller, 1774) (Est:
+Ba2)
+Familia Succineidae
+Oxyloma elegans (Risso, 1826) (Est: Ba3)
+Familia Physidae
+Haitia acuta (Draparnaud, 1805)* (Est: Ba2,
+Ba3, Ba4)
+Familia Planorbidae
+Gyraulus chinensis (Dunker, 1848)* (Est:
+Ba2)
+Ferrissia clessiniana (Jickeli, 1882) (Est:
+Ba1, Ba2, Ba3)
+Orden UNIONOIDA
+Familia Unionidae
+Anodonta anatina (Linnaeus, 1758) (Est:
+Ba1, Ba2)
+Unio mancus Lamarck, 1819 (Est: Ba1,
+Ba2)
+Phylum ARTHROPODA
+Orden PODOCOPIDA
+Familia Darwinulidae
+Darwinula stevensoni (Brady & Robertson,
+1870) (Est: Ba2, Ba4)
+Familia Candonidae Kaufmann, 1900
+Candonopsis kingsleii (Brady & Robertson,
+1870) (Est: Ba2, Ba3)
+Cypria ophtalmica (Jurine, 1820) (Est: Ba1,
+Ba2)
+Fabaeformiscandona subacuta (Yang,
+1982)* (Est: Ba2)
+Pseudocandona cf. albicans (Est: Ba3)
+Pseudocandona cf. marchica (Est: Ba3)
+Familia Cyprididae Baird, 1845
+Cypridopsis vidua (Müller, 1776) (Est: Ba3,
+Ba4)
+Heterocypris incongruens (Ramdohr, 1808)
+(Est: Ba4)
+Heterocypris salina (Brady, 1868) (Est:
+Ba4)
+Isocypris cf. beauchampi (Est: Ba3, Ba4)
+Sarscypridopsis lanzarotensis (Mallwitz,
+1984) (Est: Ba4)
+Stenocypris cf. major* (Est: Ba3)
+Familia Ilyocyprididae
+Ilyocypris gibba (Ramdohr, 1808) (Est: Ba1,
+Ba2, Ba4)
+Familia Cytherideidae Sars, 1925
+Cyprideis torosa (Jones, 1850) (Est: Ba2,
+Ba4)
+Familia Limnocytheridae
+Limnocythere inopinata (Baird, 1843) (Est:
+Ba3, Ba4)
+Orden CYCLOPOIDA (Est: Ba3)
+Orden CLADOCERA (Est: Ba3, Ba4)
+Orden TANAIDACEA
+Familia Leptocheliidae
+Heterotanais oerstedi (Kroyer, 1842) (Est:
+Ba1, Ba2, Ba3)
+Orden DECAPODA
+Familia Atyidae
+Dugastella valentina (Ferrer Galdiano,
+1924)** (Est: Ba1, Ba2, Ba3, Ba4, ba5)
+Familia Palaemonidae
+Palaemonetes zariquieyi Sollaud, 1939**
+(Est: Ba1, Ba2)
+Familia Cambaridae
+Procambarus clarkii (Girard, 1852)* (Est:
+Ba1, Ba2, Ba3)
+Orden AMPHIPODA
+Familia Aoridae
+Leptocheirus pilosus Zaddach, 1844***
+(Est: Ba1, Ba2, Ba3, Ba4)
+Familia Gammaridae
+Echinogammarus pacaudi Hubault & Ruffo,
+1956 (Est: Ba1, Ba2, Ba3)
+Gammarus aequicauda (Martynov, 1931)
+(Ba1, Ba2, Ba3, Ba4)
+Orden ISOPODA
+Familia Anthuridae
+Cyathura carinata (Kroyer, 1847) (Est: Ba1,
+Ba2)
+Familia Sphaeromatidae
+Lekanesphaera hookeri (Leach, 1814) (Est:
+Ba1, Ba2, Ba3, Ba4, Ba6)
+Familia Asellidae
+Proasellus coxalis Dollfus, 1892 (Est: Ba1)
+Orden ONISCOIDEA (Est: Ba1, Ba3)
+Orden ENTOMOBRYOMORPHA (Est: Ba1,
+Ba2, Ba3, Ba4, Ba6)
+Orden SYMPHYPLEONA (Est: Ba1, Ba3)
+Orden ODONATA
+Familia Coenagrionidae
+Ischnura elegans (Van Der Linden, 1825)
+(Ba2, Ba3, Ba4, Ba6)
+Familia Aeshnidae
+Anax sp. (Est: Ba3)
+Familia Libellulidae
+Sympetrum fonscolombei (Sélys, 1841) (Est:
+Ba6)
+Orden EPHEMEROPTERA
+Familia Baetidae
+Cloeon dipterum gr. (Est: Ba2, Ba3)
+Cloeon simile gr. (Est: Ba4)
+Familia Caenidae
+Caenis luctuosa (Burmeister, 1839) (Est:
+Ba2)
+Orden HEMIPTERA
+Familia Corixidae
+Subfamilia Micronectinae
+Micronecta scholtzi (Fieber, 1851) (Est:
+Ba4, Ba5, Ba6)
+Subfamilia Corixinae
+Heliocorisa vermiculata (Puton, 1874) (Est:
+Ba5, Ba6)
+Sigara lateralis (Leach, 1817) (Est: Ba6)
+Sigara sp. (Est: Ba4, Ba6)
+Familia Notonectidae
+Anisops sardeus Herrich-Schäffer, 1849
+(Est: Ba6)
+Notonecta maculata Fabricius, 1794 (Est:
+Ba1)
+Familia Gerridae (Est: Ba2)
+Familia Mesoveliidae
+Mesovelia vittigera Horváth, 1895 (Est:
+Ba3)
+Orden COLEOPTERA
+Familia Dytiscidae
+Hydroglyphus geminus (Fabricius, 1792)
+(Est: Ba1, Ba3, Ba4)
+Familia Hydrophilidae
+Enochrus cf. politus (Est: Ba6)
+Helochares lividus (Forster, 1771) (Est:
+Ba1, Ba3)
+Familia Hydraenidae
+Ochthebius sp. (Est: Ba3)
+Familia Dryopidae
+Dryops sp. (Est: Ba3, Ba4)
+Orden TRICHOPTERA
+Familia Hydropsychidae
+Hydropsyche exocellata Dufour, 1841 (Est:
+Ba1)
+Orden DIPTERA
+Familia Culicidae
+Culex pipiens Linnaeus, 1758 (Est: Ba3)
+Familia Limoniidae
+Subfamilia Chioneinae (=Eriopterinae) (Est: Ba1,
+Ba2, Ba3)
+Familia Ceratopogonidae
+Subfamilia Ceratopogoninae (Est: Ba3, Ba4)
+Subfamilia Dasyheleinae (Est: Ba3, Ba6)
+Familia Chironomidae
+Subfamilia Tanypodinae (Est: Ba3)
+Subfamilia Orthocladiinae (Est: Ba1, Ba2, Ba3,
+Ba4)
+Corynoneura sp. (Est : Ba3, Ba4)
+Subfamilia Chironominae (Est : Ba1, Ba2, Ba3,
+Ba4, Ba5, Ba6)
+Chironomus sp. (Est : Ba3)
+Familia Ephydridae (Est: Ba2)
+Al margen de los organismos vivos citados en
+el apartado anterior, cabe informar de la presencia
+de conchas vacías de diferentes moluscos que
+podrían considerarse como “presentes pero no
+capturados” o “desaparecidos” del entorno del
+Ullal de Baldoví. Comentar que en el marco del
+“Proyecto Ullals”, se realizó una campaña de
+liberación de Unio mancus Lamarck, 1819, como
+refuerzo de las poblaciones locales. Esta especie
+está considerada como “En Peligro de Extinción”
+por el Catálogo Valenciano de Especies de
+Fauna Amenazada e incluida en el Anexo V
+de la “Directiva Hábitats” y en el Anexo III del
+Convenio de Berna.
+Phylum MOLLUSCA
+Orden ARCHITAENIOGLOSSA
+Familia Hydrobiidae
+Orden PULMONATA
+Familia Ellobiidae
+Myosotella myosotis (Draparnaud, 1801)
+Familia Lymnaeidae
+Radix balthica (Linnaeus, 1758)
+Stagnicola fuscus (C. Pfeiffer, 1821)
+Familia Planorbidae
+Gyraulus cf. laevis
+Orden VENEROIDA
+Familia Sphaeriidae
+Pisidium sp.
+Familia Cardiidae
+Cerastoderma glaucum (Poiret, 1789)
+Por frecuencia de aparición, Dugastella
+valentina lo hace en 17 muestras de las 21 que
+se tomaron a lo largo del año. Ba6 corresponde a
+charcas temporales en las que se obtuvo una única
+muestra de organismos durante la campaña otoñal.
+Lekanesphaera hookeri lo hace en 16, mientras
+que la subfamilia Chironominae aparece en quin-
+ce muestras. Tubificidae, Melanopsis tricarinata,
+Echinogammarus pacaudi y Gammarus aequi-
+cauda lo hacen en diez. En el otro extremo de apa-
+rición nos encontramos con los taxones que son
+recolectados una única vez, estas son: Branchiura
+sowerbyi, Lumbriculidae, Bithynia tentaculata,
+Acroloxus lacustris, Galba truncatula, Oxyloma
+elegans, Proasellus coxalis, Anax sp., Sympetrum
+fonscolombei, Sigara lateralis, Anisops sardeus,
+Enochrus politus, Ochthebius sp., Hydropsyche
+exocellata, Culex pipiens y Ephydridae. De es-
+tos últimos, alguno se recolectó un único ejem-
+plar como Acroloxus lacustris, Galba truncatula,
+Anax sp., Sympetrum fonscolombii, Hydropsyche
+exocellata y Ephydridae. La captura de Anodonta
+anatina la realizó un equipo de buzos durante la
+limpieza de escombros del verano de 2007.
+Con respecto a la detección de EEI, se han
+recolectado seis (Branchiura sowerbyi, Haitia
+acuta, Gyraulus chinensis, Fabaeformiscandona
+subacuta, Stenocypris major y Procambarus clar-
+kii). F. subacuta fue primera cita para Europa en
+Rueda et al. (2006) con el nombre de F. japonica.
+Posteriormente se ha localizado en numerosos hu-
+medales del Este peninsular, centro y Extremadura
+por Escrivà et al. (2012).
+4. Discusión
+Para el Ullal de Baldoví, la ampliación de su
+área de protección y la restauración realizada han
+permitido sin duda una recuperación sustancial
+de su hábitat y una respuesta de recolonización
+por parte de diferentes invertebrados acuáticos
+(Sahuquillo et al., 2007). Tal situación se ha
+podido observar en otros estudios similares
+(Van Kleef et al., 2006; Meyer & Whiles,
+2008). Desde el punto de vista faunístico existen
+diferentes taxones que destacan por su rareza o
+por su adaptación a las aguas someras, un medio
+cuya tendencia a la degradación ha empezado a
+invertirse. Acroloxus lacustris es un gasterópodo
+muy raro, del que podemos decir que se ha citado
+en apenas cinco localidades de la Comunidad
+Valenciana (CV). Su recolección en Baldoví
+también se realizó en 2000 (Sahuquillo et al.,
+2007). Galba truncatula es frecuente en la CV y
+se detectan numerosas conchas fósiles y vacías,
+por lo que sospechamos que podría encontrarse
+en regresión en el Ullal o bien que pudieran
+proceder de los arrozales adyacentes en los que
+también se puede localizar. Tampoco se detectaron
+ejemplares en 2000. Hydropsyche exocellata es
+un tricóptero nada común en aguas someras ya
+que su presencia se restringe casi exclusivamente
+a los tramos medios y bajos de los ríos (García
+de Jalón, 1986). El ejemplar se localizó en el
+nacimiento y podría deberse a un fenómeno de
+foresia (A. Millán, Com. Pers.). De todas las
+especies recolectadas Melanopsis tricarinata
+es un endemismo ibérico, cuya distribución se
+circunscribe al territorio de la CV, Tarragona,
+Cuenca y Albacete (Martínez-Ortí & Robles,
+2003). Dugastella valentina junto a Palaemonetes
+zariquieyi son endemismos valencianos (Rueda
+& Sanz, 2006) y cabe comentar que sólo se
+capturaron dos ejemplares de esta última durante
+el año estudiado. Leptocheirus pilosus es una
+nueva cita para las aguas continentales de la CV. Se
+trata de un anfípodo que acompaña a las otras dos
+especies conocidas del mismo orden localizadas
+en el Ullal. Su presencia puede deberse a una
+introducción vía aérea por las aves. Respecto a los
+dos ejemplares de Anodonta anatina capturados
+por los buzos pusieron en evidencia a esta especie
+emblemática que ya se daba por desaparecida del
+Ullal de Baldoví. Otro hallazgo interesante es el
+que supone la recolección de ejemplares de la
+especie Cyathura carinata, hasta la fecha, se han
+podido localizar en el presente sistema continental
+(Sahuquillo et al., 2007) aunque su presencia
+habitual se circunscribe al medio marino (Junoy
+& Castelló, 2003).
+Los arrozales del Parque Natural de
+l’Albufera acogían en el pasado una importan-
+te población de la especie Triops cancriformis
+(Bosc, 1801) forma simplex. Dicha población se
+fue reduciendo paulatinamente a causa de la utili-
+zación de diferentes plaguicidas. Rueda recolectó
+algunos ejemplares en las proximidades del Ullal
+de Baldoví durante el mes de junio de 1997. Di-
+chos ejemplares fueron enviados a la Universidad
+de Hull (UK) como material para la tesis doctoral
+de Zierold (2006), publicado en Zierold et al.
+(2007). En fechas posteriores, tras la búsqueda de
+nuevos ejemplares hasta el año 2005 que resultó
+negativa, se realizó un intento de recuperación
+de la especie. Se trasladó sustrato desde la última
+zona poblada del Ullal de Baldoví hasta el interior
+de la zona restaurada. En posteriores visitas, y tras
+las lluvias oportunas, no se ha detectado ningún
+ejemplar. La razón podría encontrarse en el agota-
+miento progresivo de los huevos de resistencia al
+no renovarse la población de Triops cancriformis.
+Con respecto a los ostrácodos se han obtenido
+unos resultados interesantes si tenemos en cuenta
+que se capturan 15 taxones vivos distribuidos en
+6 familias, lo que supone 9 más que en el trabajo
+anterior de Poquet et al. (2008). Si comparamos
+esa cantidad con las 16 del río Cabriel, en un tramo
+de su cuenca entre los embalses de Contreras y
+Embarcaderos (Rueda et al., 2006), nos hacemos
+una idea de la importancia del entorno del Ullal
+de Baldoví. En el estudio de Poquet et al. (2008),
+sobre ostrácodos de lagos someros de la Comunidad
+Valenciana, tenemos como referente a las especies
+recolectadas en el Ullal de Baldoví durante el año
+2000, en las que se detectaron 6 especies. Tan sólo
+la especie Candonopsis scourfieldi Brady, 1910,
+no fue capturada en el presente estudio. Se observa
+también la incorporación de Fabaeformiscandona
+subacuta, una especie exótica invasora que no se
+había capturado con anterioridad en el Ullal.
+La base de todo tipo de estudios enfocados en
+la búsqueda de diversidad se centra en una buena
+selección de los hábitats a muestrear, donde la
+heterogeneidad de ambientes permita maximizar
+los resultados esperados. Si bien el estudio que se
+realizó en el año 2000 es un referente del proyecto
+ECOFRAME y de la comunidad científica por
+su comparación entre diferentes ecosistemas
+emblemáticos de la Comunidad Valenciana, el
+presente estudio pasa a serlo por la cantidad de
+taxones recolectados en el Ullal de Baldoví. Otro
+resultado interesante es que se capturan diez
+nuevos taxones en el entorno de las lagunas recién
+restauradas (Ba4 a Ba6), tres de los cuales son
+ostrácodos. Por otro lado, deduciendo estos diez
+taxones y los ostrácodos restantes (doce especies),
+nos encontramos con 58 taxones recolectados,
+lo que supone 21 más que en Sahuquillo et
+al. (2007). Además, existen seis taxones que se
+capturaron en 2000 (Sahuquillo et al., 2007) y
+no lo fueron en 2007, tres de ellos poco frecuentes
+(Aelosoma sp., Veliidae y Stratiomyidae). La
+importancia de los muestreos estacionales se
+hace patente en la caracterización de los sistemas
+acuáticos continentales, incluso en un medio tan
+estable como el que nos ocupa. Sin embargo, la
+posibilidad de un estudio mensual durante un ciclo
+anual completo favorecería, con toda seguridad,
+una mejora en los resultados obtenidos. Permitiría
+capturar taxones poco frecuentes que aumentarían
+el conocimiento de la riqueza faunística del
+hábitat y maximizarían su valoración ambiental,
+unos argumentos que realzarían la necesidad de
+preservar dichos medios para las generaciones
+futuras.
