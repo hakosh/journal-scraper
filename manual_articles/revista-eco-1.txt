@@ -1,0 +1,304 @@
+La ausencia o lentitud de la transferencia de los conocimientos
+ecológicos a los gestores ambientales es una queja habitual tanto
+por parte de los científicos como de los gestores (García-Fayos et
+al. 2008). Muchos gestores basan sus decisiones en el sentido
+común, en su experiencia de campo acumulada o en el consejo de
+otros gestores; el uso de la bibliografía científica primaria o el con-
+sejo por parte de científicos profesionales es muy limitado (Suther-
+land et al. 2004). Como alternativa más deseable se ha propuesto
+una gestión basada en la evidencia (Sutherland et al. 2004; Davies
+et al. 2008), entendida como evidencia científica y no solamente
+como experiencia personal de campo. La gestión basada en la evi-
+dencia pretende trascender la subjetividad de la experiencia perso-
+nal de campo de cada gestor particular mediante la incorporación
+explícita de dos fuentes objetivas y más generalizables de informa-
+ción, los datos de la bibliografía ecológica primaria y el meta-análi-
+sis, para dirimir entre opciones de gestión ambiental. La Universidad
+de Bangor (Reino Unido) ha creado el Center for Evidence Based
+Conservation (CEBC) (www.cebc.bangor.ac.uk), pero en general
+esta iniciativa es relativamente reciente y no ha sido adoptada aún
+ampliamente. En el presente artículo ilustramos esta aproximación
+usando el ejemplo de la gestión de la madera quemada en los bos-
+ques Mediterráneos.
+Tradicionalmente, la gestión de bosques tras los incendios en
+muchas partes del mundo, incluida el área Mediterránea, se ha ba-
+sado en la corta y retirada de la madera quemada -salvage log-
+ging- (Ne’eman et al. 1995; Marqués y Mora 1998; McIver y Starr
+2000; Vallejo y Alloza 2004; Lindenmayer y Noss 2006; Noss et al.
+2006; Castro Gutiérrez et al. 2008; Castro et al. 2011). Esta prác-
+tica se ha justificado usando argumentos económicos, por la venta
+de la madera quemada (Prestemon y Holmes 2000; Eklund et al.
+2009). Además, existen argumentos ecológicos, puesto que la re-
+tirada de madera quemada puede reducir el riesgo frente a otras
+perturbaciones como plagas (Amman y Ryan 1991) o futuros in-
+cendios debido a la acumulación de combustible (Keyser et al.
+2009; Fraver et al. 2011; Collins et al. 2012). Finalmente, hay ra-
+zones utilitarias relacionadas con la mejor la accesibilidad en las
+labores de restauración y por estética (Martinez-Sánchez et al.
+1999; Greene et al. 2006) (para una revisión, véase Lindenmayer
+et al. 2008).
+Sin embargo, en los últimos 15 años ha aparecido una corriente
+contraria a la retirada de esta madera quemada en los bosques
+después de un incendio (Beschta et al. 2004; Lindenmayer et al.
+2008). Los críticos señalan una serie de impactos negativos de la
+retirada de la madera quemada (Lindenmayer et al. 2008), tales
+como la modificación del régimen hidrológico (Greene et al. 2006),
+la perturbación que provoca la propia retirada de la madera muerta
+(Bautista et al. 2004; Greene et al. 2006), sus efectos negativos po-
+tenciales o demostrados sobre la biota que depende de la madera
+muerta (Greene et al. 2006) o de las zonas quemadas (Lindenma-
+yer y Noss 2006) y el aumento de la erosión (Marqués y Mora
+1998; Bautista et al. 2004; Karr et al. 2004). De especial importan-
+cia se considera el potencial efecto negativo que tiene la retirada
+de la madera quemada sobre la regeneración del bosque (Ne’eman
+et al. 1995; Martinez-Sánchez et al. 1999; Bautista et al. 2004; Karr
+et al. 2004; Greene et al. 2006; Castro et al. 2009, 2011). Los par-
+tidarios de retener la madera quemada aducen que ello proporciona
+microhábitats adecuados para el reclutamiento de las plántulas
+(Castro et al. 2011).
+Existe por tanto un debate sobre la gestión más adecuada en
+casos de incendio en los bosques en lo referente a retirar o no la
+madera quemada. Resolver este debate es vital para plantear co-
+rrectamente las políticas de gestión, ya que ello permitiría un gran
+ahorro de tiempo y dinero, de esfuerzo por parte de las Administra-
+ciones, y una mejora de los resultados de regeneración (en la su-
+pervivencia de las plántulas, germinación de semillas, densidad de
+plántulas, altura y grosor de la planta). Existe un número creciente
+de investigaciones que evalúan los efectos de la extracción de la
+madera quemada sobre el reclutamiento de plántulas, principal-
+mente en sistemas forestales boreales de Europa y América, donde
+ya se han adoptado prácticas de gestión que incluyen la perma-
+nencia de los restos quemados (Hilszczański et al. 2005; Eriksson
+et al. 2006; Gibb et al. 2006; de Chantal y Granström 2007). En Es-
+paña, se ha aducido que no existe evidencia científica que apoye
+la retirada de la madera quemada (Bautista et al. 2004) y se ha re-
+visado esta controversia (Valladares 2004; Vallejo y Alloza 2004),
+pero de modo meramente narrativo.
+De acuerdo con la metodología propuesta por la gestión basada
+en la evidencia (Sutherland et al. 2004), en este artículo realizamos
+un meta-análisis sobre los efectos de la retirada de madera que-
+mada tras un incendio sobre variables relacionadas con la regene-
+ración del bosque en zonas Mediterráneas. El meta-análisis es un
+modo de revisión sistemático, que aúna de modo cuantitativo la evi-
+dencia obtenida a partir de estudios independientes (Stewart et al.
+2005; Borenstein et al. 2009). Este tipo de revisión sigue un estricto
+protocolo metodológico y estadístico, por lo que aporta a sus resul-
+tados transparencia, objetividad y fortaleza estadística (Stewart et
+al. 2005, Borenstein et al. 2009). Los objetivos específicos del pre-
+sente artículo son averiguar si la permanencia de la madera que-
+mada tiene efectos negativos sobre la densidad, la altura y la
+supervivencia de las plántulas, con respecto a la práctica habitual
+de retirar la madera quemada.
+Material y métodos
+Búsqueda bibliográfica
+Se realizó una revisión bibliográfica sobre trabajos experimen-
+tales que evalúan el efecto de la retirada de la madera quemada
+en la regeneración post-incendio. Para la búsqueda se consultaron
+las bases de datos Science Direct e Isi Web of Knowledege. Las
+palabras clave para esta búsqueda fueron “salvage logging”, “post
+fire regeneration”, “burnt wood removal”, “post-fire management” y
+“wildfire”. La búsqueda se complementó con la base de datos Dial-
+net, relativa a publicaciones nacionales. En ella se utilizaron como
+palabras clave: “madera quemada”, “Mediterráneo”, “gestión fores-
+tal”, “incendio”, “tratamiento”, “regeneración”. Finalmente, se realizó
+la consulta de libros sobre incendios en zonas Mediterráneas y la
+búsqueda de actas de congresos. De los estudios encontrados, se
+seleccionaron aquellos que cumpliesen las siguientes característi-
+cas: (1) estaban localizados en la región Mediterránea, (2) incluían
+al menos el tratamiento de corta y retirada de la madera quemada
+y un tratamiento control; no se incluyeron tratamientos intermedios
+de corta y esparcido de los restos quemados, por la heterogeneidad
+en el diseño que presentaban los estudios que evaluaban estas
+técnicas, (3) cuantificaban alguna de estas variables: densidad, al-
+tura y mortalidad de plántulas y (4) proporcionaban detalles sufi-
+cientes de los resultados como para permitir su inclusión en el
+meta-análisis. En algunos casos, se consultó a los autores para re-
+cabar información necesaria.
+Análisis estadístico
+Se llevaron a cabo tres meta-análisis separados, uno para cada
+variable respuesta considerada, utilizando el programa Comprehen-
+sive Meta-Analysis V2 (www.meta-analysis.com). En las tres varia-
+bles, se consideraron los datos relativos a las mediciones realizadas
+entre 18 y 24 meses después del tratamiento. Para las variables “Al-
+tura” y “Densidad”, de tipo cuantitativo, el tamaño del efecto se cal-
+culó por medio de la g de Hedges (Borenstein et al. 2009) usando
+las medias, desviaciones típicas y tamaño muestral en cada trata-
+miento (retirada de madera quemada y control). Para la variable
+“Mortalidad”, de tipo categórico, el tamaño del efecto se calculó por
+medio de la odds ratio (Borenstein et al. 2009) utilizando las frecuen-
+cias de plántulas vivas y muertas en cada tratamiento. En unos
+pocos casos, la mortalidad se expresaba como valor medio, desvia-
+ción típica y tamaño muestral de la mortalidad por tratamiento, con
+las parcelas como unidad muestral. En estos casos, se calculó el
+tamaño del efecto por medio de la g de Hedges. Para poder hacer
+un tratamiendo conjunto de los datos de mortalidad, se transformó
+el tamaño del efecto medido como odds ratio en un tamaño del
+efecto medido como g de Hedges (Borenstein et al. 2009). Todos
+los tamaños del efecto fueron calculados considerando el efecto del
+tratamiento (retirada de la madera quemada) con respecto al efecto
+del control (permanencia de la madera quemada).
+En la mayoría de los casos, las medias y desviaciones típicas
+se presentaban en los artículos originales en forma de medias por
+parcela, con lo cual el tamaño muestral fue referido al número de
+parcelas. Esto resta mucha potencia al meta-análisis, puesto que
+el número de parcelas fue por lo general inferior a 10.
+Cuando los estudios realizaban varias comparaciones indepen-
+dientes, p. ej. distintas especies de árboles, altitudes, zonas de es-
+tudio o edades de las masas arbóreas, se calculó un tamaño medio
+del efecto común para todo el estudio, con el fin de no sobreestimar
+la cantidad de datos y para tener en cuenta la falta de independen-
+cia entre conjuntos de datos de un mismo grupo investigador (Bo-
+renstein et al. 2009; Pedro Quintana-Ascencio, com. pers.).
+Siguiendo las recomendaciones de Borenstein et al. (2009), en
+cada meta-análisis se calculó la heterogeneidad Q utilizando un
+modelo de efectos fijos, pero la significación del tamaño medio del
+efecto se calculó usando un modelo de efectos aleatorios. Aunque
+en algunos casos se detectó una heterogeneidad significativa, el
+número de estudios fue muy bajo y por ello se optó por no realizar
+una partición adicional de los datos. En su lugar, se evaluó la in-
+fluencia de cada estudio incluido en el meta-análisis mediante el
+cálculo del tamaño medio del efecto tras eliminar de la muestra un
+estudio cada vez. De esta manera se puede conocer la magnitud
+de cada unidad de análisis en el tamaño del efecto (Gómez-Apari-
+cio et al. 2004; Borenstein et al. 2009).
+El bajo número de estudios incluidos en cada meta-análisis tam-
+poco hizo relevante el cálculo del sesgo de publicación.
+Resultados
+Se incluyeron ocho estudios, que representaron 24 unidades
+de análisis (Tabla 1). Al menos otros cinco estudios tuvieron que
+descartarse por no presentar alguno de los datos necesarios para
+calcular el tamaño del efecto. La mayoría de los estudios incluidos
+en los meta-análisis analizaron bosques de Pinus, principalmente
+P. pinaster (Tabla 1).
+A continuación se presentan los resultados del meta-análisis
+para cada una de las variables.
+Densidad
+No se encontraron efectos significativos del tratamiento sobre la
+densidad de plántulas (Fig. 1). Sólo Madrigal et al. (2007) presentó
+un tamaño del efecto significativo (Apéndice 1). Se encontró una
+heterogeneidad significativa en el tamaño medio del efecto (Q =
+12.27, g.l. = 5, p = 0.031). La eliminación de un estudio de cada vez
+indicó cierta influencia de los estudios de Guzmán Álvarez et al.
+(2005) y de Madrigal et al. (2007), aunque en ningún caso su elimi-
+nación condujo a un efecto significativo del tratamiento (Tabla 2).
+Altura
+No hubo efectos significativos del tratamiento sobre la altura de
+las plántulas (Fig. 1). No obstante, tres de los cinco estudios inclui-
+dos presentaron un tamaño de efecto significativo sobre la altura
+de las plántulas (Apéndice 1). La heterogeneidad entre los estu-
+dios fue significativa (Q = 29.02, g.l. = 4, p < 0.01). Cuando se re-
+pitió el análisis eliminando un estudio en cada ocasión, se pudo
+observar la relevancia del estudio de Madrigal et al. (2007) (Tabla
+2). Sin este estudio, el tamaño medio del efecto se hizo mucho más
+negativo y llegó a ser significativo (Tabla 2).
+Mortalidad
+Hubo efectos significativos del tratamiento sobre la mortalidad
+de plántulas (Fig. 1). El tamaño del efecto fue significativo para
+cinco de los estudios incluidos (Apéndice 1). La heterogeneidad
+entre estudios fue significativa (Q = 47.72; g.l. = 6, p < 0.01). El ta-
+maño medio del efecto siguió siendo significativo al eliminar cada
+uno de los estudios; no se detectó una influencia desmedida de nin-
+guno de los estudios sobre el tamaño medio del efecto (Tabla 2).
+Discusión
+Todos los meta-análisis indicaron un efecto nulo o negativo de
+la retirada de la madera quemada sobre la regeneración del bosque.
+El tamaño medio del efecto fue nulo para la densidad y la altura de
+las plántulas y la mortalidad fue significativamente superior cuando
+se retiró la madera quemada (Fig. 1). Además, para aquellos estu-
+dios individuales para los cuales los tamaños del efecto fueron sig-
+nificativos (Apéndice 1), los tamaños del efecto fueron en todos los
+casos menos uno (altura de las plantas en Madrigal et al. 2007) de
+carácter negativo, lo cual indica consecuencias perjudiciales de la
+retirada de la madera quemada para la densidad y la altura de plán-
+tulas. En conjunto, la evidencia combinada de los estudios disponi-
+bles sugiere que la retirada de la madera quemada no sólo no
+mejora las capacidades de regeneración del bosque tras un incendio
+sino que o bien las dificulta o bien no supone ninguna ventaja.
+Estos resultados están en consonancia con los de otros estu-
+dios realizados en sistemas boreales o templados (Greene et al.
+2006; de Chantal y Granström 2007; Lilja-Rothsten et al. 2008). En
+ecosistemas Mediterráneos, estudios experimentales han mostrado
+una ausencia de diferencias significativas entre tratamientos en
+otras variables como la riqueza específica (Ne’eman et al. 1995),
+la cobertura del regenerado (Vallejo y Alloza 2004) o la dispersión
+de semillas (Puerta-Piñero et al. 2010). Existen resultados similares
+para variables relacionadas con la erosión del suelo, como la for-
+mación de regueros lineales (Vallejo y Alloza 2004), y las tasas de
+erosión en laderas (Marqués y Mora 1998).
+En otros estudios, la diferencia entre tratamientos es mayor en
+los periodos cercanos al incendio y se atenúan a lo largo del
+tiempo (Ne’eman et al. 1995; Vallejo y Alloza 2004). En el presente
+meta-análisis se consideraron los datos al cabo de 18-24 meses
+de la aplicación del tratamiento. Una disminución de la diferencia
+entre tratamientos implicaría una reducción del tamaño medio del
+efecto pero no modificaría las conclusiones generales: la retirada
+de la madera quemada no produce efectos sobre la densidad, al-
+tura o mortalidad de plántulas como para justificar tal práctica de
+gestión.
+Somos perfectamente conscientes de que un meta-análisis con
+un tamaño de muestra tan bajo como el posible en el presente es-
+tudio no permite extraer conclusiones firmes sobre la gestión de la
+madera quemada. No obstante, este ejercicio ilustra dos puntos
+muy importantes de cara a conseguir una gestión racional (i.e. ba-
+sada en la evidencia científica) de la madera quemada en los bos-
+ques Mediterráneos. En primer lugar, aunque nuestro meta-análisis
+no permite descartar contundentemente la gestión actual de la ma-
+dera quemada en lo tocante a la regeneración del bosque que-
+mado, debería servir al menos como elemento de reflexión. Ante
+la falta de evidencia científica ¿debe la gestión de la madera
+muerta seguir basándose en la impresión subjetiva o en la expe-
+riencia particular de cada gestor? ¿Cabe esperar encontrar reglas
+generales para guiar la gestión de la madera quemada? Una res-
+puesta negativa supone una actitud que debilita también a la regla
+generalizada de retirar la madera quemada. Naturalmente, los ges-
+tores pueden aducir otro tipo de razones para justificar la retirada
+de madera quemada, como la económica, pero nuestros resultados
+sugieren que estas razones también precisan de una reconsidera-
+ción meditada tras un análisis riguroso de la evidencia. Por ejemplo,
+Eklund et al. (2009) y Leverkus et al. (2012) demuestran que la re-
+tirada de madera quemada no necesariamente supone la mejor al-
+ternativa de gestión desde un punto de vista económico. Otros
+aspectos de la gestión de la madera quemada como los riesgos de
+incendios (Anónimo 2007; Thompson et al. 2007) o de plagas se
+beneficiarían de análisis similares, así como de una aproximación
+mediante meta-análisis.
+En segundo lugar, es necesario recabar una evidencia cientí-
+fica más firme sobre la eficacia de esta práctica de gestión forestal.
+Para empezar, sería necesario incluir en el meta-análisis estudios
+que no pudieron considerarse por no presentar los datos necesa-
+rios. Al menos otros tres estudios (Ne’eman et al. 1995; Bautista
+et al. 2004; Prévosto y Ripert 2008) tuvieron que descartarse por
+este motivo. Hacemos un llamamiento a los autores de futuros es-
+tudios, así como los editores de las revistas, para que pongan la
+máxima atención en la presentación de los resultados, de modo
+que puedan incorporarse a potenciales meta-análisis. Además, el
+número de estudios debe aumentar, bien por experimentación adi-
+cional o bien mediante la salida a la luz de datos no publicados.
+Otro factor a considerar para lograr una evidencia más robusta es
+el rango de bosques considerados en la bibliografía. La mayor
+parte de los estudios incluidos en el presente meta-análisis se re-
+alizaron en bosques de Pinus pinaster. Por tanto, no es conve-
+niente extrapolar los resultados a otros tipos de pinares o de
+bosques de frondosas. Los bosques de P. pinaster no son particu-
+larmente propensos a la autosucesión (Rodrigo et al. 2004). Otras
+especies forestales de regeneración directa tras los incendios po-
+drían tener otra respuesta a la retirada de madera quemada. Fi-
+nalmente, es igualmente conveniente evaluar opciones de gestión
+intermedias como el astillado y esparcido de la madera quemada
+(Castro Gutiérrez et al. 2008; Fernández et al. 2008; Madrigal et
+al. 2009; Castro et al. 2011). Todas estas mejoras permitirían meta-
+análisis más robustos, con una estima más fiable de los tamaños
+de los efectos y una evaluación de la influencia de factores como
+la especie arbórea o el tratamiento, que puedan ayudar a decidir
+en qué situaciones la retirada de la madera quemada es o no con-
+veniente.
+En resumen, los estudios experimentales disponibles en la ac-
+tualidad, aun siendo demasiado escasos como para permitir nin-
+guna conclusión firme, no señalan beneficios evidentes de la
+extracción de la madera quemada e invitan a una reflexión sobre
+la robustez de las bases de la gestión de la madera quemada en
+bosques Mediterráneos. Una gestión basada en la evidencia en
+este aspecto requiere una mayor consciencia de la importancia de
+una adecuada presentación de datos por parte de los investigado-
+res, la salida a la luz de datos no publicados y un mayor esfuerzo
+de experimentación.

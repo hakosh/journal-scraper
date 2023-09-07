@@ -1,0 +1,195 @@
+Se entiende por reintroducción la suelta deliberada de una especie en un área de la cual ha desaparecido, con la finalidad de
+establecer una población viable y autosuficiente. El reforzamiento de poblaciones consiste en la suelta de individuos para potenciar una población ya existente, con el objetivo de aumentar el número de ejemplares y la viabilidad de dicha población (ICBP, 1988). En los últimos años estamos asistiendo a un auge de este tipo de proyectos, debido al
+interés que suscita la recuperación de una especie desaparecida en una determinada zona y el éxito obtenido por algunos proyecto pioneros, como pueden ser el del ganso Ne-ne (Branta sandvicensis) en las Islas Hawaii, el Halcón Común (Falco peregrinus) en Estados Unidos, o el Buitre Común (Gys fulvus) en Francia (Kear & Berger, 1980; Barclay & Cade, 1983; Bonnet er al., 1990). A pesar de todo, la reintroducción de una
+especie no es tarea fácil, y antes de acometer
+un proyecto de estas características hay que
+evaluar cuidadosamente toda una serie de
+factores y contar con un sólido fundamento científico. sobre la especie en si, sobre su
+hábitat y sobre las técnicas que se deben
+aplicar para lograr el éxito. En este trabajo
+se exponen los requisitos que debe cumplir
+un proyecto de reintroducción, las técnicas
+que se aplican más habitualmente y el coste
+económico; además, se comentan algunos
+casos concretos a nivel internacional y se
+hace una síntesis de los proyectos que se
+están llevando a cabo actualmente en España.
+
+2. CRITERIOS QUE DEBE CUMPLIR UNA REINTRODUCCIÓN
+La Unión Internacional para la Conservación de la Naturaleza (UICN, 1987) establece los siguientes requisitos:
+1) El proyecto sólo debe llevarse a cabo cuando las causas originales de extinción han sido eliminadas.
+2) El hábitat debe ser adecuado para satisfacer los requerimientos de la especie. El proyecto no debe realizarse si la desaparición fue debida a alteraciones del hábitat que no han sido corregidas, o si se ha producido un
+deterioro significativo del hábitat desde la extinción.
+El Consejo Internacional para la Conservación de las Aves (ICBP, en Stanley Price, 1991) considera los siguientes requisitos:
+1) Las causas de la extinción deben ser identificadas y corregidas.
+2) Debe existir el hábitat adecuado, con la extensión suficiente como para mantener una población viable.
+3) La población de la que se extraen los individuos para la reintroducción/refinamiento no debe verse afectada.
+4) Se minimizarán los riesgos a la seguridad humana y a la propiedad.
+Los criterios más completos elaborados hasta la fecha son, probablemente, los del Joint Nature Conservation Committee (NCC, 1989). agencia oficial para la conservación de la naturaleza en el Reino Unido, en colaboración con la Royal Society for the Protection of Birds (RSPB); son los siguientes:
+1) Se debe contar con una buena evidencia histórica de la presencia de la especie en
+el área donde se quiere reintroducir.
+2) Se intentará conocer con la mayor precisión posible cuáles son las causas de la desaparición de la especie.
+3) Los factores causantes de la extinción deben ser eliminados.
+4) Se seleccionarán prioritariamente aquellas especies desaparecidas debido a la acción humana y con pocas probabilidades de recolonizar de forma natural su área histórica de
+distribución.
+5) Debe existir hábitat apropiado en cantidad suficiente para satisfacer los requerimientos de la especie.
+6) Los individuos que se liberan deben pertenecer a una población lo más cercana posible a la que existía anteriormente a la
+desaparición.
+7) La población donante no debe verse afectada por la extracción de los ejemplares destinados a la reintroducción.
+En el momento de redactar estas lineas el Grupo de Especialistas en Reintroducciones de la UICN prepara unas directrices para la
+elaboración de proyectos de reintroducción, que serán formalmente adoptadas en la próxima Asamblea General.
+3. FASES DEL PROYECTO
+Una vez comprobado que el proyecto cumple los requisitos anteriormente mencionados, es necesaria una concienzuda planificación del mismo. Para ello conviene tener en cuenta las siguientes fases:
+1) Estudio de viabilidad. Es un análisis previo en el que se estudian aspectos ecológicos, sociales, económicos, etc., relativos al proyecto. Entre éstos se encuentran la idoneidad del hábitat para acoger de nuevo a la especie, la actitud de la población humana ante el proyecto, los mecanismos financieros con que se cuenta, etc.
+2) Selección de los ejemplares. Normalmente pueden proceder del medio natural o de la cria en cautividad. En el primer caso
+es necesario saber de qué población se van a extraer y estar seguros de que ésta no se verá afectada, y contar con las autorizaciones pertinentes. En el segundo caso debe existir una buena coordinación entre los centros que ceden los ejemplares, para saber de cuántos se va a poder disponer para la suelta.
+3) Fase preparatoria. Incluye la puesta a punto de la infraestructura del proyecto: personal, obtención de permisos y certificados veterinarios, adecuación de instalaciones, mantenimiento de los animales, traslado al punto de suelta. etc.
+4) Liberación. Es el momento culminante. Se tendrá en cuenta el sex-ratio de los
+ejemplares, la edad óptima de suelta, el tamaño de los grupos, la alimentación suplementaria una vez realizada la suelta, etc. Las técicas a emplear varían en función de las características de la especie y serán comentadas más adelante.
+5 ) Monitorización. Es una parte fundamental del proyecto. Incluye el marcaje de los animales y su seguimiento durante el periodo de adaptación al medio natural y la dispersión.
+
+4. MÉTODOS DE SUELTA
+Si se trata de una especie nidífuga se suelen
+liberar directamente los ejemplares, ya sean
+jóvenes o adultos, convenientemente marcados. En el caso de aves nidícolas, con un
+periodo de emancipación largo y fuerte inversión parental, son necesarias técnicas más
+sofisticadas, que permitan la adaptación progresiva de los individuos al medio. Los métodos más utilizados son los siguientes: Adopción directa. Se emplea en proyectos de reforzamiento de poblaciones y consiste en colocar pollos en nidos de la misma especie que tengan pollos con similar grado de desarrollo. Se ha aplicado con éxito al Aguila Imperial Ibérica (Aguila adalberti) (Meyburg, 1989). entre otras especies. Una variante de esta técnica consiste en liberar pollos
+totalmente desarrollados en el seno de grupos familiares que aún se encuentran en las
+proximidades del nido (Gondez et al., 1986).
+Adopción cruzada. Es muy similar a la adopción directa, pero utilizando padres adoptivos de otra especie. En el caso de pollos de Halcón Común en nidos de Falco mexicanus, se detectaron problemas de adaptación debido a que los mexicanos alimentaban a los pollos con presas no habituales, como lagartos, culebras, insectos y pequeños mamíferos, con el resultado de un desarrollo inadecuado (Sherrod er al.. 1982). El traslado de huevos de Grus americana a nidos de Grus canadensis ha dado como resultado el nacimiento de pollos de la primera especie, si bien estos individuos no han llegado a completar un ciclo migratorio y reproductor
+por problemas de comportamiento (Drewien & Bizeau, 1978). Todo ello hace que se cuestione la idoneidad de esta técnica.
+Crianza campestre.-Este método, denominado hacking en lengua inglesa, es el más frecuentemente utilizado. Consiste en
+colocar los pollos en un nido artificial cuando aún no han completado su desarrollo pero ya son capaces de comer por si mismos. Posteriormente se les libera y se continúa el suministro de alimento hasta que pueden cazar. Se ha aplicado con éxito al pigargo Haliaetus leucocephalus en Estados Unidos (Sherrod et al.. 1989). entre otras especies. El «hacking» puede hacerse también con pollos ya totalmente desarrollados. Wallace & Temple (1987) liberaron II ejemplares de cóndor de los Andes (Vultur gryphus) en Perú, de los cuales seis tenían edades entre
+uno y tres años y cinco eran pollos del año.
+Los ejemplares más viejos se integraron más
+rápidamente en la población salvaje, pero su
+seguimiento resultó más difícil, dada la amplitud de sus movimientos. Los pollos del año tuvieron un proceso de adaptación más
+lento y prolongado, pero sus movimientos
+pudieron ser controlados muy de cerca. En
+conjunto, siete de los once individuos se
+adaptaron bien y sobrevivieron al menos
+18 meses después de la suelta.
+Suelta directa. Se aplica normalmente a especies nidífugas (aves acuáticas, galliformes, etc.). Se ha empleado con Calamones (Porphyrio porphyrio) en Cataluña y Mallorca, con resultados positivos. Con aves rapaces se ha intentado la suelta de parejas adultas en territorios vacíos, sin demasiado éxito, y la suelta de un solo individuo en un terri-
+tono regentado por otro del sexo opuesto,
+empleando sonidos grabados para atraer la
+atención del ejemplar salvaje (Sherrod et al.,1982).
+
+5. ESTUDIODE UN CASO: EL QUEBRANTAHUESOS EN LOS ALPES
+Este proyecto comenzó en 1973 con la liberación de tres ejemplares procedentes de
+Afganistán, los cuales desaparecieron para
+siempre. Tras este primer fracaso se decidió
+iniciar un programa de cría en cautividad y
+soltar sólo los pollos procedentes de la cria.
+Para ello se reunieron todos los ejemplares
+existentes en los zoos europeos y, en 1983, se
+formaron siete parejas reproductoras. Hasta
+1986 todos los pollos nacidos se guardaron
+para reforzar la población en cautividad,
+constituyéndose ocho centros de & a en otros
+tantos países europeos. A partir de 1986 comenzaron las sueltas en Austria, y al año siguiente en Francia (Coton & Esteve, l990a). El método de suelta es un «hacking», colocando los pollos en una repisa natural, en
+grupos de dos o tres, cuando tienen tres meses de edad y ya son capaces de alimentarse por sí mismos. Hasta 1990 se habían liberado por este método 27 pollos, de los cuales dos han muerto, uno ha desaparecido y dos han sido recapturados. Los demás han sido observados regularmente en Austria, Suiza y Francia. Uno de los principales problemas con los que se enfrenta este proyecto es el sesgo en el sex-ratio de la población liberada: 16 hembras, ocho machos y tres indeterminados. A pesar de este inconveniente se espera que las primeras reproducciones
+tengan lugar en 1994 (Coton & Esteve, l990b).
+Antes de comenzar las sueltas se hizo un
+estudio detallado de viabilidad en cinco zonas
+consideradas favorables en base a la presencia histórica de la especie, a partir del cual
+se seleccionaron los dos puntos de suelta
+actualmente existentes. Posteriormente se realizó una vasta campaña de información, tras la cual se constató que el retorno del Quebrantahuesos era bien aceptado por la población local, especialmente ganaderos y cazadores. En el periodo 1980-1990 se han
+gastado 210 millones de pesetas en el proyecto, de los cuales el 43% corresponde al mantenimiento de las aves en los 200s. el
+21 % a la campaña de información, el 18 %
+a gastos de administración, el 3 % a adquisición de ejemplares y el 5 % a otros gastos. El coste final de cada pollo reintroducido con éxito asciende a 9.5 millones de pesetas (Pachlatko, 1991).
+
+6. EVALUACIONES GLOBALES
+A pesar del gran número de proyectos
+existente, son muy raros los casos en los que
+se publican los resultados, lo que hace difícil
+hacer evaluaciones globales. Grifith et al.
+(1989) analizaron el éxito de todos los proyectos realizados en Australia, Nueva Ze-
+landa, Estados Unidos y Canada entre 1976
+y 1983. Hubo unos 700 cada año, de los
+cuales el 90 % incluía especies cinegéticas (53 O/* aves y 39 % ungulados) y el 7 % especies amenazadas y/o sensibles (28 % aves de presa y 22 % marsupiales). El éxito de los
+proyectos con especies cinegéticas fue del
+86 % (n= 118) y el de las sensibles amenazadas del 46% (@=SO). En general, el éxito
+estaba asociado a la existencia de hábitat
+apropiado, la elección del lugar de suelta, la
+duración del programa, la estrategia reproductora de la especie, la dieta y el buen
+estado de los ejemplares liberados.
+Kleiman (1989) señala que más del 50 %
+de 1.000 proyectos de reintroducción de aves
+en todo el mundo ha fracasado y más del
+75% de los de mamíferos. Las claves para
+el éxito resultaron ser: la existencia de una
+población suficiente en captividad, hábitat
+adecuado, eliminación de los factores causantes de la desaparición, estudios previos de
+viabilidad y elección acertada del lugar de suelta.
+7. Proyectos de reintroducción en España
+Algunos ejemplos de especies introducidas
+voluntariamente en España en tiempos históricos son el Francolin (Francolinus franeolinus), Faisán Común (Pharianw colehim) y
+Colin de Virginia (Colinus virginianus). Otras
+especies escapadas de cautividad que han logrado aclimatarse son la Cotorra de Kramer (Psitraculo krameri) y la Malvasia Canela (Oxyura jomaicensis). Los problemas ecológicos derivados de estas introducciones superan con creces a las ventajas obtenidas, lo
+que ha llevado a su prohibición legal en muchos países. Máximo exponente de esa
+problemática es el caso de la Malvasia Canela, que, escapada de las instalaciones del
+Wildfowl Trust en Inglaterra en los años
+cincuenta, se ha aclimatado en dicho país y
+se encuentra en proceso de expansión en
+toda Europa. En España fue observada por
+primera v a en 1986 en la laguna de Zoñar y en 1991 había ya híbridos entre esta especie
+y la Malvasia autóctona (Oxyura leucocephala) (Arenas & Torres Esquivias, 1992).
+Las repoblaciones de especies cinegéticas son un fenómeno frecuente en España, si bien en la gran mayoría de los casos no
+cumplen los criterios que hemos comentado
+anteriormente y no existe ningún tipo de seguimiento. Las sueltas de Perdiz Pardilla (Perdix perdlr) de criadero pueden suponer
+un grave compromiso para las autóctonas. Entre 1986 y 1991 se calcula que se ha
+soltado un mínimo de 3.600 ejemplares en el
+área de distribución de la especie en España;
+en general los resultados se consideran negativos o neutros, excepto en el País Vasco y en
+Cataluña, donde la valoración de estas sueltas es positiva (Lucio el al.. 1992). Igual ocurre con las repoblaciones de Perdiz Roja (Alectoris rufa) procedentes de granjas, que tienen mucho que ver con la pérdida del carácter bravo de la perdiz autóctona, amenazando su identidad genética y facilitando la propagación de enfermedades. Son muy pocos los proyectos de reintroducción de especies amenazadas que han sido completados con éxito en España, incluida la publicación de los resultados. Una de las primeras tentativas tuvo lugar en Donana en los años setenta, cuando se soltaron diez ejemplares de Tarro Canelo (Tadorna ferruginea), de los que nunca más se tuvo noticia. Entre los proyectos que se pueden evaluar positivamente se encuentra el de la Malvasia, cuya cria en cautividad se realiza con éxito en el Parque Nacional de Doñana. Hasta el momento se han liberado 104 ejemplares en el periodo 1987-1991 (3 en 1987. 17 en 1988, 40 en 1989, 19 en 1990 y 25 en 1991), en Doñana (60 individuos), Laguna de Medina (19) y Albufera de Adra (25) (Pereira, com. pers.). También se colabora en proyectos de ámbito internacional, cediendo ejemplares para su reintroducción en Cerdeña. El Calamón ha sido reintroducido con éxito en los Aiguamolls de I'Empordi y en s'Albufera de Mallorca, w n ejemplares procedentes del Parque Nacional de Doñana. En los Aiguamolls se soltaron 38 ejemplares en 1990 y 28 en 1991, habiéndose constatado ya la reproducción de algunas parejas (Sargatal, 1992). En s'Albufera se liberaron 28 calamones en 1991, de los cuales 21 eran
+pollos del año, uno de dos años y seis adultos. Gracias al marcaje con anillas de PVC
+se ha comprobado que la dispersión de los
+adultos es mayor y más rápida que la de los
+jóvenes, lo que hace más aconsejable el empleo de estos últimos (Mayol, 1991). En la
+Albufera de Valencia existe igualmente un
+proyecto de reintroducción del Calamón, si
+bien los resultados hasta la fecha no han sido
+tan positivos como en las localidades anteriores.
+También en S'Albufera de Mallorca existe
+un proyecto de reintroducción del Pato Colorado (Netta rufina). Inicialmente se preendía liberar la producción de una pareja
+ron debido a fallos en el cerramiento de la
+laguna donde se encontraban. En julio de
+1991 se trasladaron 55 pollos procedentes del
+Delta dei Ebro y 33 del Parque Nacional de
+Doñana, parte de los cuales fueron liberados. En mayo de 1992 se observaron los primeros pollos, estimándose en unas 12-15 el número de parejas reproductoras (Perelló y Mayol, com. pers.).
+Con carácter más esporádico se han realizado sueltas de Cigüeña Blanca (Ciconia ciconia), Garcilla Bueyera (Bubulcus ibis) y
+Garceta Común (Egretta garzetta), procedentes del zoo de Barcelona. en los Aiguamolls, y Martinetes (Nycticorax nycticorax)
+en s'Albufera (Colom, com. pers.). En Mallorca se lleva a cabo un reforzamiento de la población de Buitre Negro(Aegypius monaclus), mediante la suelta de ejemplares volanderos, normalmente jóvenes
+del año, procedentes de la peninsula, y el hacking de pollos criados en cautividad en
+diversos zoológicos europeos. Mediante este ultimo método se han reintroducido dos pollos en 1988, dos en 1989 y seis en 1990.
+Todos han sido observados regularmente, excepto un ejemplar procedente del zoo de Tallin (Estonia) que apareció muerto en Llucmayor. La suelta de buitres procedentes de la península comenzó en 1984; hasta 1991 se habían liberado 22 individuos, de los cuales dos se ahogaron en el mar y los demás se integraron con éxito a la población salvaje. Gracias a este proyecto se ha aumentado el número de ejemplares en libertad hasta 50, si bien por el momento no se ha observado un aumento del número de parejas reproductoras (Secona, 1990; Tewes, 1990; Muntaner, com. pers.).
+
+El Cernícalo Primilla (Falco naumanni) es objeto de un proyecto de reintroducción en Cataluña desde 1989. Ese año se liberaron
+14 ejemplares, 27 en 1990 y 54 en 1991. De estos últimos, 37 procedían de la cría en cautividad y 17 del campo. Los métodos
+empleados fueron el «hacking» y la adopción cruzada, empleando como padres adoptivos parejas de Cernícalo Vulgar (Falco iinnunculus); en el primer caso el éxito fue del 72.7 % y en el segundo del 87.5%. En 1991 se encontraron dos parejas reproductoras a 7 km del lugar de suelta de las cuales una fracasó y la otra sacó tres pollos (Pomarol, 1991a y b).
+
+En Asturias se intentó en 1987 la recuperación de una antigua buitrera de Buitre Común en la Sierra de Sobia, mediante la
+suelta de 27 ejemplares inmaduros. Tres de ellos murieron y los demás se dispersaron sin volver a observarse por la zona, excepto un registro en el invierno 88-89 (Fapas, 1991).
+
+En Lérida se está llevando a cabo un proyecto de reforzamiento de poblaciones de
+Urogallo (Terrao urogallus), con ejemplares
+procedentes de la granja de Esterri d'Aneu.
+En primera instancia realizaron sueltas en
+áreas donde no existía el Urogallo, sin resultados positivos, tras lo cual se por
+seleccionar otras con presencia de la especie,
+en las cuales han conseguido mejores resultados en la aclimatación de los individuos
+liberados (Marco, com. pers.).
+La Focha Cornuda (Fulica cristata) se ha
+criado en cautividad con éxito en el centro
+de la Cañada de los Pájaros, situado en el entorno de Doñana. En abril de 1992 se
+liberaron 22 ejemplares para reforzar la población salvaje existente en las marismas del
+Guadalquivir, marcados con un babero blanco de PVC para facilitar su identificación
+(Sánchez, 1992). Por otra parte, España elabora en varios
+proyectos de reintroducción de ámbito internacional, cediendo ejemplares para las sueltas. Este es el caso del Buitre Común, el Alimoche (Neophron percnopterus) y el Buitre
+Negro en el Parque Nacional de Cevennes (Francia), el Buitre Común en Cerdeña (Italia), el Milano Real (Milvus milvus), en Inglaterra, la Malvasia en Córcega y Cerdeña, etc. Es indudable que deben existir más experiencias de reintroducción de especies en España, pero no siempre es fácil encontrar
+resultados publicados, a veces ni tan siquiera escritos, sobre las mismas. Es por esto que
+desde estas lineas queremos animar a las
+personas que están involucradas en estos
+proyectos a que den a conocer sus multados, aunque sean malos, lo que resultará de
+utilidad para los nuevos proyectos que se
+acometan en el futuro.
