@@ -1,8 +1,3 @@
-# type
-# order:
-# 1. from xml
-# 2. from clean html
-# 3. from messy html
 import re
 from html import unescape
 
@@ -190,7 +185,7 @@ def transform_html_bodies():
     print(f'cleaned {len(contents)} resources')
 
 
-def transform():
+def transform_scielo():
     # transform_xml_bodies()
     transform_html_bodies()
     # transform_abstracts()

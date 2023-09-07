@@ -1,8 +1,10 @@
 import sys
 
 import db
+from repos.local.download import download_local
+from repos.local.transform import transform_local
 from repos.scielo.download import download_scielo
-from repos.scielo.transform import transform
+from repos.scielo.transform import transform_scielo
 
 if len(sys.argv) <= 1:
     print("arguments required")
@@ -11,13 +13,21 @@ if len(sys.argv) <= 1:
 mode = sys.argv[1]
 
 match mode:
-    case "sync":
-        print("run scielo")
+    case "sync-scielo":
+        print("sync scielo")
         download_scielo()
 
-    case "transform":
-        print("run transform")
-        transform()
+    case "sync-local":
+        print("sync local")
+        download_local()
+
+    case "transform-scielo":
+        print("run transform-scielo")
+        transform_scielo()
+
+    case "transform-local":
+        print("run transform-local")
+        transform_local()
 
     case "setup-db":
         print("setup db")
