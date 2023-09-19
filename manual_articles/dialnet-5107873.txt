@@ -1,0 +1,360 @@
+En 1973, el oso pardo fue declarado “especie estrictamente protegida” en Espa-
+ña y actualmente declarada como “en peligro de extinción” en el Catálogo Nacional
+de Especies Protegidas (Real Decreto 439/1990 de 30 de marzo). En los Pirineos,
+dos poblaciones relictas han existido hasta finales de los años 80, una en los Piri-
+neos Centrales, que se extinguió entre finales de los 80 y principios de los 90 y, otra
+en los Pirineos Occidentales (Camarra y Parde 1990, Caussimont y Herrero 1992,
+Alonso et al. 1993). Esta última, situada entre Francia, Aragón y Navarra, cuenta con
+cinco ejemplares.
+Para evitar la desaparición del oso pardo de los Pirineos, el gobierno de Francia
+y las Comunidades Autónomas de Navarra, Aragón y Cataluña decidieron realizar
+un proyecto Life de conservación y restauración del oso pardo en el Pirineo Central
+(B4-3200-93-772. 1994-1999). El programa incluía una experiencia piloto de suelta
+de ejemplares para evaluar una posible reintroducción del oso pardo en los Piri-
+neos Centrales y en otras regiones de la Unión Europea. Esta consistió en la libera-
+ción y posterior seguimiento de tres ejemplares adultos, dos hembras y un macho.
+El objetivo fundamental del programa piloto fue comprobar la adaptación de estos
+tres osos y su posible descendencia al hábitat actual del Pirineo. Otro objetivo no
+menos importante, fue verificar la relación de los osos con la población local y sus
+actividades desarrolladas en las montañas. Seguidamente se presentan los resulta-
+dos de este proyecto.
+METODOLOGÍA Y ÁREA DE ESTUDIO
+En 1996 se capturaron dos hembras (Ziva y Mellba) y en 1997 un macho (Pyros)
+en 1997, en la reserva de caza de Medved, en Kocevje, Eslovenia. Se les colocó un
+collar emisor provisto de sensor de actividad (Telonics) y la asociación ARCTUS los
+trasladó por carretera hasta el lugar de suelta, en el valle francés de Melles, a esca-
+sos kilómetros del valle de Arán, en Cataluña.
+Área de estudio
+Todo el estudio posterior se realizó en las montañas de los Pirineos Centrales,
+en ambas vertientes de la frontera franco-española. El área de estudio en Cataluña
+se encuentra entre los 800 y los 3.200 m de altitud, situándose el 87,4% entre los
+1.300 y los 2.800 m, y el 38,0% entre los 1.801 y los 2.300 m. La topografía es acciden-
+tada, presentando el 82,6% del territorio pendientes entre 10 y 40 grados.
+La cobertura vegetal está formada en un 50% por bosques y, en un 34,5% por
+prados alpinos y subalpinos, que se encuentran generalmente por encima de los
+2.000 m de altitud. El tipo de vegetación dominante lo constituyen los bosques de
+coníferas (25,3%), siendo el pino negro (Pinus uncinata), el pino silvestre (Pinus
+sylvestris) y el abeto (Abies alba) las especies dominantes. A diferencia de la vertien-
+te francesa, los bosques caducifolios -hayedos Fagus sylvatica, robledales Quercus
+robur, Quercus petraea y Quercus pubescens, avellanedas Corylus avellana y, casta-
+ñares Castanea sativa- tienen una presencia más bien escasa (10,8%).
+Seis ungulados comparten el área de distribución con el oso: el jabalí (Sus scrofa),
+el ciervo (Cervus elaphus), el rebeco (Rupicapra pyrenaica), el corzo (Capreolus
+capreolus), el gamo (Dama dama) y el muflón (Ovis musimon). Además, desde junio
+hasta octubre, grandes rebaños de ganado doméstico, principalmente ovejas, ocupan
+los pastos alpinos. La economia local de la zona depende de la madera, de la ganadería
+-vacas, caballos, ovejas y cabras- y, principalmente del turismo - estaciones de esquí,
+caza, pesca, excursionismo y deportes de aventura-.
+Las zonas protegidas (Parque Nacional) y de aprovechamiento cinegético contro-
+lado por la administración (Reserva Nacional de Caza) representan dos tercios del área
+de estudio. El tercio restante se reparte entre Zonas de Caza Controlada y cotos de caza.
+Seguimiento
+Ziva (hembra de 7 años y 104 kg) y Mellba (hembra de 5 años y 98 kg), fueron
+liberadas, respectivamente, el 19 de mayo y el 6 de junio de 1996 (25 h 50 min y 27 h 37
+min después de ser capturadas en su lugar de origen, respectivamente). Pyros (ma-
+cho de 9 años y 235 kg), fue capturado el 1 de mayo de 1997 y liberado al día siguiente.
+El radioseguimiento de los osos se realizó mediante triangulación basada en tres
+o más localizaciones. A partir de estas se obtuvó un área de probabilidad donde se
+hallaba el animal estudiado. Los datos se recopilaron en el programa Excel y, el pro-
+grama Tracker proporcionó las coordenadas U.T.M. (Universal Transversa de Mercator)
+de localización de cada ejemplar. Todas las radiolocalizaciones y otros tipos de loca-
+lizaciones (indicios, avistamientos y predaciones) se utilizaron para estimar las áreas
+de campeo (Mínimo Polígono Convexo –MPC- y Método Adaptativo de Kernel –MAK),
+los movimientos (entre localizaciones diarias, estimados en línea recta) y el uso del
+hábitat. Con soporte estadístico del programa SPSS se realizaron las comparaciones
+mediante los estadísticos Ji-Cuadrado, t-student y Análisis de la Varianza –Anova-
+para comparar las áreas vitales y los movimientos de los osos, del mismo modo que
+en otros estudios similares (Worton 1989, Holm et al. 1998).
+Durante la realización de los radioseguimientos, los ejemplares no pudieron
+ser radiolocalizados en varios periodos largos (> 5 días). Ziva en dos periodos de
+seis (1996) y 14 (1996) días, Mellba en un periodo de 24 días (1997) y Pyros en dos
+periodos de seis (1997) y ocho días (1998). Este mismo ejemplar se desprendió del
+collar a finales de agosto de 1997 y fue recapturado a principios de abril de 1998.
+Evidentemente, durante este largo periodo no fue radiolocalizado.
+Durante los primeros cuatro años se recogieron más de 130 excrementos de
+oso en Cataluña. Parte de ellos, fueron analizados en Tolouse (Francia), juntamente
+con las muestras recogidas por el equipo francés. Las muestras fueron pesadas,
+descrito su aspecto y analizado su contenido y anotado el porcentaje de presencia.
+Selección del hábitat
+Para esta parte del estudio se consideró una extensión de 1.770 km2. Se estudió
+las diferencias entre el uso esperado en función de la abundancia de cada hábitat y el
+uso observado. Para establecer los parámetros del hábitat disponible y la selección
+del hábitat realizado por los osos se utilizaron sistemas de información geográfica
+(programas Arc/info y ArcView). El análisis estadístico se realizó mediante soporte
+estadístico SPSS y hoja de cálculo Excel, utilizando los mismo estadísticos. Para las
+condiciones del relieve se utilizó un modelo digital de elevaciones en formato GRID
+de ArcInfo y una base raster de 25 m de tamaño de celda, a partir de la cual se deriva-
+ron las bases de altitud, pendiente y orientación. La vegetación se trató a partir de
+una cobertura vectorial de ArcInfo. Para el análisis de distancias a zonas urbanas,
+carreteras y pistas forestales, se generaron en una cobertura vectorial ArcInfo los in-
+tervalos de distancia (“buffers”), alrededor de los diferentes elementos (pueblos y
+vías de comunicación). Para todas estas variables y cada una de sus clases de hábitat
+se obtuvieron las hectáreas totales disponibles en el área de estudio y el porcentaje
+que representaron (disponibilidad). Las localizaciones de los osos se incorporaron
+como elementos de puntos a una cobertura vectorial de ArcInfo. Posterioremente,
+mediante las funciones de superposición propias de los SIG, se obtuvo el uso obser-
+vado de cada localización de los osos (cada punto) para cada una de las variables
+(altitud, orientación, pendiente, tipo de vegetación y distancia a zonas urbanas, ca-
+rreteras y pistas forestales). En los casos en que las diferencias fueron significativas se
+construyeron los intervalos de confianza de Bonferroni, para establecer si el uso de
+una determinada clase o intervalo estaba significativamente por encima o por deba-
+jo de lo esperado (Neu et al. 1974, Byers et al. 1984).
+Daños a la ganadería
+Los daños atribuidos a los osos sobre la ganadería se clasificaron en: seguros (indi-
+cios inequívocos de que un oso ha matado o comido la presa), probables (indicios poco
+claros en los restos si un oso ha matado la presa, pero sin indicios contrarios y con la
+presencia cercana de un oso), dudosos (no hay posibilidad de determinar el origen de
+la muerte pero existe un oso en la zona, en sentido amplio), imposibles de determinar
+y no imputables (seguro que no han sido ocasionados por un oso). Únicamente las tres
+primeras categorias fueron consideradas como “daños de oso”.
+RESULTADOS
+Áreas de campeo y movimientos
+El tamaño de las áreas de campeo (MPC: 100% y MAK: 95%) y de las áreas de
+utilización preferente (MPC: 50%) se muestran en la Tabla 1. En ambas hembras los
+territorios fueron muy grandes durante el primer año (1996). El área de campeo de
+la hembra Ziva del segundo y tercer año se encontraron incluidos en el área vital
+del primer año (Figura 1). El macho Pyros se movió por una zona de grandes di-
+mensiones durante los dos primeros años, aunque en el segundo (1998) se amplió
+en dirección sur (Figura 2). Durante las cuatro primeras semanas, Mellba y Ziva
+exploraron respectivamente el 93% y el 53% del área de campeo del primer año y
+no se produjo solapamiento entre ambos ejemplares. En el mismo tiempo, Pyros
+exploró el 53% del área de campeo del primer año.
+Durante 1997, el área vital de Ziva se encontró dentro del área de Pyros, llegan-
+do a coincidir en lugares muy próximos durante tres días -Ziva se hallaba con dos
+crías del año- (Figura 3). Durante 1998, se produjo un pequeño solapamiento espa-
+cial pero no temporal entre estos dos ejemplares.
+El análisis con el Método Adaptativo de Kernel muestra la presencia de dos
+áreas de utilización preferente para las osas en los años 1996, 1997 y 1998 (en este
+tercer año sólo datos de Ziva). En cambio, el macho Pyros presentó varias áreas de
+utilización preferente durante el primer año (1997), que se fueron convirtiendo en
+una única área núcleo -las montañas fronterizas entre Francia y el oeste del valle de
+Arán- en los siguientes años (1998 y 1999).
+Durante el año de suelta se presentaron los mayores desplazamientos diarios
+en los tres osos estudiados (Tabla 2). El segundo año, debido a la presencia de crías
+del año, las dos hembras realizaron desplazamientos más cortos (Ziva: F = 26,8; p <
+0,001). Pyros realizó desplazamientos diarios (-
+x = 3,01 km; SD = 2,89; n = 210) más
+largos que Ziva (-
+x = 2,07 km; SD = 2,09; n = 473) (F = 22,99; p < 0,001). Se produjeron
+importantes diferencias de movimientos en los diferentes meses del año. Ziva rea-
+lizó desplazamientos más largos durante el mes de junio (-
+x = 3,01 km), y fueron más
+cortos en marzo (-
+x = 1,21 km). También junio representó el mes de movimientos
+más largos (-
+x = 4,95 km) para Pyros y, los más cortos en noviembre (-
+x = 0,95 km).
+Uso del hábitat
+La selección del hábitat que realizaron los osos en Cataluña (Tablas 3 y 4) mues-
+tran que los osos utilizaron las altitudes comprendidas entre los 801 y los 2.300 m,
+seleccionando positivamente el rango de 1.301-1.800 m de altitud, y negativamen-
+te los de menos de 800 m y de más de 2.300 (p < 0,001). En primavera prefirieron
+cotas más bajas (801-1.300 m) y evitaron las cotas por encima de 1.800 m. También
+seleccionaron positivamente las orientaciones norte y nordeste, mientras que las
+orientaciones sur fueron evitadas (p < 0,001). Las pendientes pronunciadas, entre
+30 y 60 grados fueron seleccionadas positivamente, todo lo contrario que las zonas
+con poca pendiente (< 20º) (p < 0,001).
+En cuanto a la vegetación, los osos seleccionaron positivamente robledales,
+hayedos y abetales. En primavera se añadieron a estos bosques, las avellanedas y, en
+otoño, los bosques de pino negro. En cambio, seleccionaron negativamente los pas-
+tos, los cultivos, las zonas urbanas y las zonas rocosas alpinas (p < 0,001). Las zonas
+que ofrecen una alimentación en base a frutos secos (hayucos y bellotas) fueron se-
+leccionadas positivamente, especialmente en otoño (p < 0,001). En cambio, sólo mos-
+traron una tendencia positiva hacia zonas rocosas no alpinas en otoño (p = 0,002).
+Por último, los osos seleccionaron positivamente distancias a zonas urbanas
+de entre 1.000 y 2.500 m, evitando las menores a 1.000 m. Respecto a las vías de
+comunicación, seleccionaron positivamente distancias de entre 100 y 1.000 m a
+pistas forestales y, de entre 500 y 3.000 m a carreteras, evitando las de menos de 500
+m a estas últimas.
+Hibernación, reproducción y supervivencia
+Los seis casos de hibernación recogidos, algunos incompletos se muestran en la
+Tabla 5. Durante el mes de enero de 1997, Mellba parió tres crías y Ziva otras dos. Muy
+probablemente, una de las crías de Mellba desapareció a finales del verano del mis-
+mo año, justo antes de que su madre fuera muerta durante una batida de jabalies por
+un cazador en el Pic du Gar, Francia, el 27 de septiembre de 1997. Durante el período
+1998 - 2001 las cuatro crías restantes han sobrevivido, lo que representa una alta tasa
+de supervivencia durante el primer año de vida y los siguientes.
+Una cría macho de Ziva (Nere), de 14-15 meses de edad, fue capturada por
+nosotros el 10 de abril de 1998 en el Valle de Arán. Pesó 32 kg y presentó unas exce-
+lentes condiciones físicas y corporales. Las pruebas analíticas y bioquímicas de las
+muestras de sangre indicaron una buena salud (Tabla 6). El 27 de septiembre de
+1999 se capturó una cría de Mellba (el macho Boutxy) en el departamento de Ariege
+(Francia), pesando 132 kg y una edad estimada de 31-32 meses. Este ejemplar fue
+provisto de un emisor intraperitoneal, que ha funcionado hasta junio de 2002.
+Dieta
+Los resultados preliminares del análisis de excrementos (n = 32) indicaron una
+dieta variada, destacando, por orden de importancia, insectos, gramíneas, mamífe-
+ros –pequeños roedores, carroña de ungulados salvajes y, ovejas-, hayucos, ortigas,
+arándanos y, manzanas. Los vegetales fueron el tipo de alimento más consumido
+(67% de las muestras), seguido de los insectos (19%) y de los animales vertebrados
+(14%). La presencia de lana de oveja se detectó únicamente en un 1,3% de las mues-
+tras (depredaciones y carroñas), aunque los ataques atribuidos al oso sobre las espe-
+cies domésticas (ovejas casi exclusivamente) fueron relativamente frecuentes. El exa-
+men visual de los excrementos de Ziva y de sus crías recolectados durante el otoño de
+1998, mostró una alimentación basada casi exclusivamente en bellotas.
+Daños atribuidos a los osos sobre la ganadería
+En Cataluña, a lo largo de los años 1996-2000, se atribuyó a los osos la muerte
+de 118 cabezas de ganado, principalmente ovejas (97%) (Tabla 7 y Figuras 4 y 5),
+aunque por circunstancias sociales se indemnizaron 178 cabezas, con un montante
+total de 29.161 euros para todo este período. Con toda seguridad, las depredaciones
+realmente producidas por los osos fueron menores, al computarse cabezas de
+ganado muertas por otras causas y, ejemplares muertos consumidos como carroña
+por los osos. Además, durante los años 1998, 1999 y 2000, se indemnizaron las ovejas
+y cabras desaparecidas en las zonas por donde se movieron los osos con asiduidad.
+En total 397 cabezas más, añadiendo 52.805 euros (Tabla 7). Ello no significa que
+los osos mataran todas estas ovejas, pero se consideró como una buena medida
+social para suavizar el rechazo de parte de la población local frente a los osos. Los
+daños de 2001 todavía no han podido ser contabilizados.
+Durante el mismo periodo, en Francia, se atribuyeron a los osos 380 daños, indem-
+nizándose un total de 947 cabezas. Menos Ziva, todos los demás osos parecen haber pro-
+ducido daños en el país vecino. Durante los años 1999 y 2000, las crías de Mellba y Ziva
+depredaron sobre explotaciones apícolas en Francia. Y durante el año 2000, el macho
+Nere produjo o estuvo relacionado con casi la mitad de los daños contabilizados en Fran-
+cia. Al igual que en Cataluña, la mayor parte de los daños afectaron a ovejas.
+En promedio, en el Pirineo Central francés y catalán, los daños (seguros, pro-
+bables y dudosos) producidos por un ejemplar y por año oscilaron entre los 17 en
+1996 y 1998 y los 32 en 1997 (Tabla 7). En Cataluña, con 77 ataques contabilizados,
+un oso mató 1,53 cabezas de ganado por ataque. En Francia, sobre 258 ataques
+atribuidos a los osos, un oso mató 1,60 ovejas (rango: 1-8).
+Situación Actual (2000 – 2002)
+En la actualidad, el número total de osos que viven en el Pirineo Central es de
+seis ejemplares: el macho Pyros (13 años), la hembra Ziva (12 años), y cuatro des-
+cendientes adultos de Ziva y de Mellba (3 G y 1 E de cinco años cada uno). El azar ha
+querido que la situación en el Pirineo Central sea muy parecida a la del Pirineo
+Occidental (donde hay cuatro machos y una hembra).
+Desde finales de junio de 2002, cuando el emisor incorporado del único oso
+(Boutxy) radioseguido (Boutxy) dejó de emitir señal, no existen osos
+radiolocalizados. El año 2000 se estableció una red de seguimiento en Cataluña,
+similar a la existente desde hace varios años en Francia, que tiene como objetivo
+información sobre las localizaciones y los movimientos de los osos. El objectivo de
+la red es recopilar, confirmar y centralizar toda la información generada por los
+osos que habitan en la parte catalana de los Pirineos Centrales. Dentro de la co-
+mentada red se integran todos los Agentes Rurales y Guardas de Reservas de Fauna
+del Departamento de Medio Ambiente, y los Agentes Forestales del Conselh Generau
+de Arán. La intención es que en un futuro muy próximo también se pueda comple-
+tar con otros especialistas interesados.
+Desde finales de 1999, los machos Boutxy y Kouki, se encuentran en los Departa-
+mentos franceses de Ariège y de los Pirineos Orientales, a unos 110 y 80 km hacia el
+este de donde nacieron, respectivamente. Sus áreas vitales se solapan parcialmente,
+dejándose observar juntos en varias ocasiones (Figuras 6, 7 y 8). La hembra Caramelles
+se encuentra en el norte del Pallars Sobirà y el área francesa fronteriza. La hembra
+Ziva, que durante el período 1999 - 2001 ha vivido en Cataluña (Pallars Sobirà, Pallars
+Jussà y el Valle de Arán) y Francia (Alto Garona). El macho Pyros se mueve asidua-
+mente entre Francia (Alto Garona y Altos Pirineos), Cataluña (zona occidental del
+Valle de Arán) y Aragón (Valles de Benasque y de Gistaín). Durante el año 2000 se
+produjeron varias sorpresas, tanto en la identificación de los individuos, como en los
+movimientos de los ejemplares. El macho Nere se movió hacia el oeste y se halla ac-
+tualmente en el Departamento francés de los Altos Pirineos, a 120 km de su lugar de
+nacimiento. Desde mayo del 2001 se localiza dentro de la población autóctona occi-
+dental, solapando su área vital con la de la única hembra adulta. En junio de 2001 se
+encontró una cría muerta en Francia. Se trataba de un macho de 4-5 meses de edad y
+de siete kilos de peso. Se presupone que cayó por una cascada de más de 20 m de
+altura. Este hecho indicó un nuevo caso de reproducción y los análisis genéticos de-
+terminaron que Pyros es el padre y Caramelles (hija de Mellba y Pyros) la madre. No
+puede descartarse que esta oso tuviera algún hermano que haya sobrevivido poste-
+riormente.
+A partir de los análisis genéticos realizados en la Universidad de Grenoble (Fran-
+cia) basados en pelos y excrementos recolectados en el campo, se obtuvieron los
+siguientes sorprendentes resultados: Caramelles y Boutxy son hijos biológicos de
+Pyros y Mellba. En cambio, de los dos hijos de Ziva, uno es hijo de Pyros (Nere) y el
+otro de un padre desconocido (Kouki) (Figura 9).
+DISCUSIÓN
+Los tres ejemplares traslocados utilizaron el espacio de una forma similar a otras
+experiencias de traslocación de osos pardos (Rauer 1997) y de osos grizzlies (Servheen
+et al. 1995). Durante una primera temporada realizaron una intensa exploración del
+nuevo territorio, presentando extensas áreas vitales. Posteriormente se asentaron y
+explotaron intensamente menores zonas de campeo. La medida de las áreas vitales y
+de las áreas núcleo pueden presentar un cierto error debido a los periodos en que los
+ejemplares no fueron localizados. La distancia de los movimientos realizados depen-
+dió del año de suelta (largos desplazamientos para conocer el nuevo territorio) y de la
+reproducción (cortas distancias en dos hembras con crías del año).
+La altitud seleccionada pudo variar en la primavera, debido a la presencia de
+nieve en cotas altas y a la aparición de hierba tierna en los prados menos eleva-
+dos, seleccionando positivamente cotas más bajas y negativamente las más altas.
+El hábitat utilizado preferentemente por los osos fueron los bosques con una im-
+portante cobertura vegetal, pero también aprovecharon zonas más despobladas
+de vegetación (prados, barrancos, bosque bajo, etc.), principalmente para alimen-
+tarse y desplazarse. Estos bosques no son todos uniformes sino que la
+mayoritariamente son de tipo mixto con una especie dominante. La escasez de
+bosques –menor protección y más pobre fuente de alimento- y la probabilidad de
+encuentros con personas podrían explicar en parte que los osos eviten acercarse
+a zonas urbanas y carreteras.
+Los periodos de invernación fueron muy semejantes a los de osos de la Penín-
+sula Balcánica (Huber y Kusak 1997), del Pirineo Atlántico (Camarra 1987) y de la
+Cordillera Cantábrica (Naves y Palomero 1993).
+El parto y la crianza de las crías por parte de las dos hembras durante el año
+1997 (Ziva y Mellba), 1997 (Ziva) y 1998 (Ziva), la supervivencia de las dos crías de
+Ziva y de los dos huérfanos de Mellba durante el periodo 1997-2000, y la constata-
+ción de un nuevo caso de reproducción en el año 2001, demuestran que las condi-
+ciones actuales del hábitat pirenáico -refugio y alimentación- son adecuados para
+la supervivencia de los osos.
+En cuanto a los daños atribuidos a los osos, cabe considerar que los datos son
+maximalistas, ya que los daños seguros serían en realidad algo menores (por ejemplo
+en el caso del ejemplar Nere). El número de cabezas de ganado muertas por ataque
+es una cifra similar a las estadísticas estimadas en la población autóctona del Pirineo
+occidental entre 1958 y 1995 (-
+x = 3,4 cabezas de ganado, el 91,8% ovejas) (Nedelec
+1995). Además, el número de daños por años atribuidos a los osos entre las dos po-
+blaciones (autóctona: 1990-95 y reintroducida: 1996-2000) de oso pardo es casi idén-
+tico (n = 100 cabezas de ganado) (Nedelec 1995). Por el contrario los datos entre 1996
+y 2000 de la población autóctona son muy inferiores (n = 168 predaciones seguras o
+probables). Estos datos reflejan que los osos traslocados no se comportan de forma
+anómala como se ha querido reflejar en algunos medios de comunicación. Las pe-
+queñas diferencias encontradas en los últimos años respecto a los daños atribudos a
+los osos traslocados y autóctonos corresponde, muy probablemente, a la diferente
+gestión ganadera. En los Pirineos centrales la ganadería es extensiva, las ovejas se
+utilizan como alimento y los rebaños no se hallan guardados por pastores. El los Piri-
+neos atlánticos, las ovejas se crían por su leche, con la finalidad de hacer quesos. Los
+rebaños son pequeños y se recogen cada noche para ordeñarlos. Las medidas toma-
+das para evitar los ataques de los osos sobre la ganadería extensiva de los pastos alpinos
+de los Pirineos fueron diversas: espantar a los osos con disparos al aire (agosto de
+1997), proteger a los rebaños con cercados eléctricos y, fomentar el uso de perros de
+protección entre los pastores y propietarios de grandes rebaños transhumantes (do-
+nados 29 cachorros hasta diciembre de 2000). Las dos primeras medidas efectuadas
+fueron muy puntuales y se utilizaron siempre que un ejemplar de oso atacó con asi-
+duidad un determinado rebaño. La última medida es la más eficaz a medio y largo
+plazo, quedando demostrado en zonas oseras de Estados Unidos (Madel 1997), tal y
+como empieza a notarse en los rebaños que han adoptado este sistema.
+Hasta la fecha, los daños sobre los rebaños domésticos constituye el único “con-
+flicto” más importante entre los osos reintroducidos y la población local en la ver-
+tiente sur de los Pirineos. En este aspecto, los osos fueron mucho más conflictivos
+en Francia que en Cataluña o Aragón. La muerte de Mellba dejó patente que los
+posibles conflictos entre la caza y el oso pardo, afectaron en realidad al oso.
+En Cataluña existe cierta oposición por una parte de la población local, espe-
+cialmente dentro del sector ganadero y cazador, hacia el proyecto de traslocación y
+la presencia de los osos. En cambio, en Francia, la oposición por parte de los gran-
+jeros y determinados políticos locales es más fuerte, demandando que los osos sean
+recapturados y devueltos a Eslovenia. Son muchos los pastores y ganaderos que
+rechazan las medidas propuestas para reducir los daños posibles de osos.
+Como conclusión se puede afirmar que el sistema de traslocación ha funcio-
+nado correctamente y que se ha producido una buena adaptación de los osos a las
+condiciones tróficas y de hábitat del Pirineo actual, reproduciéndose con normali-
+dad y comportándose de forma similar a como lo hacen en otros lugares de Europa.
+Resta por decidir qué pasará con la especie en los próximos años, Se ha de conside-
+rar, en realidad, que la presencia actual de tan pocas hembras condiciona el futuro
+crecimiento de toda la población pirenáica. La captura, anestesia, manipulación y
+transporte, que tuvieron lugar durante los primeros estadios de la gestación, cuan-
+do el óvulo todavía no se hallaba implantado en las paredes del útero, no afectaron
+a la reproducción. El hecho que una misma hembra pueda tener crías en una mis-
+ma camada de diferentes machos se ha constatado también en los osos grizzlies de
+Norteamérica (Graighead et al. 1995). La procedencia de los tres ejemplares libera-
+dos de una misma zona explica estos cruces familiares. En el caso de futuras
+traslocaciones sería recomendable capturar los ejemplares en zonas alejadas entre
+sí, para evitar el peligro de consanguinidad en los individuos fundadores.
+El futuro de los osos es incierto y está pendiente de decisiones a todos los nive-
+les, tanto en España como en Francia. El Ministerio de Medio Ambiente francés
+decidió no tratar el tema de más traslocaciones hasta el año 2003. El éxito a largo
+plazo de un programa como este no puede conseguirse sin la aceptación por parte
+de la población local y la posibilidad de minimizar las situaciones conflictivas, es-
+pecialmente los daños sobre la ganadería doméstica que se ha producido durante
+este período experimental. Este es el campo en el que se está trabajando actual-
+mente, especialmente a nivel escolar y de sensibilización de la población (progra-
+mas Pirineos vivos y Cuenta-Cuentos en los Pirineos, Ruta de Fauna de los Pirineos
+y, edición de un tríptico), en colaboración con ADENA-WWF, Asociación TRENCA,
+DEPANA y el Departamento de Medio Ambiente de la Generalitat de Catalunya,
+para conseguir cambiar la percepción presente y futura del oso pardo por parte de
+los habitantes del Pirineo y de los medios de comunicación provinciales y locales.
+Se ha establecido una red de seguimiento de rastros y se continua con las
+indemnizaciones de posibles daños atribuidos a los osos. Desde el año 2001, la del
+oso pardo -seguimiento e indemnización- en el territorio aranés la realiza el Conselh
+Generau d’Aran, por delegación de la administración catalana.

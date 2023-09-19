@@ -1,0 +1,222 @@
+Los sistemas silvopastoriles son considerados como una opción de producción pecuaria en
+donde las leñosas perennes (árboles y/o arbustos) interactúan con los componentes tradicionales
+(forrajeras herbáceas y animales) bajo un sistema de manejo integral (Mahecha, 2002).
+En la región chaqueña se deben considerar que los sistemas existentes son básicamente
+ganaderos, donde la componente forestal posee una importancia secundaria y por lo tanto no se
+cumple la condición de que exista un “sistema integrado de manejo”.
+Si bien en la región se puede encontrar varios tipos de estos sistemas, diferenciándose
+particularmente en cuanto a la distribución espacial de los individuos arbóreos, el modelo quizás
+con mayor difusión, es aquel que propone la eliminación del estrato arbustivo dejando árboles
+dispersos en la superficie bajo manejo. Según Kunst (2006) por las características climáticas de
+la región Chaqueña esta dispersión de los individuos arbóreos es favorable porque genera una
+fisonomía “tipo parque” de mayor producción pecuaria.
+La expansión de estos sistemas en bosques de estructura irregular que caracterizan al Chaco
+semiárido plantea una serie de dudas sobre la sustentabilidad de los mismos. Brassiolo (1997)
+llamó la atención sobre la doble función del estrato arbustivo con relación a la regeneración
+arbórea, comportándose como competencia pero siendo también protección para las plantas
+jóvenes del estrato arbóreo.
+Indudablemente responder la gran cantidad de preguntas sobre el rol del componente
+arbustivo escapa a los alcances de este trabajo el cual tiene como objetivo aportar información
+sobre el estrato arbustivo de los bosques del Chaco semiárido, evaluando la respuesta del mismo
+al tratamiento de desarbustado y a la presencia; o no, de ganado vacuno.
+2. MATERIALES Y MÉTODOS
+2.1. Área de estudio
+El estudio se llevó a cabo en el mes de Diciembre del 2004, en parcelas delimitadas en el
+campo “La María” de la Estación experimental del INTA. Ésta se encuentra a aproximadamente
+30 km de la ciudad de Santiago del Estero, a los 28º 01’ de latitud Sur y 64º 17’ de longitud
+Oeste y a 180 metros sobre el nivel del mar, en la zona de transición de la llanura aluvial del Río
+Dulce y la planicie pedemontana de las Sierras de Guasayán.
+El clima corresponde al tipo DB'4da', semiárido, con nulo o pequeño exceso de agua,
+mesotermal. La precipitación media anual es de 550 mm, la temperatura media del mes más
+cálido (enero) y del más frío (julio) son de 27,7 ºC y 13,3 ºC, respectivamente, mientras que las
+temperaturas máxima y mínima absolutas son de 46 ºC y –10 ºC (Boletta et al. 1989).
+La vegetación de la zona es la que corresponde a los bosques de quebracho, donde
+originariamente predominaban los quebrachos colorados (Schinopsis lorentzii) y blanco
+(Aspidosperma quebracho-blanco). Descripciones detalladas de la estructura arbórea del área de
+trabajo se pueden encontrar en Brassiolo et al. (1993); Araujo (2004).
+2.2. Metodología
+Se trabajó en rodales que tuvieron diferentes intervenciones, en un área que fue apotrerada y
+puesta bajo manejo continuo de ganado bovino, regulando la carga animal según la oferta
+forrajera. Uno de estos rodales fue desarbustado en forma manual en 1994. También se
+consideró un área adyacente, con el mismo tipo de bosque, que fue clausurada en 1987. De esta
+forma los tratamientos analizados fueron:
+- Bosque con Pastoreo desarbustado hace 10 años (BD).
+- Bosque con Pastoreo sin desarbustado (B).
+- Clausura establecida en 1987 (C).
+Se utilizaron parcelas rectangulares de 4 x 25 m, coincidiendo con la superficie recomendada
+por Tálamo y Caziani (2003), para este tipo estudios en el mismo tipo de bosque.
+El inventario se realizó con un total de 20 parcelas, 8 ubicadas en el desarbustado con
+pastoreo, 6 en el sitio sin desarbustado con pastoreo y 6 en la clausura; logrando un error de
+muestreo no mayor al 30% en cada una de las áreas analizadas.
+Para ubicar las parcelas se utilizo la impresión de una imagen satelital, con escala conocida,
+sobre la que se colocó una grilla de puntos elaborada sobre una hoja de acetato; luego se sorteó
+al azar la ubicación de los puntos de muestreo. Utilizando la escala, y referenciando los puntos
+con distancias en la imagen, se materializaron en el terreno mediante el empleo de cinta métrica
+y brújula. Las parcelas se orientaron con rumbo de 270º.
+En cada una de las parcelas, se recolectó la siguiente información:
+- Número de especies e individuos arbustivos,
+- Diámetro de todos sus tallos a 20 cm de altura,
+- Radios de la copa de los individuos.
+La superficie de copa se calculo utilizando el radio medio, a partir de dos o tres radios
+medidos, dependiendo de la forma y dimensión de la copa.
+2.3. Análisis de datos
+Se realizaron comparaciones entre tratamientos respecto a la diversidad de especies
+arbustivas utilizando los siguientes índices;
+El Índice de Valor de Importancia (Lamprecht, 1990), para lo que fue necesario determinar
+la frecuencia, densidad y dominancia de las mismas.
+El Índice de Shannon3 (H`), el cual describe la diversidad de un determinado lugar tomando
+en cuenta el número de especies como el número de individuos por especie. Toma valores entre
+0 y log S, siendo S el total de especies.
+También se consideró el Índice de Uniformidad (E) asociado al Índice de Shannon, el mismo
+expresa uniformidad en la importancia relativa de las distintas especies que habitan un sitio. E
+toma valores entre 0 y 1: si E = 0 significa que no existe uniformidad de la importancia relativa
+de las especies y si E = 1 indica que todas las especies encontradas en un sitio están igualmente
+representadas, por lo tanto no existe dominancia de una o más especies en particular.
+Finalmente se realizaron análisis de la similitud entre los diferentes tratamientos a través del
+Índice de Morisita-Horn (MH). Este Índice calcula en qué grado dos sitios son semejantes por
+las especies presentes y el número de individuos en cada una de ellas, con valores entre 0
+(totalmente diferentes) y 1 (iguales).
+Según Magurran (1988), los índices utilizados (H´, E y MH) sirven como indicadores del
+buen funcionamiento de los ecosistemas. Conocidos los valores de estos índices para situaciones
+características de un ecosistema dado, será posible mediante monitoreo periódico del mismo,
+hallar disturbios incipientes o ver si un ecosistema manejado por el hombre, se mantiene en el
+estado en que se pretende. Para el cálculo de estos índices se utilizó el Programa BIO-DAP
+(2000).
+3. RESULTADOS Y DISCUSIÓN
+Las especies arbustivas halladas en el área de estudio son presentadas en la Tabla 1.
+Se encontraron 15 especies de arbustos pertenecientes a 12 familias botánicas diferentes,
+siendo las más representadas Fabaceae (25 %) y Verbenaceae (17 %); todas las demás familias
+sólo están representadas por una especie (8 %).
+3.1. Composición y Estructura
+Sin Desarbustado
+En los lotes incluidos en este tratamiento, si bien están cercados y poseen un manejo
+ganadero controlado según oferta forrajera, no se realizaron intervenciones sobre la estructura
+del bosque. En el inventario realizado se encontraron 10 especies de arbustos. Los datos
+estructurales se presentan en la Tabla 2 ordenados de mayor a menor según el IVI (índice de
+valor de importancia).
+Las especies más importantes en el área “Sin desarbustar” son el Teatín y el Tala pishpita.
+También se puede observar que cuatro especies son las que presentan los mayores valores,
+mientras que el resto posee una importancia mucho menor dentro de la estructura del bosque.
+Clausura
+En el lote clausurado al ganado, se encontraron solo siete especies de arbustos. Los datos
+estructurales se presentan en la Tabla 3, ordenados de mayor a menor IVI.
+En la Tabla 3 se observa que las especies más importantes son Teatín, Jarilla y Atamisqui.
+De la restantes, la mayoría posee una importancia intermedia.
+En este caso llama la atención la elevada importancia de Jarilla, considerada una especie
+indicadora de fuerte sobreuso. Aunque con un IVI bastante inferior al de Jarilla, también se
+considera a la Brea como una especie colonizadora de terrenos degradados (Demaio et al.,
+2002). Caziani et al. (2003) incluyen a esta especie en una lista de indicadores ecológicos
+potenciales para los bosques de la zona del Parque Nacional Copo.
+Desarbustado
+Esta parcela tuvo un tratamiento de desarbustado en 1994. En esa intervención, además de
+retirar los arbustos se extrajeron algunos individuos arbóreos de mal estado sanitario. En la
+Tabla 4 se presentan los datos estructurales.
+Como se observa en la Tabla 4, en el “Desarbustado” se encontraron 12 especies de arbustos,
+siendo la situación con mayor riqueza florística. La especie más importante es Tala pishpita,
+mientras que la participación del resto de las especies es marcadamente inferior.
+En el caso del Teatín el valor de importancia es medio y la frecuencia relativa baja,
+mostrando la importante agrupación de sus individuos.
+Comparación entre tratamientos
+En la Figura 1 se presentan los IVI para las tres áreas.
+De la comparación entre las diferentes áreas, presentadas en la Figura 1, llama la atención el
+elevado valor de IVI que presenta Jarilla en la “Clausura”, como ya fue comentado.
+Considerando las demás especies, se ve que en los tratamientos que no fueron desarbustados
+las especies Teatín, Tala y Atamisqui presentan tendencias semejantes. No ocurre lo mismo con
+el área desarbustada, donde Tala es la especie que presenta una recuperación más rápida luego
+de la intervención, seguramente por la posibilidad de esta especie de producir brotes de raíces.
+En el “Desarbustado”, Teatín presenta una importancia muy inferior a la observada en las
+otras situaciones, donde es la especie más importante, manifestando una lenta recuperación
+luego de 10 años de la intervención.
+Número de individuos
+En la Figura 2 se presentan los valores de densidad de arbustos en las diferentes situaciones
+analizadas.
+Existen grandes diferencias entre la densidad de arbustos en la “Clausura” y en los otros
+tratamientos. Esto fue confirmado estadísticamente, comprobándose que existen diferencias
+significativas entre el sitio “Clausura” y el sitio “Sin Desarbustado” (ANOVA: P<0.05) y entre
+el sitio “Clausura” y el sitio “Desarbustado” (ANOVA: P<0.05), no siendo significativa la
+diferencia entre el sitio “Sin Desarbustado” y el sitio “Desarbustado”.
+Cobertura de copa.
+En la Tabla 5 se presentan los valores de la cobertura del suelo por las copas de los arbustos
+en las diferentes situaciones.
+No se encontraron diferencias significativas entre las coberturas de arbustos en los diferentes
+tratamientos (ANOVA: P>0.05). Sin embargo, se puede comentar que la menor cobertura de
+copas fue observada en la “Clausura”. Este resultado era esperable, ya que la misma presenta la
+menor densidad de arbustos. Por otro lado, la mayor cobertura se observó en el área “Sin
+Desarbustar”, a pesar de tener menor cantidad de arbustos que el sitio “Desarbustado”.
+Obviamente esto no está relacionado con el número de arbustos, sino con el mayor tamaño de
+los individuos en este tratamiento.
+En la Tabla 5 también se puede observar que existe una fuerte concentración de la cobertura
+en unas pocas especies y que generalmente se trata de las mismas especies.
+Área Basal
+La Figura 3 se puede observar el Área Basal de los arbustos presentes en cada tratamiento.
+El sitio “Sin Desarbustado” es el que mayor Área Basal presenta, seguido por el
+“Desarbustado” y la “Clausura”. Las diferencias, si bien parecen considerables, no son
+estadísticamente significativas (ANOVA: p>0.05). Existe una relación lógica con los resultados
+obtenidos al analizar Cobertura; siguen el mismo patrón que el Área Basal.
+Se realizó un Análisis de la Varianza, con la finalidad de detectar diferencias significativas
+entre los diámetros de individuos de las ocho especies compartidas por los sitios “Sin
+desarbustar” y “Desarbustado”, de esta forma, se elimina el efecto de las especies no comunes.
+Los diámetros encontrados en el tratamiento “Sin Desarbustar” fueron significativamente
+mayores (ANOVA: P<0.05) que los del “Desarbustado”.
+Luego de una década de realizados los tratamientos, los arbustos volvieron a ganar el terreno
+en el sitio “Desarbustado”, presentando menores diámetros que los arbustos del “Sin
+Desarbustar”.
+Biodiversidad
+La Tabla 6 presenta los valores del Índices de Shannon y de Uniformidad para los tres sitios.
+Coincidiendo con el análisis de la composición florística en cada tratamiento, el sitio
+“Desarbustado” es el más diverso (H`=1.74), sin embargo no se encontraron diferencias
+significativas de diversidad entre las diferentes situaciones analizadas (¨t¨ TEST de BIO-DAP).
+Los valores de t calculados son menores que el valor t de tabla (t 0.05∞gl=1.96), se acepta la
+hipótesis nula de que no hay diferencias.
+En relación con el Índice de Uniformidad (E), como se observa en la Tabla 6, la “Clausura”
+es el sitio más equilibrado en cuanto a representatividad de las especies presentes. En el extremo
+opuesto se encuentra el sitio “Sin Desarbustar” que con E = 0.66 pone de manifiesto la
+desigualdad de abundancia de individuos entre las especies allí presentes, donde Tala y Teatín
+conforman más del 70% de los arbustos. Esta situación es similar a lo ocurrido para el sitio
+“Desarbustado” donde Tala representa el 50% de los individuos resultando en un valor de
+E=0.7.
+En la Tabla 7, se presentan los valores que representan el grado de similitud entre los sitios
+calculados con Índice de Morisita-Horn.
+Los resultados presentados en la Tabla 7 son coherentes con lo que podría esperarse en
+función de la semejanza de los tratamientos. Los sitios “Sin Desarbustado” y “Desarbustado”
+son los más semejantes, mientras que los tratamientos más extremos (“Clausura” y
+“Desarbustado”) son los que mayores diferencias presentan.
+La recuperación del estrato arbustivo durante los 10 años trascurridos desde el tratamiento de
+desarbustado, es tal que no se pudo encontrar ninguna diferencia en los parámetros analizados
+con el área donde no se realizó este tratamiento. Un resultado semejante, aunque menos
+concluyente, obtuvo Brassiolo y Kull (2000) al analizar esta recuperación del estrato arbustivo
+mediante métodos expeditivos, concluyendo que luego de cinco años prácticamente no se
+observaban diferencias en área basal, entre estas áreas.
+De los resultados comentados anteriormente se desprende que a fin de mantener la
+productividad de la pastura es necesario mantener un ciclo de desarbustados en periodos que
+varían en torno a los 5 años. Esta tarea normalmente realizada en forma mecánica, afecta el
+desarrollo de la regeneración natural del estrato arbóreo, comprometiendo por lo tanto la
+sustentabilidad del sistema productivo cuando se adopta una distribución relativamente
+homogénea de los árboles en la superficie. Se deben considerar estos resultados al implantar
+sistemas silvopastoriles, y analizar las ventajas y desventajas de otros diseños para la
+distribución espacial del componente arbóreo.
+En el área clausurada, el estrato arbustivo es más estable en comparación con las otras áreas;
+esto se traduce en un menor número de individuos, pero con semejanzas en área basal y
+cobertura. Aparentemente la presencia del ganado podría contribuir a un rejuvenecimiento
+(reinvasión) del estrato arbustivo, como se deduce del mayor número de individuos existente en
+este sitio que en la “Clausura”.
+4. CONCLUSIONES
+Transcurridos 10 años desde el tratamiento de desarbustado, los arbustos han recuperado su
+posición en la estructura del bosque, y al momento del análisis no existen diferencias en
+ninguno de los parámetros evaluados, con el sitio donde no se realizó este tratamiento.
+Se observa una gradación que va desde el ambiente más joven, el “Desarbustado”, hacia la
+“Clausura”, que es el más evolucionado. El gran número de arbustos y mayor número de
+especies encontrados en el sitio “Desarbustado”, con tallos de menor diámetro, responde a la
+recuperación del terreno por parte de éstos, más jóvenes y por lo tanto de menores dimensiones.
+Los resultados obtenidos indican que el efecto de algunas alteraciones, como por ejemplo el
+desarbustado, son difíciles de percibir a nivel del rodal luego de pocos años, produciéndose una
+rápida recuperación del estrato arbustivo. Sin embargo estas diferencias se pueden percibir a
+nivel de la participación de las distintas especies. En este sentido la participación de Tala o la
+ausencia de Teatín parecen ser indicadores potenciales en áreas donde se eliminó el estrato
+arbustivo. Esto debería ser analizado en futuros trabajos.
+Los sistemas de producción que promueven el desarbustado para aumentar la producción de
+pasturas, están obligados a realizar tareas de mantenimiento de la intervención inicial,
+realizando desarbustados en forma periódica. Cuando el bosque bajo manejo tiene estructura
+irregular y se adopta una distribución relativamente homogénea de los árboles en la superficie,
+esta sucesión de intervenciones sin dudas afectará el desarrollo de la regeneración arbórea
+poniendo en duda la sustentabilidad del sistema productivo.
