@@ -58,6 +58,7 @@ class Crawler:
         exception = task.exception()
         if exception is not None:
             print(f'error happened while fetching {link.url}: {type(exception)}')
+            print(exception)
             status = "failed"
         else:
             self._enqueue(task.result())

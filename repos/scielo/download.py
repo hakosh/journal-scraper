@@ -4,6 +4,7 @@ import urllib.parse
 import aiohttp
 from bs4 import BeautifulSoup
 
+from articles import exists
 from crawler import Crawler
 from models import Link, Article, Content, save_article, save_contents, reset_running, get_first_pending
 from retry import retry
@@ -25,7 +26,7 @@ journals = [
     "Quebracho (Santiago del Estero)"
 ]
 
-years = list(range(1998, 2020))
+years = list(range(1998, 2025))
 
 base_params = {
     "q": "*",
@@ -83,14 +84,19 @@ def process_index(body: str) -> list[Link]:
 
     for item in article_items:
         article, abstracts = extract_from_item(item)
-        save_article(article)
-        # save_contents(abstracts, "abstract")
 
-        # for url in item.select('div.versions > span > a'):
-        #     if "sci_arttext" in url['href']:
-        #         links.append(
-        #             Link(url=url['href'], resource_type="article", repo="scielo")
-        #         )
+        if exists(article.id):
+            print(f"{article.id} already downloaded")
+            continue
+
+        save_article(article)
+        save_contents(abstracts, "abstract")
+
+        for url in item.select('div.versions > span > a'):
+            if "sci_arttext" in url['href']:
+                links.append(
+                    Link(url=url['href'], resource_type="article", repo="scielo")
+                )
 
     if len(article_items) == 50:
         page_num = int(soup.select_one("input[name='page']").attrs["value"])
@@ -161,7 +167,7 @@ def get_xml_url(link: Link):
     pid = qs["pid"][0]
     lang = qs["tlng"][0]
 
-    return f'{url.scheme}://{url.hostname}/scieloOrg/php/articleXML.php?pid={pid}&lang={lang}'
+    return f'{url.scheme}://{url.hostname}/scielo.org/php/articleXML.php?pid={pid}&lang={lang}'
 
 
 def get_page_url(page: int):

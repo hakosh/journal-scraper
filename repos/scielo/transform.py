@@ -1,8 +1,8 @@
+import html
 import re
 from html import unescape
 
-import bs4
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 from fasttext.FastText import _FastText
 from htmlmin import minify
 
@@ -66,7 +66,7 @@ def transform_xml_bodies():
     print(f'cleaned {len(contents)} resources')
 
 
-def remove_citations_tags(doc: BeautifulSoup):
+def remove_citations_tags(doc: Tag):
     links = doc.find_all("a")
     for link in links:
         if link.parent is not None and link.parent.name == "sup":
@@ -74,7 +74,9 @@ def remove_citations_tags(doc: BeautifulSoup):
 
 
 def remove_citations_text(string: str) -> str:
-    return re.sub("\(.*(et\sal\.).*\)", "", string)
+    string = re.sub("\([^()]*et\sal\.[^()]*\)", "", string)
+    string = re.sub("\([^()]*\d{4}\)", "", string)
+    return string
 
 
 def remove_brackets(body: str) -> str:
@@ -103,29 +105,44 @@ def clean_structured_html(body: BeautifulSoup) -> str:
 
 
 def clean_messy_html(body: BeautifulSoup) -> str:
-    paragraphs = []
+    oBody = body
+    body = body.find("div", attrs={"class": re.compile("^index,\w{2}")})
+
+    if body is None:
+        print("BODY", str(oBody))
+        exit(1)
 
     hrs = body.find_all("hr")
     if len(hrs) >= 2:
         for tag in hrs[1].previous_siblings:
-            if isinstance(tag, bs4.Tag):
+            if isinstance(tag, Tag):
                 tag.clear()
 
-    for p in body.find_all("p"):
-        text = p.get_text(strip=True)
-        head = text[0:50].lower()
+    ps = body.find_all("p")
+    if len(ps) == 0:
+        ps = body.find_all("font", attrs={"size": ["2", "3"]})
 
-        if "abstract:" in head or "key words:" in head or "resumen:" in head:
+    paragraphs = []
+    for p in ps:
+        if not p.text:
             continue
-        elif ("agradecimientos" in head
-              or "acknowledgements" in head
-              or "references" in head
-              or "referencias" in head):
+
+        head = p.text[0:50].strip().lower()
+
+        if head in ["abstract:", "key words:", "resumen:"]:
+            continue
+        elif head in ["agradecimientos", "acknowledgments", "references", "referencias"]:
             break
         else:
             remove_citations_tags(p)
-            string = remove_citations_text(" ".join(p.stripped_strings))
-            paragraphs.append(string.lower().strip())
+
+            text = str(p).replace("\n", " ").strip()
+            text = re.sub("\s+", " ", text)
+            text = re.sub("<.*?>", "", text).strip()
+            text = html.unescape(text)
+            text = remove_citations_text(text)
+
+            paragraphs.append(text)
 
     bad = ["abstract", "resumen", "key words"]
     for word in bad:
@@ -149,15 +166,16 @@ def clean_html(content: Content) -> CleanContent | None:
     elif raw := soup.find(id="s1-body"):
         print("found s1-body")
         body = clean_structured_html(raw)
-    elif raw := soup.find("div", {"class": "index,es"}) or soup.find("div", {"class": "index,en"}):
-        body = clean_messy_html(raw)
+    elif soup.find("div", {"class": re.compile("index,\w{2}")}):
+        print("found messy html")
+        body = clean_messy_html(soup)
     else:
         print(f"cannot process content: {content.article_id} ({content.lang})")
         return
 
     body = body.replace("\n", " ").strip()
     if body == "":
-        print(f"cannot process content: {content.article_id} ({content.lang})")
+        print(f"cannot process content (empty): {content.article_id} ({content.lang})")
         return
 
     lang_det, lang_cnf = get_lang(body)
