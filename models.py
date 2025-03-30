@@ -64,21 +64,21 @@ def save_link_status(link: Link, status: str):
     ''', {"url": link.url, "status": status})
 
 
-def reset_running():
+def reset_running(repo: str):
     db.conn.execute('''
         UPDATE links
         SET status = 'pending'
-        WHERE status = 'running'
-    ''')
+        WHERE status = 'running' and repo = :repo
+    ''', {"repo": repo})
 
 
-def get_first_pending() -> Link | None:
+def get_first_pending(repo: str) -> Link | None:
     rows = db.conn.execute('''
         SELECT url, repo, type, status
         FROM links
-        WHERE status = 'pending'
+        WHERE status = 'pending' AND repo = :repo
         LIMIT 1
-    ''')
+    ''', {"repo": repo})
 
     rows = list(rows)
 
@@ -90,9 +90,11 @@ def get_first_pending() -> Link | None:
 
 
 class Article:
-    def __init__(self, article_id: str, title: str, country: str, journal: str, pub_year: int):
+    def __init__(self, article_id: str, title: str | None, country: str, journal: str, pub_year: int,
+                 title_en: str | None):
         self.id = article_id
         self.title = title
+        self.title_en = title_en
         self.country = country
         self.journal = journal
         self.pub_year = pub_year
@@ -105,11 +107,18 @@ def save_article(article: Article):
     global count
 
     db.conn.execute('''
-        INSERT INTO articles (id, journal, title, country, pub_year)
-        VALUES (:id, :journal, :title, :country, :pub_year)
+        INSERT INTO articles (id, journal, title, title_en, country, pub_year)
+        VALUES (:id, :journal, :title, :title_en, :country, :pub_year)
+        ON CONFLICT DO UPDATE SET
+            title = coalesce(excluded.title, title),
+            title_en = coalesce(excluded.title_en, title_en),
+            country = coalesce(excluded.country, country),
+            journal = coalesce(excluded.journal, journal),
+            pub_year = coalesce(excluded.pub_year, pub_year);
     ''', {
         "id": article.id,
         "title": article.title,
+        "title_en": article.title_en,
         "country": article.country,
         "journal": article.journal,
         "pub_year": article.pub_year

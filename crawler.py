@@ -1,4 +1,5 @@
 import asyncio
+import traceback
 from typing import Callable, Awaitable
 
 import aiohttp
@@ -21,8 +22,9 @@ class Crawler:
 
         self._pending = dict()
 
-    async def start(self, link: Link):
-        save_link(link)
+    async def start(self, links: list[Link]):
+        self._enqueue(links)
+
         self._session = aiohttp.ClientSession(
             timeout=aiohttp.ClientTimeout(total=20)
         )
@@ -58,7 +60,7 @@ class Crawler:
         exception = task.exception()
         if exception is not None:
             print(f'error happened while fetching {link.url}: {type(exception)}')
-            print(exception)
+            traceback.print_tb(exception.__traceback__, limit=None)
             status = "failed"
         else:
             self._enqueue(task.result())

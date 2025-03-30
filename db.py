@@ -27,6 +27,7 @@ def setup():
         create table articles (
             id text primary key,
             title text not null,
+            title_en text,
             country text,
             journal text not null,
             pub_year integer not null

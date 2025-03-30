@@ -1,6 +1,8 @@
 import sys
 
 import db
+from repos.jstage.download import download_jstage
+from repos.jstage.transform import transform_jstage
 from repos.local.download import download_local
 from repos.local.transform import transform_local
 from repos.scielo.download import download_scielo
@@ -13,6 +15,10 @@ if len(sys.argv) <= 1:
 mode = sys.argv[1]
 
 match mode:
+    case "sync-jstage":
+        print("sync-jstage")
+        download_jstage()
+
     case "sync-scielo":
         print("sync scielo")
         download_scielo()
@@ -20,6 +26,10 @@ match mode:
     case "sync-local":
         print("sync local")
         download_local()
+
+    case "transform-jstage":
+        print("transform-jstage")
+        transform_jstage()
 
     case "transform-scielo":
         print("run transform-scielo")

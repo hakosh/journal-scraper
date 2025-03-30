@@ -185,11 +185,11 @@ def get_page_url(page: int):
 def download_scielo():
     crawler = Crawler(repo="scielo", visit=visit, concurrency=6)
 
-    reset_running()
-    entry = get_first_pending()
+    reset_running("scielo")
+    entry = get_first_pending("scielo")
     if entry is None:
         entry = Link(url=get_page_url(1), repo="scielo", resource_type="index")
 
     print("ENTRY", entry.url)
 
-    asyncio.run(crawler.start(entry), debug=False)
+    asyncio.run(crawler.start([entry]), debug=False)
