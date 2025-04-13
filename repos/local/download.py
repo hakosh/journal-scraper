@@ -24,8 +24,9 @@ def download_local():
         id = raw["id"]
 
         article = Article(
-            article_id=id,
+            id=id,
             title=raw["title"],
+            title_en=None,
             country=raw["country"],
             journal=raw["journal"],
             pub_year=int(raw["pub_year"])

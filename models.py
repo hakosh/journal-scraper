@@ -1,11 +1,38 @@
+import typing
+
 import db
 
 
-class Link:
-    def __init__(self, url: str, resource_type: str, repo: str):
-        self.url = url
-        self.repo = repo
-        self.type = resource_type
+class Link(typing.NamedTuple):
+    url: str
+    repo: str
+    type: str
+
+
+class Article(typing.NamedTuple):
+    id: str
+    title: str | None
+    title_en: str | None
+    country: str
+    journal: str
+    pub_year: int
+
+
+class Content(typing.NamedTuple):
+    article_id: str
+    lang: str
+    link: str | None
+    format: str
+    content: str
+
+
+class CleanContent(typing.NamedTuple):
+    article_id: str
+    type: str
+    lang: str
+    lang_det: str
+    lang_cnf: float
+    content: str
 
 
 def save_link(link: Link):
@@ -41,7 +68,7 @@ def get_links(repo: str, count: int) -> list[Link]:
 
     for link in cursor:
         url, resource_type, repo = link
-        links.append(Link(url=url, resource_type=resource_type, repo=repo))
+        links.append(Link(url=url, type=resource_type, repo=repo))
 
     return links
 
@@ -86,18 +113,7 @@ def get_first_pending(repo: str) -> Link | None:
         return None
 
     url, repo, resource_type, status = rows[0]
-    return Link(url=url, repo=repo, resource_type=resource_type)
-
-
-class Article:
-    def __init__(self, article_id: str, title: str | None, country: str, journal: str, pub_year: int,
-                 title_en: str | None):
-        self.id = article_id
-        self.title = title
-        self.title_en = title_en
-        self.country = country
-        self.journal = journal
-        self.pub_year = pub_year
+    return Link(url=url, repo=repo, type=resource_type)
 
 
 count = 0
@@ -126,15 +142,6 @@ def save_article(article: Article):
 
     count += 1
     print(f'saved article #{count}')
-
-
-class Content:
-    def __init__(self, article_id: str, lang: str, link: str | None, content: str, format: str):
-        self.article_id = article_id
-        self.lang = lang
-        self.link = link
-        self.format = format
-        self.content = content
 
 
 def save_contents(contents: list[Content], content_type: str):
@@ -177,16 +184,6 @@ def get_uncleaned_contents(content_type: str, content_format: str) -> list[Conte
         contents.append(content)
 
     return contents
-
-
-class CleanContent:
-    def __init__(self, article_id: str, content_type: str, lang: str, lang_det: str, lang_cnf: float, content: str):
-        self.article_id = article_id
-        self.type = content_type
-        self.lang = lang
-        self.lang_det = lang_det
-        self.lang_cnf = lang_cnf
-        self.content = content
 
 
 def save_clean_content(content: CleanContent):

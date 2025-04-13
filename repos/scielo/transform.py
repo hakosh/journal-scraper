@@ -43,16 +43,13 @@ def clean_xml(content: Content) -> CleanContent:
     print("CLEAN", clean_body)
     lang_det, lang_cnf = get_lang(clean_body)
 
-    print(lang_det, lang_cnf)
-    exit(0)
-
     return CleanContent(
         article_id=content.article_id,
         lang=content.lang,
         lang_det=lang_det,
         lang_cnf=lang_cnf,
         content=" ".join(strings),
-        content_type="body"
+        type="body"
     )
 
 
@@ -171,12 +168,12 @@ def clean_html(content: Content) -> CleanContent | None:
         body = clean_messy_html(soup)
     else:
         print(f"cannot process content: {content.article_id} ({content.lang})")
-        return
+        return None
 
     body = body.replace("\n", " ").strip()
     if body == "":
         print(f"cannot process content (empty): {content.article_id} ({content.lang})")
-        return
+        return None
 
     lang_det, lang_cnf = get_lang(body)
     print(content.article_id, lang_det, lang_cnf)
@@ -187,7 +184,7 @@ def clean_html(content: Content) -> CleanContent | None:
         lang_det=lang_det,
         lang_cnf=lang_cnf,
         content=body,
-        content_type="body"
+        type="body"
     )
 
 

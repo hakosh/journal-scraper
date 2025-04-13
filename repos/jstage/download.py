@@ -38,7 +38,7 @@ journals = [
 def get_link(journal: str, lang: str) -> Link:
     url = f"{base_url}/browse/{journal}/list/-char/{lang}"
 
-    return Link(url=url, repo="jstage", resource_type="index")
+    return Link(url=url, repo="jstage", type="index")
 
 
 not_content = re.compile("_(Toc|App|Cover)\d$")
@@ -79,7 +79,7 @@ def extract_articles(soup: BeautifulSoup, link: Link) -> (list[Article], list[Co
             pub_year = int(pub_year_pattern.search(pub_year_text).group(1))
 
             article = Article(
-                article_id=article_id,
+                id=article_id,
                 title="",
                 country="jpn",
                 journal=journal_name,
@@ -122,7 +122,7 @@ def extract_links(soup: BeautifulSoup) -> list[Link]:
         for link in group.find_all("a"):
             urls.append(link["href"])
 
-    return [Link(url=url, repo="jstage", resource_type="list") for url in urls]
+    return [Link(url=url, repo="jstage", type="list") for url in urls]
 
 
 def process_list(body: str, link: Link) -> list[Link]:

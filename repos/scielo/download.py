@@ -52,8 +52,9 @@ def extract_from_item(item) -> (Article, list[Content]):
     journal = source[0].a.get_text(strip=True)
 
     article = Article(
-        article_id=article_id,
+        id=article_id,
         title=title,
+        title_en=None,
         country=country,
         journal=journal,
         pub_year=year
@@ -95,12 +96,12 @@ def process_index(body: str) -> list[Link]:
         for url in item.select('div.versions > span > a'):
             if "sci_arttext" in url['href']:
                 links.append(
-                    Link(url=url['href'], resource_type="article", repo="scielo")
+                    Link(url=url['href'], type="article", repo="scielo")
                 )
 
     if len(article_items) == 50:
         page_num = int(soup.select_one("input[name='page']").attrs["value"])
-        next_page = Link(url=get_page_url(page_num + 1), repo="scielo", resource_type="index")
+        next_page = Link(url=get_page_url(page_num + 1), repo="scielo", type="index")
         links.append(next_page)
 
     return links
@@ -188,7 +189,7 @@ def download_scielo():
     reset_running("scielo")
     entry = get_first_pending("scielo")
     if entry is None:
-        entry = Link(url=get_page_url(1), repo="scielo", resource_type="index")
+        entry = Link(url=get_page_url(1), repo="scielo", type="index")
 
     print("ENTRY", entry.url)
 
