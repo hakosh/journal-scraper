@@ -1,41 +1,36 @@
-with english as (select a.id,
-                        a.title,
-                        a.journal,
-                        a.pub_year,
-                        a.country,
-                        abs.content as abstract,
-                        cc.lang_cnf as conf,
-                        cc.content  as body
-                 from articles a
-                          left join contents abs on a.id = abs.article_id and abs.type = 'abstract' and abs.lang = 'en'
-                          left join contents_clean cc
-                                    on a.id = cc.article_id and cc.lang = 'en' and cc.lang_det = 'en'),
+with articles as (select id,
+                         title,
+                         title_en,
+                         journal,
+                         pub_year,
+                         country
+                  from main.articles
+                  where country != 'jpn')
 
-     spanish as (select a.id,
-                        a.title,
-                        a.journal,
-                        a.pub_year,
-                        a.country,
-                        abs.content as abstract,
-                        cc.content  as body,
-                        cc.lang_cnf as conf
-                 from articles a
-                          left join contents abs on a.id = abs.article_id and abs.type = 'abstract' and abs.lang = 'es'
-                          left join contents_clean cc on a.id = cc.article_id and cc.lang = 'es' and cc.lang_det = 'es')
-
-select eng.id,
-       eng.title,
-       eng.journal,
-       eng.pub_year,
-       eng.country,
-       eng.abstract as abstract_en,
-       eng.body     as body_en,
-       eng.conf     as body_en_conf,
-       esp.abstract as abstract_es,
-       esp.body     as body_es,
-       esp.conf     as body_es_conf
-from english eng
-         join spanish esp on esp.id = eng.id
-where esp.body is not null
-  and esp.conf >= 0.85
-order by esp.pub_year desc;
+select a.title,
+       a.title_en,
+       a.journal,
+       a.pub_year,
+       a.country,
+       coalesce(abstract_es_clean.content, abstract_es.content) as abstract_es,
+       coalesce(abstract_en_clean.content, abstract_en.content) as abstract_en,
+       body_en.content                                          as body_en,
+       body_en.lang_cnf                                         as body_en_conf,
+       body_es.content                                          as body_es,
+       body_es.lang_cnf                                         as body_es_conf
+from articles a
+         left join contents abstract_es
+                   on a.id = abstract_es.article_id and abstract_es.type = 'abstract' and abstract_es.lang = 'es'
+         left join contents abstract_en
+                   on a.id = abstract_en.article_id and abstract_en.type = 'abstract' and abstract_en.lang = 'en'
+         left join contents_clean abstract_es_clean
+                   on a.id = abstract_es_clean.article_id and abstract_es_clean.type = 'abstract' and
+                      abstract_es_clean.lang = 'es'
+         left join contents_clean abstract_en_clean
+                   on a.id = abstract_en_clean.article_id and abstract_en_clean.type = 'abstract' and
+                      abstract_en_clean.lang = 'en'
+         left join contents_clean body_es
+                   on a.id = body_es.article_id and body_es.type = 'body' and body_es.lang = 'es'
+         left join contents_clean body_en
+                   on a.id = body_en.article_id and body_en.type = 'body' and body_en.lang = 'en'
+where body_es_conf >= 0.80;
