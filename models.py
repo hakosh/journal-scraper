@@ -159,15 +159,20 @@ def save_contents(contents: list[Content], content_type: str):
         })
 
 
-def get_uncleaned_contents(content_type: str, content_format: str) -> list[Content]:
+def get_uncleaned_contents(content_type: str, content_format: str, journal: str) -> list[Content]:
     results = db.conn.execute('''
         SELECT c.article_id, c.type, c.lang, c.format, c.content, c.link
         FROM contents c
+            JOIN articles a on c.article_id = a.id
             LEFT JOIN contents_clean cc ON c.article_id = cc.article_id AND c.lang = cc.lang AND c.type = cc.type
-        WHERE c.type = :type AND c.format = :format AND cc.article_id IS NULL
+        WHERE c.type = :type
+            AND a.journal = :journal
+            AND c.format = :format
+            AND cc.article_id IS NULL
     ''', {
         "type": content_type,
-        "format": content_format
+        "format": content_format,
+        "journal": journal
     })
 
     contents = []
