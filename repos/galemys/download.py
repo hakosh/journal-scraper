@@ -124,7 +124,7 @@ def process_journal(body: str, link: Link) -> list[Link]:
         ))
 
     # PAGINATION
-    pagination = soup.find("div", {"class": "pagination"})
+    pagination = soup.find("ul", {"class": "pagination"})
     if not pagination:
         return links
 
