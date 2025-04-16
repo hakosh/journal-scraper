@@ -1,6 +1,8 @@
 import sys
 
 import db
+from repos.barbastella.download import download_barbastella
+from repos.barbastella.transform import transform_barbastella
 from repos.galemys.download import download_galemys
 from repos.galemys.transform import transform_galemys
 from repos.jstage.download import download_jstage
@@ -17,6 +19,14 @@ if len(sys.argv) <= 1:
 mode = sys.argv[1]
 
 match mode:
+    case "sync-barbastella":
+        print("sync-barbastella")
+        download_barbastella()
+
+    case "transform-barbastella":
+        print("transform-barbastella")
+        transform_barbastella()
+
     case "sync-galemys":
         print("sync-galemys")
         download_galemys()
