@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 
 from articles import exists
 from crawler import Crawler
+from lang import get_lang
 from models import reset_running, Link, save_article, Article, save_contents, Content
 from retry import retry
 
@@ -49,7 +50,14 @@ def process_article(body: str, link: Link) -> list[Link]:
     if len(titles) > 1:
         title_en, title_es = titles
     else:
-        title_en, title_es = None, titles[0]
+        title_en, title_es = "", titles[0]
+
+    title_es = title_es.replace("\n", " ").strip()
+    title_en = title_en.replace("\n", " ").strip()
+
+    title_lang, _ = get_lang(title_es)
+    if title_lang == "en":
+        title_es, title_en = title_en, title_en
 
     pub_year = soup.find("div", {"class": "field--name-field-copyrightyear"}).get_text()
 
