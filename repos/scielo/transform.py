@@ -1,66 +1,11 @@
 import html
 import re
-from html import unescape
 
 from bs4 import BeautifulSoup, Tag
-from fasttext.FastText import _FastText
 from htmlmin import minify
 
+from lang import get_lang
 from models import get_uncleaned_contents, save_clean_content, CleanContent, Content
-
-model_path = 'lid.176.ftz'
-model = _FastText(model_path=model_path)
-
-
-def get_lang(text: str) -> (str, float):
-    lang, conf = model.predict(text)
-    lang = lang[0].removeprefix('__label__')
-    conf = conf[0]
-
-    return lang, conf
-
-
-def clean_xml(content: Content) -> CleanContent:
-    print("CONTENT", content.article_id, content.lang)
-    soup = BeautifulSoup(content.content, features="xml")
-    bodies = soup.find("article").find_all("body")
-    print("COUNT", len(bodies))
-    strings = []
-
-    for body_raw in bodies:
-        body = unescape(body_raw.get_text())
-        # print("PARSING", body)
-
-        body_soup = BeautifulSoup(body, 'html.parser')
-        for string in body_soup.stripped_strings:
-            strings.append(string)
-
-    # print("extracted body")
-    # for string in strings:
-    #     print(string)
-
-    clean_body = " ".join(strings)
-    print("CLEAN", clean_body)
-    lang_det, lang_cnf = get_lang(clean_body)
-
-    return CleanContent(
-        article_id=content.article_id,
-        lang=content.lang,
-        lang_det=lang_det,
-        lang_cnf=lang_cnf,
-        content=" ".join(strings),
-        type="body"
-    )
-
-
-def transform_xml_bodies():
-    contents = get_uncleaned_contents("body", "xml")
-
-    for content in contents:
-        cleaned = clean_xml(content)
-        save_clean_content(cleaned)
-
-    print(f'cleaned {len(contents)} resources')
 
 
 def remove_citations_tags(doc: Tag):
@@ -201,6 +146,5 @@ def transform_html_bodies():
 
 
 def transform_scielo():
-    # transform_xml_bodies()
     transform_html_bodies()
     # transform_abstracts()

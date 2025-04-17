@@ -1,5 +1,5 @@
+from lang import get_lang
 from models import get_uncleaned_contents, save_clean_content, CleanContent
-from repos.barbastella.download import get_lang
 
 
 def transform_abstracts():

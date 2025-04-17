@@ -33,4 +33,5 @@ from articles a
                    on a.id = body_es.article_id and body_es.type = 'body' and body_es.lang = 'es'
          left join contents_clean body_en
                    on a.id = body_en.article_id and body_en.type = 'body' and body_en.lang = 'en'
-where body_es_conf >= 0.80;
+where (body_es is null and body_en is null)
+   or body_es_conf >= 0.8;

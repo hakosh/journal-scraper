@@ -4,23 +4,11 @@ import re
 
 import aiohttp
 from bs4 import BeautifulSoup
-from fasttext.FastText import _FastText
 
 from crawler import Crawler
+from lang import get_lang
 from models import reset_running, Link, Article, Content, save_article, save_contents
 from retry import retry
-
-model_path = 'lid.176.ftz'
-model = _FastText(model_path=model_path)
-
-
-def get_lang(text: str) -> (str, float):
-    lang, conf = model.predict(text)
-    lang = lang[0].removeprefix('__label__')
-    conf = conf[0]
-
-    return lang, conf
-
 
 year_by_issue = {}
 

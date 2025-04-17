@@ -1,9 +1,5 @@
-from fasttext.FastText import _FastText
-
+from lang import get_lang
 from models import CleanContent, get_uncleaned_contents, save_clean_content
-
-model_path = 'lid.176.ftz'
-model = _FastText(model_path=model_path)
 
 
 def transform_local():
@@ -20,11 +16,3 @@ def transform_local():
             lang_cnf=conf,
             content=body
         ))
-
-
-def get_lang(text: str) -> (str, float):
-    lang, conf = model.predict(text)
-    lang = lang[0].removeprefix('__label__')
-    conf = conf[0]
-
-    return lang, conf
